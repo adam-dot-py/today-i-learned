@@ -12,7 +12,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## **Markdown**
 
-- [Quotes](Markdown\quote.md)
+- [Quotes](Markdown/quote.md)
 
 ## **Python**
 
