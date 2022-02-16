@@ -11,7 +11,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - SQL
 ---
 
-# **Markdown**
+#Markdown
 
 - [How to quote](Markdown/quote.md)
 - [Formatting Code](Markdown/formatting_code.md)
