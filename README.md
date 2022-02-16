@@ -5,14 +5,14 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## **Categories**
 
-- [Markdown](#python)
+- [Markdown](#markdown)
 - Python
 - Power BI
 - SQL
 
 ---
 
-#Markdown
+## **Markdown**
 
 - [How to quote](Markdown/quote.md)
 - [Formatting Code](Markdown/formatting_code.md)
