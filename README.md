@@ -5,9 +5,9 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## **Categories**
 
-- Markdown
+- (Markdown)[##Markdown]
 - Python
-- Power BI
+- (Power BI)[##Power-BI]
 - SQL
 ---
 
