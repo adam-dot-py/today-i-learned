@@ -5,7 +5,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## **Categories**
 
-- Markdown
+- [Markdown](#python)
 - Python
 - Power BI
 - SQL
