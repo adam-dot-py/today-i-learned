@@ -6,9 +6,9 @@ This is a collection of comprehensive but small write ups of small things I lear
 ## **Categories**
 
 - [Markdown](#markdown)
-- Python
-- Power BI
-- SQL
+- [Python](#python)
+- [Power BI](#power-bi)
+- [SQL](#sql)
 
 ---
 
@@ -28,7 +28,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Limit a dataframe by rows or columns](Pandas/restrict_dataframe_by_rows_columns.md)
 - [Convert string column to datetime](Pandas/convert_column_to_datetime.md)
 
-#Power BI
+## **Power BI**
 
 - [Returning icons as conditional formatting](PowerBI/returning_icons.md)
 
