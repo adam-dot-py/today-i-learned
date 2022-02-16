@@ -3,7 +3,7 @@
 Pandas can pull tables from websites in combination with the requests module. 
 
 
-```
+```python
 import requests
 import pandas as pd
 
