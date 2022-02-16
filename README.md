@@ -7,6 +7,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 - Markdown
 - Python
+- Power BI
 - SQL
 ---
 
