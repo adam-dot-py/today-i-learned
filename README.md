@@ -10,7 +10,6 @@ This is a collection of comprehensive but small write ups of small things I lear
 - Power BI
 - SQL
 
-[Power BI](#Power-BI)
 ---
 
 #Markdown
