@@ -6,7 +6,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 ## **Categories**
 
 - [Markdown](#markdown)
-- [Python](#python)
+- [Pandas](#pandas)
 - [Power BI](#power-bi)
 - [SQL](#sql)
 
@@ -17,7 +17,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [How to quote](Markdown/quote.md)
 - [Formatting Code](Markdown/formatting_code.md)
 
-## **Python**
+## **Pandas**
 
 - [Pull tables from websites into Dataframes](Pandas/pull_table_from_webpage.md)
 - [Construct a dataframe from a dictionary](Pandas/construct_dataframe_from_dictionary.md)
