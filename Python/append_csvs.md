@@ -4,7 +4,7 @@ Using `Python`, you can easily append multiple CSV files into one `Dataframe`, w
 
 In the below example, it uses `glob` to grab all files in a directory with a given `extension`, in this case a `CSV`. 
 
-It's important that the column headers match, others new columns will be created with alias names. 
+It's important that the column headers match, otherwise new columns will be created with alias names. 
 
 ```Python
 extension = 'csv'
