@@ -5,13 +5,23 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## **Categories**
 
+- [Databricks](#databricks)
+- [Excel](#excel)
 - [Markdown](#markdown)
 - [Pandas](#pandas)
 - [Power BI](#power-bi)
+- [Python](#python)
 - [SQL](#sql)
 
 ---
 
+## **Databricks**
+
+## **Excel**
+
+- [Calculating CAGR](Excel/calculating_cagr.md)
+- [Forecasting with CAGR](Excel/forecasting_with_cagr.md)
+- [Formatting numbers to include seperators](Excel/formatting_numbers.md)
 ## **Markdown**
 
 - [How to quote](Markdown/quote.md)
@@ -27,6 +37,9 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Format floats using Pandas options](Pandas/float_display_format.md)
 - [Limit a dataframe by rows or columns](Pandas/restrict_dataframe_by_rows_columns.md)
 - [Convert string column to datetime](Pandas/convert_column_to_datetime.md)
+
+## **Python**
+- [Append CSV's](Python/append_csvs.md)
 
 ## **Power BI**
 
