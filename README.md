@@ -34,14 +34,14 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Format floats using Pandas options](Pandas/float_display_format.md)
 - [Limit a dataframe by rows or columns](Pandas/restrict_dataframe_by_rows_columns.md)
 - [Pull tables from websites into Dataframes](Pandas/pull_table_from_webpage.md)
-- [Using shape](Pandas/dataframe_shape.md)
-- [Using loc & iloc](Pandas/using_loc.md)
 
 ## **Python**
-- [Access columns](Pandas/access_columns.md)
+- [Access columns](Python/access_columns.md)
 - [Append CSV's](Python/append_csvs.md)
 - [Create a calculated column](Python/create_a_calculate_column.md)
 - [Send an email](Python/send_email.md)
+- [Using loc & iloc](Python/using_loc.md)
+- [Using shape](Python/dataframe_shape.md)
 
 
 ## **Power BI**
