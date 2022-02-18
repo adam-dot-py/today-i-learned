@@ -1,5 +1,4 @@
-# :bulb: TIL
-> Today I Learned
+# :bulb: Learning Journal
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!  
 
@@ -40,6 +39,8 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## **Python**
 - [Append CSV's](Python/append_csvs.md)
+- [Insert a character into a string](Python/inserting_character_into_string.md)
+- [Send an email](Python/send_email.md)
 
 ## **Power BI**
 
