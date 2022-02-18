@@ -1,6 +1,6 @@
 # :bulb: Learning Journal
 
-This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!  
+This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork! :+1:
 
 ## **Categories**
 
