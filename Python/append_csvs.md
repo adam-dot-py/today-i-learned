@@ -16,3 +16,15 @@ combined_csv.sort_values(by=['studyPeriodCode'], ascending=True)
 #export to csv
 combined_csv.to_csv( "combined_csv.csv", index=False, encoding='utf-8-sig')
 ```
+
+You can also do it this way: 
+
+```python
+data = []
+
+for x in all_files:
+    frame = pd.read_csv(x)
+    data.append(frame)
+
+df = pd.concat(data)
+```
