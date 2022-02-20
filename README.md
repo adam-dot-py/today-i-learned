@@ -40,6 +40,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Append CSV's](Python/append_csvs.md)
 - [Create a calculated column](Python/create_a_calculate_column.md)
 - [Insert characters into a string](Python/insert_characters_into_string.md)
+- [Merge PDFs](Python/merge_pdfs.md)
 - [Send an email](Python/send_email.md)
 - [Using loc & iloc](Python/using_loc.md)
 - [Using shape](Python/dataframe_shape.md)
