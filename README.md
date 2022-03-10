@@ -21,6 +21,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Calculating CAGR](Excel/calculating_cagr.md)
 - [Forecasting with CAGR](Excel/forecasting_with_cagr.md)
 - [Formatting numbers to include seperators](Excel/formatting_numbers.md)
+- [Formating using conditional formatting](Excel/conditional_formatting_row.md)
 
 ## **Markdown**
 - [How to quote](Markdown/quote.md)
@@ -38,13 +39,13 @@ This is a collection of comprehensive but small write ups of small things I lear
 ## **Python**
 - [Access columns](Python/access_columns.md)
 - [Append CSV's](Python/append_csvs.md)
+- [Calculate an average](Python/calculate_average.md)
 - [Create a calculated column](Python/create_a_calculate_column.md)
 - [Insert characters into a string](Python/insert_characters_into_string.md)
 - [Merge PDFs](Python/merge_pdfs.md)
 - [Send an email](Python/send_email.md)
 - [Using loc & iloc](Python/using_loc.md)
 - [Using shape](Python/dataframe_shape.md)
-
 
 ## **Power BI**
 - [Returning icons as conditional formatting](PowerBI/returning_icons.md)
