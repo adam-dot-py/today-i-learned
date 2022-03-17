@@ -36,6 +36,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Format floats using Pandas options](Pandas/float_display_format.md)
 - [Limit a dataframe by rows or columns](Pandas/restrict_dataframe_by_rows_columns.md)
 - [Pull tables from websites into Dataframes](Pandas/pull_table_from_webpage.md)
+- [Remove spaces in column headers](Pandas/remove_spaces_from_columns.md)
 - [Replace a column value with a value from another column](Pandas/replace_value_with_value_from_column.md)
 
 ## **Python**
