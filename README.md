@@ -46,6 +46,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Create a calculated column](Python/create_a_calculate_column.md)
 - [Pull Survey IDs and Names from SurveyMonkey Account](Python/get_surveys_from_surveymonkey.md)
 - [Insert characters into a string](Python/insert_characters_into_string.md)
+- [Introspection](Python/introspection.md)
 - [Merge PDFs](Python/merge_pdfs.md)
 - [Send an email](Python/send_email.md)
 - [Using loc & iloc](Python/using_loc.md)
