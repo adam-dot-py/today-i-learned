@@ -48,6 +48,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Insert characters into a string](Python/insert_characters_into_string.md)
 - [Introspection](Python/introspection.md)
 - [Merge PDFs](Python/merge_pdfs.md)
+- [Saving, running and loading files in iPython](Python/save_files_ipython.md)
 - [Send an email](Python/send_email.md)
 - [Using loc & iloc](Python/using_loc.md)
 - [Using shape](Python/dataframe_shape.md)
