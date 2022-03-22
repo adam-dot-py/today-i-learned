@@ -11,6 +11,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Pandas](#pandas)
 - [Power BI](#power-bi)
 - [Python](#python)
+- [Spark](#spark)
 - [SQL](#sql)
 - [VBA](#vba)
 
@@ -29,6 +30,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Formatting Code](Markdown/formatting_code.md)
 
 ## **Pandas**
+- [Change data type of multiple columns at once](Pandas/change_data_type_multiple_columns.md)
 - [Combining columns](Pandas/combining_columns.md)
 - [Construct a dataframe from a dictionary](Pandas/construct_dataframe_from_dictionary.md)
 - [Convert string column to datetime](Pandas/convert_column_to_datetime.md)
@@ -56,6 +58,9 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## **Power BI**
 - [Returning icons as conditional formatting](PowerBI/returning_icons.md)
+
+## **Spark**
+- [Convert a Pandas dataframe to a Spark dataframe]
 
 
 ## **SQL**
