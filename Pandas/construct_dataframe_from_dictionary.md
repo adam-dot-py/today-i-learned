@@ -7,3 +7,21 @@ d = {'col1': [1, 2], 'col2': [3, 4]}
 
 df = pd.DataFrame(data=d)
 ```
+
+Where there is no list values for the keys, it makes more sense to construct a dataframe using the `pd.Series` method: 
+
+```python
+questions = dict(zip(question_id, question_text))
+
+df = pd.Series(questions, name="QuestionText")
+df.index.name = "QuestionID"
+df = df.reset_index()
+```
+
+This will produce a dataframe. 
+
+You can also do it using the items method: 
+
+```python
+df = pd.Dataframe(questions.items(), columns=['QuestionID','QuestionText'])
+```
