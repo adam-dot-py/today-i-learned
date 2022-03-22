@@ -60,7 +60,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Returning icons as conditional formatting](PowerBI/returning_icons.md)
 
 ## **Spark**
-- [Convert a Pandas dataframe to a Spark dataframe]
+- [Convert a Pandas dataframe to a Spark dataframe](Spark/convert_pandas_to_spark.md)
 
 
 ## **SQL**
