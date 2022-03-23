@@ -60,7 +60,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Send an email](Python/send_email.md)
 - [Using loc & iloc](Python/using_loc.md)
 - [Using shape](Python/dataframe_shape.md)
-- [Write and read files](Python/write_and_read_files.md)
+- [Write, read and append files](Python/write_and_read_files.md)
 
 ## Power BI
 
