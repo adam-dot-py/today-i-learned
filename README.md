@@ -2,7 +2,9 @@
 
 > Today I Learned
 
-This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!  
+This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
+
+> There are 36 TIL's so far! :confetti_ball:
 
 ## Categories
 
@@ -38,19 +40,24 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Combining columns](Pandas/combining_columns.md)
 - [Construct a dataframe from a dictionary](Pandas/construct_dataframe_from_dictionary.md)
 - [Convert string column to datetime](Pandas/convert_column_to_datetime.md)
+- [Convert a dataframe to a dictionary](Pandas/convert_dataframe_to_dict.md)
 - [Drop rows that are not integers](Pandas/drop_rows_not_integers.md)
 - [Filter Dataframes](Pandas/filter_dataframe.md)
 - [Format floats using Pandas options](Pandas/float_display_format.md)
+- [Keep only NaN values in a dataframe](Pandas/keep_only_nan_values.md)
 - [Limit a dataframe by rows or columns](Pandas/restrict_dataframe_by_rows_columns.md)
 - [Pull tables from websites into Dataframes](Pandas/pull_table_from_webpage.md)
 - [Remove spaces in column headers](Pandas/remove_spaces_from_columns.md)
+- [Rename columns](Pandas/rename_columns.md)
 - [Replace a column value with a value from another column](Pandas/replace_value_with_value_from_column.md)
 
 ## Python
 
 - [Access columns](Python/access_columns.md)
+- [Add percentage symbol to values](Python/add_percentage_symbol.md)
 - [Append CSV's](Python/append_csvs.md)
 - [Calculate an average](Python/calculate_average.md)
+- [Count the number of files in a directory](Python/count_files_in_directory.md)
 - [Create a calculated column](Python/create_a_calculate_column.md)
 - [Pull Survey IDs and Names from SurveyMonkey Account](Python/get_surveys_from_surveymonkey.md)
 - [Insert characters into a string](Python/insert_characters_into_string.md)
@@ -58,6 +65,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Merge PDFs](Python/merge_pdfs.md)
 - [Saving, running and loading files in iPython](Python/save_files_ipython.md)
 - [Send an email](Python/send_email.md)
+- [Subtracting or adding dates together](Python/subtracting_or_adding_dates.md)
 - [Using loc & iloc](Python/using_loc.md)
 - [Using shape](Python/dataframe_shape.md)
 - [Write, read and append files](Python/write_and_read_files.md)
