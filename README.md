@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> There are 36 TIL's so far! :confetti_ball:
+> There are 40 TIL's so far! :confetti_ball:
 
 ## Categories
 
