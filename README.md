@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> There are 40 TIL's so far! :confetti_ball:
+> There are 47 TIL's so far! :confetti_ball:
 
 ## Categories
 
@@ -12,6 +12,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Excel](#excel)
 - [Markdown](#markdown)
 - [Pandas](#pandas)
+- [Plotting](#plotting)
 - [Power BI](#power-bi)
 - [Python](#python)
 - [Spark](#spark)
@@ -33,6 +34,15 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 - [How to quote](Markdown/quote.md)
 - [Formatting Code](Markdown/formatting_code.md)
+
+## Plotting
+
+- [Add plot labels](/Plotting/add_bar_labels.md)
+- [Add titles](/Plotting/add_titles.md)
+- [Change bar colours](/Plotting/colors.md)
+- [Create boxplots](/Plotting/create_boxplots.md)
+- [Create countplots](/Plotting/create_countplot.md)
+- [Rotate x labels](/Plotting/rotate_xlabels.md)
 
 ## Pandas
 
@@ -61,6 +71,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Create a calculated column](Python/create_a_calculate_column.md)
 - [Pull Survey IDs and Names from SurveyMonkey Account](Python/get_surveys_from_surveymonkey.md)
 - [Insert characters into a string](Python/insert_characters_into_string.md)
+- [Integer division](Python/integer_division.md)
 - [Introspection](Python/introspection.md)
 - [Merge PDFs](Python/merge_pdfs.md)
 - [Saving, running and loading files in iPython](Python/save_files_ipython.md)
