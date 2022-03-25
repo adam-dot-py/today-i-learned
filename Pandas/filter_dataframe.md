@@ -4,14 +4,14 @@ You can filter dataframes in Pandas in multiple ways:
 
 ## Example 1
 
-Uses slicing with filter statements
+Uses slicing with filter statements, and can make use of either AND `&` or `|` OR statements.
 
 ```python
 data = {'origin': ["JFK", "MAN"], 'carrier': ["B6", "B7"]}
 
 df = pd.DataFrame(data=data)
 
-new_df = df[(df.origin == 'JFK') & (df.carrier == 'B6')]
+new_df = df[(df.origin == 'JFK') | (df.origin == 'MAN' & (df.carrier == 'B6')]
 ```
 
 ## Example 2
