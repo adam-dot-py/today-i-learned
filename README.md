@@ -4,7 +4,14 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> There are 47 TIL's so far! :confetti_ball:
+> There are 50 TIL's so far! :confetti_ball:
+
+## Tracking
+
+- [x] 50 TILs - :calendar: 28/03/2022
+- [ ] 100 TILs
+- [ ] 150 TILs
+- [ ] 200 TILs
 
 ## Categories
 
@@ -27,6 +34,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 - [Calculating CAGR](Excel/calculating_cagr.md)
 - [Forecasting with CAGR](Excel/forecasting_with_cagr.md)
+- [Calculating Margin of Error](/Excel/calculating_margin_of_error.md)
 - [Formatting numbers to include seperators](Excel/formatting_numbers.md)
 - [Formating using conditional formatting](Excel/conditional_formatting_row.md)
 
@@ -42,6 +50,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Change bar colours](/Plotting/colors.md)
 - [Create boxplots](/Plotting/create_boxplots.md)
 - [Create countplots](/Plotting/create_countplot.md)
+- [Moving the legend](/Plotting/moving_legend.md)
 - [Rotate x labels](/Plotting/rotate_xlabels.md)
 
 ## Pandas
@@ -60,6 +69,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Remove spaces in column headers](Pandas/remove_spaces_from_columns.md)
 - [Rename columns](Pandas/rename_columns.md)
 - [Replace a column value with a value from another column](Pandas/replace_value_with_value_from_column.md)
+- [Adding a square root column or find the square root of a value](/Pandas/square_root.md)
 
 ## Python
 
