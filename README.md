@@ -9,8 +9,11 @@ This is a collection of comprehensive but small write ups of small things I lear
 ## Tracking
 
 - [x] 50 TILs - :calendar: 28/03/2022
+- [ ] 75 TILs
 - [ ] 100 TILs
+- [ ] 125 TILs
 - [ ] 150 TILs
+- [ ] 175 TILs
 - [ ] 200 TILs
 
 ## Categories
