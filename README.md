@@ -113,4 +113,4 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## VBA
 
-- [Split a sheet to to multiple sheets (tabs)](VBA/split_sheet_to_multiple.md)
+- [Split a sheet to multiple sheets (tabs)](VBA/split_sheet_to_multiple.md)
