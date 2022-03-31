@@ -1,4 +1,4 @@
-# Constructing a Dataframe From a Dictionary
+# Constructing a DataFrame From a Dictionary
 
 You can create a dataframe in Python using Pandas from a dictionary. You construct it in the same way standard dictionaries are constructured.
 

@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> There are 50 TIL's so far! :confetti_ball:
+> There are 57 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -58,28 +58,33 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## Pandas
 
+- [Adding a square root column or find the square root of a value](/Pandas/square_root.md)
 - [Change data type of multiple columns at once](Pandas/change_data_type_multiple_columns.md)
 - [Combining columns](Pandas/combining_columns.md)
-- [Construct a dataframe from a dictionary](Pandas/construct_dataframe_from_dictionary.md)
+- [Construct a DataFrame from a dictionary](Pandas/construct_dataframe_from_dictionary.md)
+- [Construct a DataFrame from a list](/Pandas/construct_dataframe_from_list.md)
 - [Convert string column to datetime](Pandas/convert_column_to_datetime.md)
 - [Convert a dataframe to a dictionary](Pandas/convert_dataframe_to_dict.md)
 - [Drop rows that are not integers](Pandas/drop_rows_not_integers.md)
 - [Filter Dataframes](Pandas/filter_dataframe.md)
 - [Format floats using Pandas options](Pandas/float_display_format.md)
+- [Insert a column into a dataframe](/Pandas/insert_column.md)
 - [Keep only NaN values in a dataframe](Pandas/keep_only_nan_values.md)
+- [Merge DataFrames and update values](/Pandas/merge_dataframes_update_values.md)
 - [Limit a dataframe by rows or columns](Pandas/restrict_dataframe_by_rows_columns.md)
 - [Pull tables from websites into Dataframes](Pandas/pull_table_from_webpage.md)
 - [Remove spaces in column headers](Pandas/remove_spaces_from_columns.md)
 - [Rename columns](Pandas/rename_columns.md)
 - [Replace a column value with a value from another column](Pandas/replace_value_with_value_from_column.md)
-- [Adding a square root column or find the square root of a value](/Pandas/square_root.md)
 
 ## Python
 
 - [Access columns](Python/access_columns.md)
 - [Add percentage symbol to values](Python/add_percentage_symbol.md)
+- [Adding to and updating dictionaries](/Python/update_dictionary.md)
 - [Append CSV's](Python/append_csvs.md)
 - [Calculate an average](Python/calculate_average.md)
+- [Using classes](/Python/classes.md)
 - [Count the number of files in a directory](Python/count_files_in_directory.md)
 - [Create a calculated column](Python/create_a_calculate_column.md)
 - [Pull Survey IDs and Names from SurveyMonkey Account](Python/get_surveys_from_surveymonkey.md)
@@ -96,11 +101,13 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## Power BI
 
+- [Create a table using Python](/PowerBI/create_a_table_using_python.md)
 - [Returning icons as conditional formatting](PowerBI/returning_icons.md)
 
 ## Spark
 
 - [Convert a Pandas dataframe to a Spark dataframe](Spark/convert_pandas_to_spark.md)
+- [Add a column to a DataFrame](/Spark/add_column_to_dataframe.md)
 
 ## SQL
 
