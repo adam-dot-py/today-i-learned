@@ -1,6 +1,6 @@
-## Dropping rows that are not integers (numbers)
+# Dropping rows that are not integers (numbers)
 
-In Pandas, you can easily drop rows that are not integers by using the `isdigit` function. The example below pulls data from The Guardian's University Rankings Table, but the initial `dataframe` has rows with column headers parsed together. 
+In Pandas, you can easily drop rows that are not integers by using the `isdigit` function. The example below pulls data from The Guardian's University Rankings Table, but the initial `dataframe` has rows with column headers parsed together.
 
 ```python
 
