@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> There are 57 TIL's so far! :confetti_ball:
+> There are 60 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -58,6 +58,8 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## Pandas
 
+- [Add a cumulative sum column to a DataFrame](/Pandas/add_cumulative_sum_column.md)
+- [Add a difference column to a DataFrame](/Pandas/add_difference_column.md)
 - [Adding a square root column or find the square root of a value](/Pandas/square_root.md)
 - [Change data type of multiple columns at once](Pandas/change_data_type_multiple_columns.md)
 - [Combining columns](Pandas/combining_columns.md)
@@ -76,6 +78,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Remove spaces in column headers](Pandas/remove_spaces_from_columns.md)
 - [Rename columns](Pandas/rename_columns.md)
 - [Replace a column value with a value from another column](Pandas/replace_value_with_value_from_column.md)
+- [Sum rows in a DataFrame](/Pandas/sum_rows.md)
 
 ## Python
 
