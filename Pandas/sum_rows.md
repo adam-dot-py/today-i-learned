@@ -7,8 +7,8 @@ These two methods show how to sum all rows and selected rows.
 ## Sum all rows
 
 ```python
-# Create a DataFrame of random numbers between 0 and 100, with 20 rows and 4 columns.
-df = pd.DataFrame(np.random.randint(0,100, size=(20,4)), columns=list('ABCD'))
+# Create a DataFrame of random numbers between 0 and 100, with 5 rows and 4 columns.
+df = pd.DataFrame(np.random.randint(0,100, size=(5,4)), columns=list('ABCD'))
 
 # Create a new column comprised of the summed rows
 df['E'] = df.sum(axis=1)
