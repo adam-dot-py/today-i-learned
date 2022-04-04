@@ -33,6 +33,8 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## Databricks
 
+- [Using widgets](/Databricks/using_widgets.md)
+
 ## Excel
 
 - [Calculating CAGR](Excel/calculating_cagr.md)
@@ -50,6 +52,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 - [Add plot labels](/Plotting/add_bar_labels.md)
 - [Add titles](/Plotting/add_titles.md)
+- [Annotate Plots](/Plotting/annotate_plots.md)
 - [Change bar colours](/Plotting/colors.md)
 - [Create boxplots](/Plotting/create_boxplots.md)
 - [Create countplots](/Plotting/create_countplot.md)
@@ -66,7 +69,9 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Construct a DataFrame from a dictionary](Pandas/construct_dataframe_from_dictionary.md)
 - [Construct a DataFrame from a list](/Pandas/construct_dataframe_from_list.md)
 - [Convert string column to datetime](Pandas/convert_column_to_datetime.md)
-- [Convert a dataframe to a dictionary](Pandas/convert_dataframe_to_dict.md)
+- [Convert a DataFrame to a dictionary](Pandas/convert_dataframe_to_dict.md)
+- [Convert a DataFrame to a text file](/Pandas/convert_dataframe_to_text.txt)
+- [Convert value counts to a DataFrame](/Pandas/convert_value_counts_to_dataframe.md)
 - [Drop rows that are not integers](Pandas/drop_rows_not_integers.md)
 - [Filter Dataframes](Pandas/filter_dataframe.md)
 - [Format floats using Pandas options](Pandas/float_display_format.md)
@@ -79,10 +84,12 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Rename columns](Pandas/rename_columns.md)
 - [Replace a column value with a value from another column](Pandas/replace_value_with_value_from_column.md)
 - [Sum rows in a DataFrame](/Pandas/sum_rows.md)
+- [Write Dataframes to Excel](/Pandas/write_dataframes_to_excel.md)
 
 ## Python
 
 - [Access columns](Python/access_columns.md)
+- [Access values in a nested dictionary](/Python/access_values_nested_dictionary.md)
 - [Add percentage symbol to values](Python/add_percentage_symbol.md)
 - [Adding to and updating dictionaries](/Python/update_dictionary.md)
 - [Append CSV's](Python/append_csvs.md)
@@ -98,6 +105,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Saving, running and loading files in iPython](Python/save_files_ipython.md)
 - [Send an email](Python/send_email.md)
 - [Subtracting or adding dates together](Python/subtracting_or_adding_dates.md)
+- [Using enumerate](/Python/using_enumerate.md)
 - [Using loc & iloc](Python/using_loc.md)
 - [Using shape](Python/dataframe_shape.md)
 - [Write, read and append files](Python/write_and_read_files.md)
