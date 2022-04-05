@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> There are 60 TIL's so far! :confetti_ball:
+> There are 69 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -47,6 +47,10 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 - [How to quote](Markdown/quote.md)
 - [Formatting Code](Markdown/formatting_code.md)
+
+## iPython
+
+- [Saving, running and loading files in iPython](Python/save_files_ipython.md)
 
 ## Plotting
 
@@ -102,7 +106,6 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Integer division](Python/integer_division.md)
 - [Introspection](Python/introspection.md)
 - [Merge PDFs](Python/merge_pdfs.md)
-- [Saving, running and loading files in iPython](Python/save_files_ipython.md)
 - [Send an email](Python/send_email.md)
 - [Subtracting or adding dates together](Python/subtracting_or_adding_dates.md)
 - [Using enumerate](/Python/using_enumerate.md)
