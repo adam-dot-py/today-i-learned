@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> There are 69 TIL's so far! :confetti_ball:
+> There are 73 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -18,7 +18,9 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## Categories
 
+- [Command Prompt](#command-prompt)
 - [Databricks](#databricks)
+- [Dax](#dax)
 - [Excel](#excel)
 - [Markdown](#markdown)
 - [Pandas](#pandas)
@@ -31,9 +33,18 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ---
 
+## Command Prompt
+
+- [Make a new directory](/command_prompt/make_new_directory.md)
+
 ## Databricks
 
 - [Using widgets](/Databricks/using_widgets.md)
+- [Search for students](/Databricks/search_for_students.md)
+
+## DAX
+
+- [Add comments to measures](/DAX/add_comments.md)
 
 ## Excel
 
@@ -98,7 +109,6 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Adding to and updating dictionaries](/Python/update_dictionary.md)
 - [Append CSV's](Python/append_csvs.md)
 - [Calculate an average](Python/calculate_average.md)
-- [Using classes](/Python/classes.md)
 - [Count the number of files in a directory](Python/count_files_in_directory.md)
 - [Create a calculated column](Python/create_a_calculate_column.md)
 - [Pull Survey IDs and Names from SurveyMonkey Account](Python/get_surveys_from_surveymonkey.md)
@@ -108,6 +118,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Merge PDFs](Python/merge_pdfs.md)
 - [Send an email](Python/send_email.md)
 - [Subtracting or adding dates together](Python/subtracting_or_adding_dates.md)
+- [Using classes](/Python/classes.md)
 - [Using enumerate](/Python/using_enumerate.md)
 - [Using loc & iloc](Python/using_loc.md)
 - [Using shape](Python/dataframe_shape.md)
@@ -115,8 +126,8 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## Power BI
 
-- [Create a table using Python](/PowerBI/create_a_table_using_python.md)
-- [Returning icons as conditional formatting](PowerBI/returning_icons.md)
+- [Create a table using Python](/power_bi/create_a_table_using_python.md)
+- [Returning icons as conditional formatting](/power_bi/returning_icons.md)
 
 ## Spark
 
@@ -124,6 +135,8 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Add a column to a DataFrame](/Spark/add_column_to_dataframe.md)
 
 ## SQL
+
+- [Create a table](/SQL/create_tables.md)
 
 ## VBA
 
