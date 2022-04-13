@@ -4,12 +4,12 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> There are 74 TIL's so far! :confetti_ball:
+> There are 77 TIL's so far! :confetti_ball:
 
 ## Tracking
 
 - [x] 50 TILs - :calendar: 28/03/2022
-- [ ] 75 TILs
+- [x] 75 TILs - :calendar: 13/04/2022
 - [ ] 100 TILs
 - [ ] 125 TILs
 - [ ] 150 TILs
@@ -23,6 +23,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Dax](#dax)
 - [Excel](#excel)
 - [Markdown](#markdown)
+- [mysql](#mysql)
 - [Pandas](#pandas)
 - [Plotting](#plotting)
 - [Power BI](#power-bi)
@@ -75,6 +76,10 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Moving the legend](/Plotting/moving_legend.md)
 - [Rotate x labels](/Plotting/rotate_xlabels.md)
 
+## mysql
+
+- [Connecting to a database](/mysql/connecting_to_database.md)
+
 ## Pandas
 
 - [Add a cumulative sum column to a DataFrame](/Pandas/add_cumulative_sum_column.md)
@@ -94,12 +99,14 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Insert a column into a dataframe](/Pandas/insert_column.md)
 - [Keep only NaN values in a dataframe](Pandas/keep_only_nan_values.md)
 - [Merge DataFrames and update values](/Pandas/merge_dataframes_update_values.md)
+- [Merge DataFrames together](/Pandas/merge_dataframes.md)
 - [Limit a dataframe by rows or columns](Pandas/restrict_dataframe_by_rows_columns.md)
 - [Pull tables from websites into Dataframes](Pandas/pull_table_from_webpage.md)
 - [Remove spaces in column headers](Pandas/remove_spaces_from_columns.md)
 - [Rename columns](Pandas/rename_columns.md)
 - [Replace a column value with a value from another column](Pandas/replace_value_with_value_from_column.md)
 - [Sum rows in a DataFrame](/Pandas/sum_rows.md)
+- [Using Group By](/Pandas/using_groupby.md)
 - [Write Dataframes to Excel](/Pandas/write_dataframes_to_excel.md)
 
 ## Python
@@ -137,6 +144,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## SQL
 
+- [Alter a table](/SQL/alter_tables.md)
 - [Create a table](/SQL/create_tables.md)
 
 ## VBA

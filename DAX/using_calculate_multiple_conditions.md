@@ -1,6 +1,6 @@
 # Using Calculate with multiple conditions
 
-The operatot `||` indicates `OR`.
+The operator `||` indicates `OR`.
 
 ```dax
 Red or Contoso Sales :=
