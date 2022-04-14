@@ -31,7 +31,7 @@ frames = {'df1' : df1,
 with zp.ZipFile('zip.zip', 'w') as zipF:
     csvs = []
     # Create CSVs then write them to a zip
-    for i in range(1, len(frames) + 1): # we plus 1 to get [0,1,2,3,4] instead of [0,1,2] as values from 1 are used to match to the dictionary
+    for i in range(1, len(frames) + 1): # we plus 1 to get [1,2,3] instead of [0,1,2] as values from 1 are used to match to the dictionary. It changes the index start.
         frame = frames['df' + str(i)] # df0 would not match, but df1 does.
         frame.to_csv("df" + str(i) + ".csv")
         csvs.append("df" + str(i) + ".csv")
