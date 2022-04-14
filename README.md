@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> There are 77 TIL's so far! :confetti_ball:
+> There are 80 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -24,6 +24,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Excel](#excel)
 - [Markdown](#markdown)
 - [mysql](#mysql)
+- [Numpy](#numpy)
 - [Pandas](#pandas)
 - [Plotting](#plotting)
 - [Power BI](#power-bi)
@@ -80,6 +81,10 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 - [Connecting to a database](/mysql/connecting_to_database.md)
 
+## Numpy
+
+- [Restrict values to a threshold](/numpy/restrict_values_threshold.md)
+
 ## Pandas
 
 - [Add a cumulative sum column to a DataFrame](/Pandas/add_cumulative_sum_column.md)
@@ -117,6 +122,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Adding to and updating dictionaries](/Python/update_dictionary.md)
 - [Append CSV's](Python/append_csvs.md)
 - [Calculate an average](Python/calculate_average.md)
+- [Compress dataframes to zip folder](/Python/compress_dataframes_to_zip.md)
 - [Count the number of files in a directory](Python/count_files_in_directory.md)
 - [Create a calculated column](Python/create_a_calculate_column.md)
 - [Pull Survey IDs and Names from SurveyMonkey Account](Python/get_surveys_from_surveymonkey.md)
@@ -129,6 +135,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Using classes](/Python/classes.md)
 - [Using enumerate](/Python/using_enumerate.md)
 - [Using loc & iloc](Python/using_loc.md)
+- [Using lambda with condtions](/Python/using_lambda_with_conditions.md)
 - [Using shape](Python/dataframe_shape.md)
 - [Write, read and append files](Python/write_and_read_files.md)
 
