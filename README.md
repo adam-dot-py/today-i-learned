@@ -135,7 +135,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Using classes](/Python/classes.md)
 - [Using enumerate](/Python/using_enumerate.md)
 - [Using loc & iloc](Python/using_loc.md)
-- [Using lambda with condtions](/Python/using_lambda_with_conditions.md)
+- [Using lambda with conditions](/Python/using_lambda_with_conditions.md)
 - [Using shape](Python/dataframe_shape.md)
 - [Write, read and append files](Python/write_and_read_files.md)
 
