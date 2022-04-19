@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> There are 80 TIL's so far! :confetti_ball:
+> There are 82 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -29,6 +29,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Plotting](#plotting)
 - [Power BI](#power-bi)
 - [Python](#python)
+- [Raspberry Pi](#raspberry-pi)
 - [Spark](#spark)
 - [SQL](#sql)
 - [VBA](#vba)
@@ -143,6 +144,11 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 - [Create a table using Python](/power_bi/create_a_table_using_python.md)
 - [Returning icons as conditional formatting](/power_bi/returning_icons.md)
+
+## Raspberry Pi
+
+- [Performing updates from the command line](/raspberry-pi/performing_updates.md)
+- [Reset SSH keygen](/raspberry-pi/reset-keygen.md)
 
 ## Spark
 
