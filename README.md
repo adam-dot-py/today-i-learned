@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> There are 82 TIL's so far! :confetti_ball:
+> There are 83 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -42,6 +42,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## Databricks
 
+- [Offload table to delta and recall](/Databricks/offload_table_to_delta.md)
 - [Using widgets](/Databricks/using_widgets.md)
 - [Search for students](/Databricks/search_for_students.md)
 
