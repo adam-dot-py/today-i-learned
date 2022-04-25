@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> There are 83 TIL's so far! :confetti_ball:
+> There are 90 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -33,6 +33,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Spark](#spark)
 - [SQL](#sql)
 - [VBA](#vba)
+- [Work Specific](#work-specific)
 
 ---
 
@@ -82,6 +83,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 ## mysql
 
 - [Connecting to a database](/mysql/connecting_to_database.md)
+- [Show databases in the command line shell](/mysql/show_databases.md)
 
 ## Numpy
 
@@ -160,7 +162,15 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 - [Alter a table](/SQL/alter_tables.md)
 - [Create a table](/SQL/create_tables.md)
+- [Using COALESCE clause](/SQL/using_coalesce.md)
+- [Using LAG clause](/SQL/using_lag.md)
+- [Using OVER clause](/SQL/using_over_clause.md)
+- [Using UNION clause](/SQL/using_union.md)
 
 ## VBA
 
 - [Split a sheet to multiple sheets (tabs)](VBA/split_sheet_to_multiple.md)
+
+## Work Specific
+
+- [Combining HESA files](/work-specific/combining_hesa_files.md)
