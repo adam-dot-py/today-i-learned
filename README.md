@@ -174,3 +174,4 @@ This is a collection of comprehensive but small write ups of small things I lear
 ## Work Specific
 
 - [Combining HESA files](/work-specific/combining_hesa_files.md)
+- [Flatten JSON](/work-specific/flatten_json.md)
