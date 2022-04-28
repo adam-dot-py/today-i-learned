@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-## There are 91 TIL's so far! :confetti_ball:
+## There are 93 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -103,6 +103,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Convert a DataFrame to a text file](/Pandas/convert_dataframe_to_text.txt)
 - [Convert value counts to a DataFrame](/Pandas/convert_value_counts_to_dataframe.md)
 - [Drop rows that are not integers](Pandas/drop_rows_not_integers.md)
+- [Expand the column width](/Pandas/expand_column_width.md)
 - [Filter Dataframes](Pandas/filter_dataframe.md)
 - [Format floats using Pandas options](Pandas/float_display_format.md)
 - [Insert a column into a dataframe](/Pandas/insert_column.md)
@@ -136,6 +137,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Merge PDFs](Python/merge_pdfs.md)
 - [Send an email](Python/send_email.md)
 - [Subtracting or adding dates together](Python/subtracting_or_adding_dates.md)
+- [Using asterisks and what they do](python/using_asterisks.md)
 - [Using classes](/Python/classes.md)
 - [Using enumerate](/Python/using_enumerate.md)
 - [Using loc & iloc](Python/using_loc.md)
