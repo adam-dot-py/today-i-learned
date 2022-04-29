@@ -1,9 +1,8 @@
-## Convert a Pandas dataframe to a Spark dataframe
+# Convert a Pandas dataframe to a Spark dataframe
 
 The below will convert a Pandas dataframe into a Spark dataframe. 
 
-```python 
-
+```python
 df = pd.Dataframe({'col1' : [1,2], 'col2' : [3,4]})
 
 # Define a Spark session

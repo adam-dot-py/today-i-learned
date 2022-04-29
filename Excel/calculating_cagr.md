@@ -1,4 +1,4 @@
-## Calculating Compound Annual Growth Rate (CAGR)
+# Calculating Compound Annual Growth Rate (CAGR)
 
 CAGR allows you to see growth rate over time. It lets you see what the rate of return needs to be for the value to grow from its starting value to the end value.
 
