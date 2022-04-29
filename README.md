@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-## There are 93 TIL's so far! :confetti_ball:
+## There are 96 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -54,6 +54,8 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## Excel
 
+- [Calculate market share](/Excel/calculate_market_share.md)
+- [Calculate percentage increase or decrease](/Excel/calculate_pct_increase_decrease.md)
 - [Calculating CAGR](Excel/calculating_cagr.md)
 - [Forecasting with CAGR](Excel/forecasting_with_cagr.md)
 - [Calculating Margin of Error](/Excel/calculating_margin_of_error.md)
@@ -77,6 +79,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Change bar colours](/Plotting/colors.md)
 - [Create boxplots](/Plotting/create_boxplots.md)
 - [Create countplots](/Plotting/create_countplot.md)
+- [Create dumbbell charts](/Plotting/create_dumbell_chart.md)
 - [Moving the legend](/Plotting/moving_legend.md)
 - [Rotate x labels](/Plotting/rotate_xlabels.md)
 
@@ -142,7 +145,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Using dictionaries](/Python/using_dictionaries.md)
 - [Using enumerate](/Python/using_enumerate.md)
 - [Using loc & iloc](Python/using_loc.md)
-- [Using lambda with conditions](/Python/using_lambda_with_conditions.md)
+- [Using lambda with if, elif and else conditions](/Python/using_lambda_with_conditions.md)
 - [Using shape](Python/dataframe_shape.md)
 - [Write, read and append files](Python/write_and_read_files.md)
 
@@ -177,4 +180,5 @@ This is a collection of comprehensive but small write ups of small things I lear
 ## Work Specific
 
 - [Combining HESA files](/work-specific/combining_hesa_files.md)
+- [Create a date DataFrame](/work-specific/create_date_df.md)
 - [Flatten JSON](/work-specific/flatten_json.md)
