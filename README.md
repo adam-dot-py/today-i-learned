@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-## There are 96 TIL's so far! :confetti_ball:
+## There are 99 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -80,6 +80,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Create boxplots](/Plotting/create_boxplots.md)
 - [Create countplots](/Plotting/create_countplot.md)
 - [Create dumbbell charts](/Plotting/create_dumbell_chart.md)
+- [Create scatter charts](/Plotting/create_scatter_plots.md)
 - [Moving the legend](/Plotting/moving_legend.md)
 - [Rotate x labels](/Plotting/rotate_xlabels.md)
 
@@ -138,6 +139,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Integer division](Python/integer_division.md)
 - [Introspection](Python/introspection.md)
 - [Merge PDFs](Python/merge_pdfs.md)
+- [Remove text after a given character](/Python/remove_text_after_character.md)
 - [Send an email](Python/send_email.md)
 - [Subtracting or adding dates together](Python/subtracting_or_adding_dates.md)
 - [Using asterisks and what they do](/Python/using_asterisks.md)
@@ -162,6 +164,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 ## Spark
 
 - [Convert a Pandas dataframe to a Spark dataframe](Spark/convert_pandas_to_spark.md)
+- [Drop columns](/Spark/drop_columns.md)
 - [Add a column to a DataFrame](/Spark/add_column_to_dataframe.md)
 
 ## SQL
