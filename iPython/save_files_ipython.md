@@ -1,6 +1,6 @@
-## Saving, loading and running files in the iPython environment
+# Saving, loading and running files in the iPython environment
 
-You can write a session to file using the magic function `%%writefile`. 
+You can write a session to file using the magic function `%%writefile`.
 
 `%%writefile myfile.py`
 
@@ -24,6 +24,6 @@ For more magic and help
 
     list all the other cool cell magic commands.
 
-%COMMAND-NAME?
+`%COMMAND-NAME?`
 
     for help on how to use a certain command. i.e. %run?

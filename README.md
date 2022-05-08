@@ -22,6 +22,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Databricks](#databricks)
 - [Dax](#dax)
 - [Excel](#excel)
+- [iPython](#ipython)
 - [Markdown](#markdown)
 - [mysql](#mysql)
 - [Numpy](#numpy)
@@ -70,7 +71,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## iPython
 
-- [Saving, running and loading files in iPython](Python/save_files_ipython.md)
+- [Saving, running and loading files in iPython](/iPython/save_files_ipython.md)
 
 ## Plotting
 
