@@ -7,7 +7,10 @@ For this example, it looks ar surveying data for 2000 respondents and their uniq
 First, we create a `pivot table` of each `RespodantId` and their response to the questions: 
 
 ```python
-c_df = c_df.pivot_table('Weighting', ['RespondantId'], 'QuestionNumber', aggfunc='sum')
+c_df = c_df.pivot_table(values='Weighting', 
+                        index=['RespondantId'], 
+                        columns='QuestionNumber', aggfunc='sum')
+                        
 c_df = pd.DataFrame(c_df.to_records()) # Flatten the dataframe to access columns
 ```
 
