@@ -111,6 +111,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Convert value counts to a DataFrame](/Pandas/convert_value_counts_to_dataframe.md)
 - [Drop rows that are not integers](Pandas/drop_rows_not_integers.md)
 - [Expand the column width](/Pandas/expand_column_width.md)
+- [Filter a DataFrame to unique values in a column](/Pandas/filter_dataframe_to_unique_values.md)
 - [Filter Dataframes](Pandas/filter_dataframe.md)
 - [Format floats using Pandas options](Pandas/float_display_format.md)
 - [Insert a column into a dataframe](/Pandas/insert_column.md)
