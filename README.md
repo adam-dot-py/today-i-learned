@@ -66,6 +66,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 ## Markdown
 
 - [Convert Markdown to Word (or other file types)](/Markdown/convert_md_to_word.md)
+- [Export from VS Code](/Markdown/export_from_vs_code.md/)
 - [How to quote](Markdown/quote.md)
 - [Formatting Code](Markdown/formatting_code.md)
 
@@ -136,6 +137,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Compress dataframes to zip folder](/Python/compress_dataframes_to_zip.md)
 - [Count the number of files in a directory](Python/count_files_in_directory.md)
 - [Create a calculated column](Python/create_a_calculate_column.md)
+- [Expand Nested JSON in a Pandas DataFrame](/Python/expanding_nested_json.md)
 - [Pull Survey IDs and Names from SurveyMonkey Account](Python/get_surveys_from_surveymonkey.md)
 - [Insert characters into a string](Python/insert_characters_into_string.md)
 - [Integer division](Python/integer_division.md)
