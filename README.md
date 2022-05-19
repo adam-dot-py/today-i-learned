@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-## There are 100 TIL's so far! :confetti_ball:
+## There are 109 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -80,6 +80,8 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Add titles](/Plotting/add_titles.md)
 - [Annotate Plots](/Plotting/annotate_plots.md)
 - [Change bar colours](/Plotting/colors.md)
+- [Conditional colours](/Plotting/conditional_colors.md)
+- [Create barplots](/Plotting/create_barplots.md)
 - [Create boxplots](/Plotting/create_boxplots.md)
 - [Create countplots](/Plotting/create_countplot.md)
 - [Create dumbbell charts](/Plotting/create_dumbell_chart.md)
@@ -109,6 +111,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Convert a DataFrame to a dictionary](Pandas/convert_dataframe_to_dict.md)
 - [Convert a DataFrame to a text file](/Pandas/convert_dataframe_to_text.txt)
 - [Convert value counts to a DataFrame](/Pandas/convert_value_counts_to_dataframe.md)
+- [Create a random DataFrame](/Pandas/create_random_dataframe.md)
 - [Drop rows that are not integers](Pandas/drop_rows_not_integers.md)
 - [Expand the column width](/Pandas/expand_column_width.md)
 - [Filter a DataFrame to unique values in a column](/Pandas/filter_dataframe_to_unique_values.md)
@@ -124,7 +127,9 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Rename columns](Pandas/rename_columns.md)
 - [Replace a column value with a value from another column](Pandas/replace_value_with_value_from_column.md)
 - [Sum rows in a DataFrame](/Pandas/sum_rows.md)
+- [Unstack a dictionary to a DataFrame](/Pandas/unstack_dictionary_to_dataframe.md)
 - [Using Group By](/Pandas/using_groupby.md)
+- [Using pivot tables](/Pandas/using_pivot_tables.md)
 - [Write Dataframes to Excel](/Pandas/write_dataframes_to_excel.md)
 
 ## Python
@@ -152,6 +157,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Using dictionaries](/Python/using_dictionaries.md)
 - [Using enumerate](/Python/using_enumerate.md)
 - [Using loc & iloc](Python/using_loc.md)
+- [Using requests](/Python/using_requests.md)
 - [Using lambda with if, elif and else conditions](/Python/using_lambda_with_conditions.md)
 - [Using shape](Python/dataframe_shape.md)
 - [Write, read and append files](Python/write_and_read_files.md)
