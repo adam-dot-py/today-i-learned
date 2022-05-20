@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-## There are 109 TIL's so far! :confetti_ball:
+## There are 111 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -65,6 +65,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 ## Markdown
 
+- [Cheatsheet!](/Markdown/cheatsheet.md)
 - [Convert Markdown to Word (or other file types)](/Markdown/convert_md_to_word.md)
 - [Export from VS Code](/Markdown/export_from_vs_code.md/)
 - [How to quote](Markdown/quote.md)
@@ -129,6 +130,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Sum rows in a DataFrame](/Pandas/sum_rows.md)
 - [Unstack a dictionary to a DataFrame](/Pandas/unstack_dictionary_to_dataframe.md)
 - [Using Group By](/Pandas/using_groupby.md)
+- [Using json_normalize](/Pandas/using_json_normalize.md)
 - [Using pivot tables](/Pandas/using_pivot_tables.md)
 - [Write Dataframes to Excel](/Pandas/write_dataframes_to_excel.md)
 
