@@ -10,10 +10,16 @@ import numpy as np
 a = np.arrange(0, 10)
 ```
 
-array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])
+`array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])`
 
 ```python
 b = np.clip(a, 1, 8)
 ```
 
-array([1, 1, 2, 3, 4, 5, 6, 7, 8, 8])
+`array([1, 1, 2, 3, 4, 5, 6, 7, 8, 8])`
+
+You can also wrap it around a function: 
+
+```python
+conf_df['ci_upper'] = np.clip((conf_df.pctAgree + ci).round(), a_min=0, a_max=100)
+```
