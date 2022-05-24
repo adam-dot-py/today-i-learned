@@ -43,3 +43,21 @@ df.groupby(level="Type").mean()
 |:--------|------------:|
 | Captive |         210 |
 | Wild    |         185 |
+
+## Rename `agg` column returns
+
+You can rename the return column from `groupby` by passing the column name as a variable in `agg`, with the column to perform the operation on and the required operation as a `tuple`:
+
+```python
+group = df.groupby(by=['legislation', 'age_range']).agg(count_legislation=('legislation', 'count'))
+```
+
+| legislation                                       | age_range   |   count_legislation |
+|:--------------------------------------------------|:------------|--------------------:|
+| Misuse of Drugs Act 1971 (section 23)             | 10-17       |                  10 |
+| Misuse of Drugs Act 1971 (section 23)             | 18-24       |                  23 |
+| Misuse of Drugs Act 1971 (section 23)             | 25-34       |                  27 |
+| Misuse of Drugs Act 1971 (section 23)             | over 34     |                  25 |
+| Police and Criminal Evidence Act 1984 (section 1) | 10-17       |                   3 |
+| Police and Criminal Evidence Act 1984 (section 1) | 25-34       |                   2 |
+| Police and Criminal Evidence Act 1984 (section 1) | over 34     |                   6 |

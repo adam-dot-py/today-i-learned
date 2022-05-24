@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-## There are 111 TIL's so far! :confetti_ball:
+## There are 113 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -41,6 +41,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 ## Command Prompt
 
 - [Make a new directory](/command_prompt/make_new_directory.md)
+- [List files in a directory](/command_prompt/list_files_in_dir.md)
 
 ## Databricks
 
@@ -126,6 +127,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Pull tables from websites into Dataframes](Pandas/pull_table_from_webpage.md)
 - [Remove spaces in column headers](Pandas/remove_spaces_from_columns.md)
 - [Rename columns](Pandas/rename_columns.md)
+- [Reorder pivot table columns](/Pandas/reorder_pivot_table.md)
 - [Replace a column value with a value from another column](Pandas/replace_value_with_value_from_column.md)
 - [Sum rows in a DataFrame](/Pandas/sum_rows.md)
 - [Unstack a dictionary to a DataFrame](/Pandas/unstack_dictionary_to_dataframe.md)
