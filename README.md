@@ -21,6 +21,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Command Prompt](#command-prompt)
 - [Databricks](#databricks)
 - [Dax](#dax)
+- [Example datasets](#example-datasets)
 - [Excel](#excel)
 - [iPython](#ipython)
 - [Markdown](#markdown)
@@ -53,6 +54,12 @@ This is a collection of comprehensive but small write ups of small things I lear
 
 - [Add comments to measures](/DAX/add_comments.md)
 - [Using Calculate with multiple conditions](/DAX/using_calculate_multiple_conditions.md)
+
+## Example Datasets
+
+Check out the [README](/example_datasets/dataset_readme.md) file for more information on each dataset.
+
+- [Country Data](/example_datasets/country_data.csv)
 
 ## Excel
 
@@ -87,9 +94,11 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Create boxplots](/Plotting/create_boxplots.md)
 - [Create countplots](/Plotting/create_countplot.md)
 - [Create dumbbell charts](/Plotting/create_dumbell_chart.md)
+- [Create lineplot with marker charts](/Plotting/create_lineplot_with_markers.md)
 - [Create scatter charts](/Plotting/create_scatter_plots.md)
 - [Moving the legend](/Plotting/moving_legend.md)
 - [Rotate x labels](/Plotting/rotate_xlabels.md)
+- [Using plt.subplots](/Plotting/using_plt_subplots.md)
 
 ## mysql
 
@@ -129,6 +138,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Rename columns](Pandas/rename_columns.md)
 - [Reorder pivot table columns](/Pandas/reorder_pivot_table.md)
 - [Replace a column value with a value from another column](Pandas/replace_value_with_value_from_column.md)
+- [Sum columns in a DataFrame](/Pandas/sum_columns.md)
 - [Sum rows in a DataFrame](/Pandas/sum_rows.md)
 - [Unstack a dictionary to a DataFrame](/Pandas/unstack_dictionary_to_dataframe.md)
 - [Using Group By](/Pandas/using_groupby.md)
@@ -148,6 +158,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Count the number of files in a directory](Python/count_files_in_directory.md)
 - [Create a calculated column](Python/create_a_calculate_column.md)
 - [Expand Nested JSON in a Pandas DataFrame](/Python/expanding_nested_json.md)
+- [Flatten nested lists](/Python/flatten_nested_lists.md)
 - [Pull Survey IDs and Names from SurveyMonkey Account](Python/get_surveys_from_surveymonkey.md)
 - [Insert characters into a string](Python/insert_characters_into_string.md)
 - [Integer division](Python/integer_division.md)
