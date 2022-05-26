@@ -2,6 +2,8 @@
 
 `pd.groupby` allows us to split the object, apply a function, and combine the results. This can be used to group large amounts of data and compute operations on these groups.
 
+> Note: You can use `.apply(display)` to a `groupby` object to display it without using `agg`: `df.groupby('Animal).apply(display)`
+
 ```python
 import pandas as pd
 
