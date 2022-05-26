@@ -120,8 +120,10 @@ for countryname, selection in df.groupby('Location'):
     selection.plot(x='Time', y='PopTotal', label=countryname, ax=ax, legend=False)
     ax.set_title(countryname)
 
-for ax in axes_list:
+for ax in axes_list: # remove any unused plot
     ax.remove()
 
 plt.tight_layout()
 ```
+
+![plt.subplots example 5](/graph_examples/plt_subplots_5.png)
