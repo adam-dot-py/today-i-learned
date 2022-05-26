@@ -110,6 +110,8 @@ It can be more efficient still using `plt.subplots`. We make use of flattening n
 
 ```python
 fig, axes = plt.subplots(nrows=2, ncols=2, sharex=True, sharey=True)
+# We need to flatten axes to make it easier to loop over
+# as it's current format is nested
 axes_list = [item for sublist in axes for item in sublist]
 
 first_year = df['Time'].min()
