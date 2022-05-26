@@ -58,4 +58,4 @@ plt.plot(xs, ys, '-gD', markevery=markers_on, label='line with select markers')
 plt.legend()
 ```
 
-![Using mark every](/graph_examples/plt_subplots_8.png)
+![Using mark every](/graph_examples/mark_every_example.png)
