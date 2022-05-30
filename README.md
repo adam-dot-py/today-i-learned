@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-## There are 121 TIL's so far! :confetti_ball:
+## There are 122 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -23,6 +23,7 @@ This is a collection of comprehensive but small write ups of small things I lear
 - [Dax](#dax)
 - [Example datasets](#example-datasets)
 - [Excel](#excel)
+- [Git](#git)
 - [iPython](#ipython)
 - [Markdown](#markdown)
 - [mysql](#mysql)
@@ -74,6 +75,8 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 ## Git
 
 - [Add .gitignore and resync](/Git/add_gitignore.md)
+- [Create a branch](/Git/create_new_branch.md)
+- [Commit](/Git/commit_to_repo.md)
 
 ## Markdown
 
