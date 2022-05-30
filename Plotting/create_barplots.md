@@ -1,5 +1,23 @@
 # Create a barplot
 
+## Simple bar plot
+
+```python
+import pandas
+import matplotlib.pyplot as plt
+
+df = pandas.DataFrame({"College" : ['College A', 'College B'],
+                       "Overall" : [2.83, 3.67]})
+
+df.plot(x='College', y='Overall', kind='bar') ] # can pass a list x or y for multiple plots
+plt.tight_layout()
+plt.show()
+```
+
+![Barplot example 2](/graph_examples/barplots_2.png)
+
+## Advanced bar plot
+
 Creating singular barplots can be done via `plt.bar`, but you can also combine two or more charts together to layout bars next to each other, like so:
 
 ```python
