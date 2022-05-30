@@ -152,6 +152,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Unstack a dictionary to a DataFrame](/Pandas/unstack_dictionary_to_dataframe.md)
 - [Using Group By](/Pandas/using_groupby.md)
 - [Using json_normalize](/Pandas/using_json_normalize.md)
+- [Using melt](/Pandas/using_melt.md)
 - [Using pivot tables](/Pandas/using_pivot_tables.md)
 - [Write Dataframes to Excel](/Pandas/write_dataframes_to_excel.md)
 
