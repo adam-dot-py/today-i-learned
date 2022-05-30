@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-## There are 119 TIL's so far! :confetti_ball:
+## There are 121 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -70,6 +70,10 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Calculating Margin of Error](/Excel/calculating_margin_of_error.md)
 - [Formatting numbers to include seperators](Excel/formatting_numbers.md)
 - [Formating using conditional formatting](Excel/conditional_formatting_row.md)
+
+## Git
+
+- [Add .gitignore and resync](/Git/add_gitignore.md)
 
 ## Markdown
 
