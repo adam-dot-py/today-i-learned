@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-## There are 126 TIL's so far! :confetti_ball:
+## There are 127 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -131,6 +131,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Convert a DataFrame to a dictionary](Pandas/convert_dataframe_to_dict.md)
 - [Convert a DataFrame to a text file](/Pandas/convert_dataframe_to_text.txt)
 - [Convert value counts to a DataFrame](/Pandas/convert_value_counts_to_dataframe.md)
+- [Create mean row or column](/Pandas/create_mean_row_or_column.md)
 - [Create a random DataFrame](/Pandas/create_random_dataframe.md)
 - [Drop rows that are not integers](Pandas/drop_rows_not_integers.md)
 - [Expand the column width](/Pandas/expand_column_width.md)
