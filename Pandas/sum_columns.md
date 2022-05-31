@@ -8,7 +8,7 @@ import pandas
 df = pandas.DataFrame({'col1' : [1, 2], 'col2' : [3, 4], 'col3' : ['a', 'b']})
 
 df.loc['column_total', :] = df.sum(numeric_only=True, axis=0) # add to row index, sum all the columns
-df.loc[:, 'row_total'] = df.sum(numeric_only=True, axis=1) # add to column index, sum sll the rows
+df.loc[:, 'row_total'] = df.sum(numeric_only=True, axis=1) # add to column index, sum all the rows
 ```
 
 |              |   col1 |   col2 | col3   |   row_total |
