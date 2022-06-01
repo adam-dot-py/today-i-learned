@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-## There are 127 TIL's so far! :confetti_ball:
+## There are 128 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -84,6 +84,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 
 - [Cheatsheet!](/Markdown/cheatsheet.md)
 - [Convert Markdown to Word (or other file types)](/Markdown/convert_md_to_word.md)
+- [Create tables](/Markdown/create_tables.md)
 - [Export from VS Code](/Markdown/export_from_vs_code.md/)
 - [How to quote](Markdown/quote.md)
 - [Formatting Code](Markdown/formatting_code.md)
