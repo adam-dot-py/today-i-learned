@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-## There are 128 TIL's so far! :confetti_ball:
+## There are 130 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -141,6 +141,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Format floats using Pandas options](Pandas/float_display_format.md)
 - [Insert a column into a dataframe](/Pandas/insert_column.md)
 - [Keep only NaN values in a dataframe](Pandas/keep_only_nan_values.md)
+- [Limiting a DataFrame](/Pandas/limit_dataframe.md)
 - [Merge DataFrames and update values](/Pandas/merge_dataframes_update_values.md)
 - [Merge DataFrames together](/Pandas/merge_dataframes.md)
 - [Limit a dataframe by rows or columns](Pandas/restrict_dataframe_by_rows_columns.md)
