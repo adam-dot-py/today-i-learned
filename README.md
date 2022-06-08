@@ -2,9 +2,9 @@
 
 > Today I Learned
 
-This is a collection of comprehensive but small write ups of small things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
+This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-## There are 130 TIL's so far! :confetti_ball:
+## There are 135 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -93,23 +93,6 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 
 - [Saving, running and loading files in iPython](/iPython/save_files_ipython.md)
 
-## Plotting
-
-- [Add plot labels](/Plotting/add_bar_labels.md)
-- [Add titles](/Plotting/add_titles.md)
-- [Annotate Plots](/Plotting/annotate_plots.md)
-- [Change bar colours](/Plotting/colors.md)
-- [Conditional colours](/Plotting/conditional_colors.md)
-- [Create barplots](/Plotting/create_barplots.md)
-- [Create boxplots](/Plotting/create_boxplots.md)
-- [Create countplots](/Plotting/create_countplot.md)
-- [Create dumbbell charts](/Plotting/create_dumbell_chart.md)
-- [Create lineplot with marker charts](/Plotting/create_lineplot_with_markers.md)
-- [Create scatter charts](/Plotting/create_scatter_plots.md)
-- [Moving the legend](/Plotting/moving_legend.md)
-- [Rotate x labels](/Plotting/rotate_xlabels.md)
-- [Using plt.subplots](/Plotting/using_plt_subplots.md)
-
 ## mysql
 
 - [Connecting to a database](/mysql/connecting_to_database.md)
@@ -159,6 +142,24 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Using pivot tables](/Pandas/using_pivot_tables.md)
 - [Write Dataframes to Excel](/Pandas/write_dataframes_to_excel.md)
 
+## Plotting
+
+- [Add plot labels](/Plotting/add_bar_labels.md)
+- [Add titles](/Plotting/add_titles.md)
+- [Annotate Plots](/Plotting/annotate_plots.md)
+- [Change bar colours](/Plotting/colors.md)
+- [Conditional colours](/Plotting/conditional_colors.md)
+- [Create barplots](/Plotting/create_barplots.md)
+- [Create boxplots](/Plotting/create_boxplots.md)
+- [Create countplots](/Plotting/create_countplot.md)
+- [Create dumbbell charts](/Plotting/create_dumbell_chart.md)
+- [Create lineplot with marker charts](/Plotting/create_lineplot_with_markers.md)
+- [Create scatter charts](/Plotting/create_scatter_plots.md)
+- [Moving the legend](/Plotting/moving_legend.md)
+- [Plot a quick graph](/Plotting/plot_a_quick_graph.md)
+- [Rotate x labels](/Plotting/rotate_xlabels.md)
+- [Using plt.subplots](/Plotting/using_plt_subplots.md)
+
 ## Python
 
 - [Access columns](Python/access_columns.md)
@@ -166,6 +167,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Add percentage symbol to values](Python/add_percentage_symbol.md)
 - [Adding to and updating dictionaries](/Python/update_dictionary.md)
 - [Append CSV's](Python/append_csvs.md)
+- [Binary operators](/Python/binary_operators.md)
 - [Calculate an average](Python/calculate_average.md)
 - [Compress dataframes to zip folder](/Python/compress_dataframes_to_zip.md)
 - [Count the number of files in a directory](Python/count_files_in_directory.md)
@@ -182,10 +184,14 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Subtracting or adding dates together](Python/subtracting_or_adding_dates.md)
 - [Using asterisks and what they do](/Python/using_asterisks.md)
 - [Using classes](/Python/classes.md)
+- [Using datetime](/Python/using_datetime.md)
 - [Using dictionaries](/Python/using_dictionaries.md)
 - [Using enumerate](/Python/using_enumerate.md)
 - [Using loc & iloc](Python/using_loc.md)
+- [Using range](/Python/using_range.md)
 - [Using requests](/Python/using_requests.md)
+- [Using rest](/Python/using_rest.md)
+- [Using string formatting](/Python/using_string_formatting.md)
 - [Using lambda with if, elif and else conditions](/Python/using_lambda_with_conditions.md)
 - [Using shape](Python/dataframe_shape.md)
 - [Write, read and append files](Python/write_and_read_files.md)
