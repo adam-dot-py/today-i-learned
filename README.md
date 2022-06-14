@@ -4,7 +4,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-## There are 136 TIL's so far! :confetti_ball:
+## There are 142 TIL's so far! :confetti_ball:
 
 ## Tracking
 
@@ -92,6 +92,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 ## iPython
 
 - [Saving, running and loading files in iPython](/iPython/save_files_ipython.md)
+- [Clear and exit iPython](/iPython/clear_and_exit_ipython.md)
 
 ## mysql
 
@@ -185,9 +186,13 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Subtracting or adding dates together](Python/subtracting_or_adding_dates.md)
 - [Using asterisks and what they do](/Python/using_asterisks.md)
 - [Using classes](/Python/classes.md)
+- [Using collections](/Python/using_collections.md)
 - [Using datetime](/Python/using_datetime.md)
 - [Using dictionaries](/Python/using_dictionaries.md)
+- [Using docstrings](/Python/using_docstrings.md)
 - [Using enumerate](/Python/using_enumerate.md)
+- [Using lambda with conditions](/Python/using_lambda_with_conditions.md)
+- [Using lambda more generally](/Python/using_lambda.md)
 - [Using loc & iloc](Python/using_loc.md)
 - [Using range](/Python/using_range.md)
 - [Using requests](/Python/using_requests.md)

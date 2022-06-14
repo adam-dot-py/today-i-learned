@@ -90,3 +90,25 @@ This would return `['blue', 'red', 'unknown']`. The arguments `dictionary` and `
 ```python
 get_multiple('ferrari', 'bmw', dictionary=brand_colours, 'mercedez')
 ```
+
+## Example Function
+
+```python
+def addition(*args):
+    result = 0
+    for arg in args:
+        result += arg
+    return result
+```
+
+`print(addition(10, 20, 10))`
+Return: 40
+
+Can also pass a list of items:
+
+```python
+myNums = [10, 20, 10]
+print(addition(*myNums))
+```
+
+Return: 40
