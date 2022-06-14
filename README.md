@@ -154,6 +154,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Create countplots](/Plotting/create_countplot.md)
 - [Create dumbbell charts](/Plotting/create_dumbell_chart.md)
 - [Create lineplot with marker charts](/Plotting/create_lineplot_with_markers.md)
+- [Create lineplots](/Plotting/create_lineplots.md)
 - [Create scatter charts](/Plotting/create_scatter_plots.md)
 - [Moving the legend](/Plotting/moving_legend.md)
 - [Plot a quick graph](/Plotting/plot_a_quick_graph.md)
@@ -211,6 +212,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Convert a Pandas dataframe to a Spark dataframe](Spark/convert_pandas_to_spark.md)
 - [Drop columns](/Spark/drop_columns.md)
 - [Add a column to a DataFrame](/Spark/add_column_to_dataframe.md)
+- [Using spark.table](/Spark/using_spark_table.md)
 
 ## SQL
 

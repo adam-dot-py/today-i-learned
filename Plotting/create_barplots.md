@@ -16,6 +16,30 @@ plt.show()
 
 ![Barplot example 2](/graph_examples/barplots_2.png)
 
+## Overlaying bars
+
+You can also overlay bar charts to create interesting visuals, like showing target vs actual:
+
+```python
+import numpy as np
+import pandas as pd
+
+
+d = {"University" : ['College1', 'College2', 'College3'],
+     "Actual" : [1000, 2000,3000],
+     "Target" : [500, 1000, 2000]}
+
+test = pd.DataFrame(data=d)
+
+fig, ax = plt.subplots(figsize=(10,6))
+test.plot(kind='bar', x='University', y='Actual', ax=ax, width=0.3, color='#007F7B', edgecolor='black', linewidth=1)
+test.plot(kind='bar', x='University', y='Target', ax=ax, width=0.4, alpha=0.8, color='grey', linewidth=1, edgecolor='black')
+
+plt.tight_layout()
+```
+
+![overlaying bar chart](/graph_examples/overlay_bar_chart.png)
+
 ## Advanced bar plot
 
 Creating singular barplots can be done via `plt.bar`, but you can also combine two or more charts together to layout bars next to each other, like so:
