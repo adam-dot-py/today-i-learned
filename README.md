@@ -4,8 +4,6 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-## There are 142 TIL's so far! :confetti_ball:
-
 ## Tracking
 
 - [x] 50 TILs - :calendar: 28/03/2022
@@ -130,6 +128,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Merge DataFrames together](/Pandas/merge_dataframes.md)
 - [Limit a dataframe by rows or columns](Pandas/restrict_dataframe_by_rows_columns.md)
 - [Pull tables from websites into Dataframes](Pandas/pull_table_from_webpage.md)
+- [Read .csv files](/Pandas/read_csvs.md)
 - [Remove spaces in column headers](Pandas/remove_spaces_from_columns.md)
 - [Rename columns](Pandas/rename_columns.md)
 - [Reorder pivot table columns](/Pandas/reorder_pivot_table.md)
@@ -157,7 +156,9 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Create lineplot with marker charts](/Plotting/create_lineplot_with_markers.md)
 - [Create lineplots](/Plotting/create_lineplots.md)
 - [Create scatter charts](/Plotting/create_scatter_plots.md)
+- [Invert the y or x axis](/Plotting/invert_axis.md)
 - [Moving the legend](/Plotting/moving_legend.md)
+- [Pad the axis](/Plotting/pad_axis.md)
 - [Plot a quick graph](/Plotting/plot_a_quick_graph.md)
 - [Rotate x labels](/Plotting/rotate_xlabels.md)
 - [Using plt.subplots](/Plotting/using_plt_subplots.md)
@@ -214,9 +215,10 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 
 ## Spark
 
-- [Convert a Pandas dataframe to a Spark dataframe](Spark/convert_pandas_to_spark.md)
-- [Drop columns](/Spark/drop_columns.md)
 - [Add a column to a DataFrame](/Spark/add_column_to_dataframe.md)
+- [Convert a Pandas dataframe to a Spark dataframe](Spark/convert_pandas_to_spark.md)
+- [Create schemas](/Spark/creating_schemas.md)
+- [Drop columns](/Spark/drop_columns.md)
 - [Using spark.table](/Spark/using_spark_table.md)
 
 ## SQL
