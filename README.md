@@ -1,8 +1,8 @@
-# :bulb: TIL
-
-> Today I Learned
+# :bulb: TIL - Today I Learned
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
+
+> :tada: There are 148 entries so far!
 
 ## Tracking
 
@@ -139,7 +139,9 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Using Group By](/Pandas/using_groupby.md)
 - [Using json_normalize](/Pandas/using_json_normalize.md)
 - [Using melt](/Pandas/using_melt.md)
+- [Using nlargest()](/Pandas/using_nlargest.md)
 - [Using pivot tables](/Pandas/using_pivot_tables.md)
+- [Using rank](/Pandas/using_rank.md)
 - [Write Dataframes to Excel](/Pandas/write_dataframes_to_excel.md)
 
 ## Plotting
