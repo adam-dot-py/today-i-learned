@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 148 entries so far!
+> :tada: There are 149 entries so far!
 
 ## Tracking
 
@@ -46,8 +46,8 @@ This is a collection of comprehensive but small write ups of things I learn each
 ## Databricks
 
 - [Offload table to delta and recall](/Databricks/offload_table_to_delta.md)
-- [Using widgets](/Databricks/using_widgets.md)
 - [Search for students](/Databricks/search_for_students.md)
+- [Using widgets](/Databricks/using_widgets.md)
 
 ## DAX
 
@@ -65,18 +65,24 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Calculate market share](/Excel/calculate_market_share.md)
 - [Calculate percentage increase or decrease](/Excel/calculate_pct_increase_decrease.md)
 - [Calculating CAGR](Excel/calculating_cagr.md)
-- [Forecasting with CAGR](Excel/forecasting_with_cagr.md)
 - [Calculating Margin of Error](/Excel/calculating_margin_of_error.md)
+- [Conditional formatting](Excel/conditional_formatting_row.md)
+- [Forecasting with CAGR](Excel/forecasting_with_cagr.md)
 - [Formatting numbers to include seperators](Excel/formatting_numbers.md)
-- [Formating using conditional formatting](Excel/conditional_formatting_row.md)
 
 ## Git
 
 - [Add .gitignore and resync](/Git/add_gitignore.md)
+- [Chain commands](/Git/chain_commands.md)
 - [Create a branch](/Git/create_new_branch.md)
 - [Commit](/Git/commit_to_repo.md)
 - [Publish (push) branches](/Git/publish_branch.md)
 - [Stage changes](/Git/stage_changes.md)
+
+## iPython
+
+- [Clear and exit iPython](/iPython/clear_and_exit_ipython.md)
+- [Saving, running and loading files in iPython](/iPython/save_files_ipython.md)
 
 ## Markdown
 
@@ -84,13 +90,8 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Convert Markdown to Word (or other file types)](/Markdown/convert_md_to_word.md)
 - [Create tables](/Markdown/create_tables.md)
 - [Export from VS Code](/Markdown/export_from_vs_code.md/)
-- [How to quote](Markdown/quote.md)
 - [Formatting Code](Markdown/formatting_code.md)
-
-## iPython
-
-- [Saving, running and loading files in iPython](/iPython/save_files_ipython.md)
-- [Clear and exit iPython](/iPython/clear_and_exit_ipython.md)
+- [How to quote](Markdown/how_to_quote.md)
 
 ## mysql
 
@@ -165,6 +166,11 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Rotate x labels](/Plotting/rotate_xlabels.md)
 - [Using plt.subplots](/Plotting/using_plt_subplots.md)
 
+## Power BI
+
+- [Create a table using Python](/power_bi/create_a_table_using_python.md)
+- [Returning icons as conditional formatting](/power_bi/returning_icons.md)
+
 ## Python
 
 - [Access columns](Python/access_columns.md)
@@ -204,11 +210,6 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Using lambda with if, elif and else conditions](/Python/using_lambda_with_conditions.md)
 - [Using shape](Python/dataframe_shape.md)
 - [Write, read and append files](Python/write_and_read_files.md)
-
-## Power BI
-
-- [Create a table using Python](/power_bi/create_a_table_using_python.md)
-- [Returning icons as conditional formatting](/power_bi/returning_icons.md)
 
 ## Raspberry Pi
 
