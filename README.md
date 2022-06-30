@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 149 entries so far!
+> :tada: There are 150 entries so far!
 
 ## Tracking
 
@@ -10,7 +10,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [x] 75 TILs - :calendar: 13/04/2022
 - [x] 100 TILs - :calendar: 08/05/2022
 - [x] 125 TILs - :calendar: 30/05/2022
-- [ ] 150 TILs
+- [x] 150 TILs - :calendar: 30/06/2022
 - [ ] 175 TILs
 - [ ] 200 TILs
 
@@ -31,6 +31,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Power BI](#power-bi)
 - [Python](#python)
 - [Raspberry Pi](#raspberry-pi)
+- [Scripts](#scripts)
 - [Spark](#spark)
 - [SQL](#sql)
 - [VBA](#vba)
@@ -215,6 +216,10 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 
 - [Performing updates from the command line](/raspberry-pi/performing_updates.md)
 - [Reset SSH keygen](/raspberry-pi/reset-keygen.md)
+
+## Scripts
+
+- [Prevent Windows from sleeping](/scripts/prevent_windows_from_sleeping.md)
 
 ## Spark
 
