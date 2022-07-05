@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 150 entries so far!
+> :tada: There are 156 entries so far!
 
 ## Tracking
 
@@ -22,6 +22,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Example datasets](#example-datasets)
 - [Excel](#excel)
 - [Git](#git)
+- [HackerRank Challenge Solutions](#hackerrrank)
 - [iPython](#ipython)
 - [Markdown](#markdown)
 - [mysql](#mysql)
@@ -79,6 +80,11 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Commit](/Git/commit_to_repo.md)
 - [Publish (push) branches](/Git/publish_branch.md)
 - [Stage changes](/Git/stage_changes.md)
+
+## HackerRank
+
+- [Check if year is a leap year](/hackerrank/check_if_leap_year.md)
+- [Print numbers inbetween 1 and n on the same line with no spaces](/hackerrank/print_numbers_inbetween.md)
 
 ## iPython
 
@@ -153,6 +159,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Annotate Plots](/Plotting/annotate_plots.md)
 - [Change bar colours](/Plotting/colors.md)
 - [Conditional colours](/Plotting/conditional_colors.md)
+- [Create advanced lineplots](/plotting/create_advanced_lineplots.md)
 - [Create barplots](/Plotting/create_barplots.md)
 - [Create boxplots](/Plotting/create_boxplots.md)
 - [Create countplots](/Plotting/create_countplot.md)
