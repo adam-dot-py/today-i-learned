@@ -159,7 +159,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Annotate Plots](/Plotting/annotate_plots.md)
 - [Change bar colours](/Plotting/colors.md)
 - [Conditional colours](/Plotting/conditional_colors.md)
-- [Create advanced lineplots](/plotting/create_advanced_lineplots.md)
+- [Create advanced lineplots](/Plotting/create_advanced_lineplots.md)
 - [Create barplots](/Plotting/create_barplots.md)
 - [Create boxplots](/Plotting/create_boxplots.md)
 - [Create countplots](/Plotting/create_countplot.md)
