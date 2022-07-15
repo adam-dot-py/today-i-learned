@@ -14,7 +14,7 @@ ax = plt.subplot(111)
 for i in range(5):
     ax.plot(x, i * x, label='$y = %ix$' % i)
 
-ax.legend(loc='center left', bbox_to_anchor=(1, 0.5), ncol=1, fancybox=True)
+ax.legend(loc='center left', bbox_to_anchor=(1, 0.5), ncol=1, fancybox=True, title="This is my title")
 
 plt.show()
 ```
