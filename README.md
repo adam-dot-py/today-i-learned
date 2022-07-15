@@ -70,6 +70,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Calculating Margin of Error](/Excel/calculating_margin_of_error.md)
 - [Conditional formatting](Excel/conditional_formatting_row.md)
 - [Forecasting with CAGR](Excel/forecasting_with_cagr.md)
+- [Format negative numbers in parenthesis](/excel/format__negative_numbers_in_parenthesis.md)
 - [Formatting numbers to include seperators](Excel/formatting_numbers.md)
 
 ## Git

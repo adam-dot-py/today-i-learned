@@ -3,17 +3,19 @@
 This function can be used to round a number to the closest given multiple:
 
 ```python
-def round_to_nearest_multiple(x, multiple):
-    """round_to_nearest_multiple(x, multiple) --> rounds a number to the closest multiple given
+def round_to_nearest_multiple(*argv, base=5):
+    
+    """round_to_nearest_multiple(argv*, base) --> rounds a number to the closest base given
     
     Parameters:
-    x = the number to round
-    multiple = the closest multiple to round to
+    argv* = the number or list of values to round
+    base = the closest multiple to round to. Defaults to 5.
     """
 
-    return multiple * round(x/multiple)
+    for arg in argv:
+        return base * round(arg/base)
 
-round_to_nearest_multiple(4, multiple=5)
+round_to_nearest_multiple(4, base=5)
 ```
 
 The above output would be 5, since 4's closest multiple of 5 is 5.
