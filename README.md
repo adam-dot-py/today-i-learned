@@ -158,7 +158,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 ## Plotting
 
 - [Add plot labels](/Plotting/add_bar_labels.md)
-- [Add line labels](/plotting/add_line_labels.md)
+- [Add line labels](/Plotting/add_line_labels.md)
 - [Add titles](/Plotting/add_titles.md)
 - [Annotate Plots](/Plotting/annotate_plots.md)
 - [Change bar colours](/Plotting/colors.md)
