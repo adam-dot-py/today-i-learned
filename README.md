@@ -175,7 +175,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Moving the legend](/Plotting/moving_legend.md)
 - [Pad the axis](/Plotting/pad_axis.md)
 - [Plot a quick graph](/Plotting/plot_a_quick_graph.md)
-- [Plot confidence intervals](/plotting/plot_confidence_intervals.md)
+- [Plot confidence intervals](/Plotting/plot_confidence_intervals.md)
 - [Rotate x labels](/Plotting/rotate_xlabels.md)
 - [Using plt.subplots](/Plotting/using_plt_subplots.md)
 
@@ -216,7 +216,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Using lambda with conditions](/Python/using_lambda_with_conditions.md)
 - [Using lambda more generally](/Python/using_lambda.md)
 - [Using loc & iloc](Python/using_loc.md)
-- [Using os](/python/using_os.md)
+- [Using os](/Python/using_os.md)
 - [Using range](/Python/using_range.md)
 - [Using requests](/Python/using_requests.md)
 - [Using rest](/Python/using_rest.md)
