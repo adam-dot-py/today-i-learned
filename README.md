@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 156 entries so far!
+> :tada: There are 163 entries so far!
 
 ## Tracking
 
@@ -109,6 +109,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 ## Numpy
 
 - [Restrict values to a threshold](/numpy/restrict_values_threshold.md)
+- [Using np.where](/numpy/using_np_where.md)
 
 ## Pandas
 
@@ -142,6 +143,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Rename columns](Pandas/rename_columns.md)
 - [Reorder pivot table columns](/Pandas/reorder_pivot_table.md)
 - [Replace a column value with a value from another column](Pandas/replace_value_with_value_from_column.md)
+- [Replace values in columns](/pandas/replace_values_in_columns.md)
 - [Sum columns in a DataFrame](/Pandas/sum_columns.md)
 - [Sum rows in a DataFrame](/Pandas/sum_rows.md)
 - [Unstack a dictionary to a DataFrame](/Pandas/unstack_dictionary_to_dataframe.md)
@@ -156,6 +158,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 ## Plotting
 
 - [Add plot labels](/Plotting/add_bar_labels.md)
+- [Add line labels](/plotting/add_line_labels.md)
 - [Add titles](/Plotting/add_titles.md)
 - [Annotate Plots](/Plotting/annotate_plots.md)
 - [Change bar colours](/Plotting/colors.md)
@@ -172,6 +175,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Moving the legend](/Plotting/moving_legend.md)
 - [Pad the axis](/Plotting/pad_axis.md)
 - [Plot a quick graph](/Plotting/plot_a_quick_graph.md)
+- [Plot confidence intervals](/plotting/plot_confidence_intervals.md)
 - [Rotate x labels](/Plotting/rotate_xlabels.md)
 - [Using plt.subplots](/Plotting/using_plt_subplots.md)
 
@@ -212,6 +216,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Using lambda with conditions](/Python/using_lambda_with_conditions.md)
 - [Using lambda more generally](/Python/using_lambda.md)
 - [Using loc & iloc](Python/using_loc.md)
+- [Using os](/python/using_os.md)
 - [Using range](/Python/using_range.md)
 - [Using requests](/Python/using_requests.md)
 - [Using rest](/Python/using_rest.md)
