@@ -28,7 +28,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [mysql](#mysql)
 - [Numpy](#numpy)
 - [Pandas](#pandas)
-- [Plotting](#plotting)
+- [Plotting](#Plotting)
 - [Power BI](#power-bi)
 - [Python](#python)
 - [Raspberry Pi](#raspberry-pi)
@@ -64,6 +64,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 
 ## Excel
 
+- [Calculate age](/excel/calculate_age.md)
 - [Calculate market share](/Excel/calculate_market_share.md)
 - [Calculate percentage increase or decrease](/Excel/calculate_pct_increase_decrease.md)
 - [Calculating CAGR](Excel/calculating_cagr.md)
@@ -147,6 +148,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Sum columns in a DataFrame](/Pandas/sum_columns.md)
 - [Sum rows in a DataFrame](/Pandas/sum_rows.md)
 - [Unstack a dictionary to a DataFrame](/Pandas/unstack_dictionary_to_dataframe.md)
+- [Using at](/pandas/using_at.md)
 - [Using Group By](/Pandas/using_groupby.md)
 - [Using json_normalize](/Pandas/using_json_normalize.md)
 - [Using melt](/Pandas/using_melt.md)
