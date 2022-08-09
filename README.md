@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 165 entries so far!
+> :tada: There are 171 entries so far!
 
 ## Tracking
 
@@ -16,27 +16,28 @@ This is a collection of comprehensive but small write ups of things I learn each
 
 ## Categories
 
-- [Command Prompt](#command-prompt)
-- [Databricks](#databricks)
-- [Dax](#dax)
-- [Example datasets](#example-datasets)
-- [Excel](#excel)
-- [Git](#git)
-- [HackerRank Challenge Solutions](#hackerrrank)
+- [Command Prompt](#Command-Prompt)
+- [Databricks](#Databricks)
+- [Dax](#Dax)
+- [Example datasets](#Example-Datasets)
+- [Excel](#Excel)
+- [Git](#Git)
+- [HackerRank Challenge Solutions](#Hackerrrank)
 - [iPython](#ipython)
-- [Markdown](#markdown)
-- [mysql](#mysql)
-- [Numpy](#numpy)
-- [Pandas](#pandas)
+- [Markdown](#Markdown)
+- [mysql](#Mysql)
+- [Numpy](#Numpy)
+- [Pandas](#Pandas)
 - [Plotting](#Plotting)
-- [Power BI](#power-bi)
-- [Python](#python)
-- [Raspberry Pi](#raspberry-pi)
-- [Scripts](#scripts)
-- [Spark](#spark)
-- [SQL](#sql)
-- [VBA](#vba)
-- [Work Specific](#work-specific)
+- [Power BI](#Power-bi)
+- [Python](#Python)
+- [Raspberry Pi](#Raspberry-pi)
+- [Scripts](#Scripts)
+- [Spark](#Spark)
+- [SQL](#SQL)
+- [VBA](#VBA)
+- [Wiki](#Wiki)
+- [Work Specific](#Work-Specific)
 
 ---
 
@@ -256,6 +257,15 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 ## VBA
 
 - [Split a sheet to multiple sheets (tabs)](VBA/split_sheet_to_multiple.md)
+
+## Wiki
+
+- [What is a console?](/wiki/console.md)
+- [What is CPython?](/wiki/cpython.md)
+- [What are the fundamentals of a programming language?](/wiki/fundamentals_of_language.md)
+- [What is machine code?](/wiki/machine_code.md)
+- [What is the definition of a script?](/wiki/script.md)
+- [What is a source file?](/wiki/source_file.md)
 
 ## Work Specific
 
