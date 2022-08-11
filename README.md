@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 171 entries so far!
+> :tada: There are 179 entries so far!
 
 ## Tracking
 
@@ -11,33 +11,38 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [x] 100 TILs - :calendar: 08/05/2022
 - [x] 125 TILs - :calendar: 30/05/2022
 - [x] 150 TILs - :calendar: 30/06/2022
-- [ ] 175 TILs
+- [x] 175 TILs - :calendar: 11/08/2022
 - [ ] 200 TILs
+- [ ] 225 TILs
+- [ ] 250 TILs
+- [ ] 275 TILs
+- [ ] 300 TILs
 
 ## Categories
 
-- [Command Prompt](#Command-Prompt)
-- [Databricks](#Databricks)
-- [Dax](#Dax)
-- [Example datasets](#Example-Datasets)
-- [Excel](#Excel)
-- [Git](#Git)
-- [HackerRank Challenge Solutions](#Hackerrrank)
+- [Command Prompt](#command-prompt)
+- [Databricks](#databricks)
+- [Dax](#dax)
+- [Example datasets](#example-datasets)
+- [Excel](#excel)
+- [Git](#git)
+- [HackerRank Challenge Solutions](#hackerrank)
 - [iPython](#ipython)
-- [Markdown](#Markdown)
-- [mysql](#Mysql)
-- [Numpy](#Numpy)
-- [Pandas](#Pandas)
-- [Plotting](#Plotting)
-- [Power BI](#Power-bi)
-- [Python](#Python)
-- [Raspberry Pi](#Raspberry-pi)
-- [Scripts](#Scripts)
-- [Spark](#Spark)
-- [SQL](#SQL)
-- [VBA](#VBA)
-- [Wiki](#Wiki)
-- [Work Specific](#Work-Specific)
+- [Markdown](#markdown)
+- [mysql](#mysql)
+- [Numpy](#numpy)
+- [Pandas](#pandas)
+- [Plotting](#plotting)
+- [Power BI](#power-bi)
+- [Python](#python)
+- [Raspberry Pi](#raspberry-pi)
+- [Scripts](#scripts)
+- [Spark](#spark)
+- [SQL](#sql)
+- [Useful Python Function](#useful-custom-python-functions)
+- [VBA](#vba)
+- [Wiki](#wiki)
+- [Work Specific](#work-specific)
 
 ---
 
@@ -70,10 +75,12 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Calculate percentage increase or decrease](/Excel/calculate_pct_increase_decrease.md)
 - [Calculating CAGR](Excel/calculating_cagr.md)
 - [Calculating Margin of Error](/Excel/calculating_margin_of_error.md)
+- [Check if value exists in a list](/excel/check_if_value_is_in_list.md)
 - [Conditional formatting](Excel/conditional_formatting_row.md)
 - [Forecasting with CAGR](Excel/forecasting_with_cagr.md)
 - [Format negative numbers in parenthesis](/excel/format__negative_numbers_in_parenthesis.md)
 - [Formatting numbers to include seperators](Excel/formatting_numbers.md)
+- [VLOOKUP with multiple conditions](/excel/vlookup_multiple_conditions.md)
 
 ## Git
 
@@ -127,6 +134,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Convert a DataFrame to a text file](/Pandas/convert_dataframe_to_text.txt)
 - [Convert value counts to a DataFrame](/Pandas/convert_value_counts_to_dataframe.md)
 - [Create mean row or column](/Pandas/create_mean_row_or_column.md)
+- [Create percentage values in pivot tables](/pandas/create_percentage_values_in_pivots.md)
 - [Create a random DataFrame](/Pandas/create_random_dataframe.md)
 - [Drop rows that are not integers](Pandas/drop_rows_not_integers.md)
 - [Expand the column width](/Pandas/expand_column_width.md)
@@ -173,6 +181,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Create dumbbell charts](/Plotting/create_dumbell_chart.md)
 - [Create lineplot with marker charts](/Plotting/create_lineplot_with_markers.md)
 - [Create lineplots](/Plotting/create_lineplots.md)
+- [Create piecharts](/plotting/create_pie_charts.md)
 - [Create scatter charts](/Plotting/create_scatter_plots.md)
 - [Invert the y or x axis](/Plotting/invert_axis.md)
 - [Moving the legend](/Plotting/moving_legend.md)
@@ -254,6 +263,11 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Using OVER clause](/SQL/using_over_clause.md)
 - [Using UNION clause](/SQL/using_union.md)
 
+## Useful Custom Python Functions
+
+- [Age on entry](/useful_custom_python_functions/age_on_entry.md)
+- [CAGR](/useful_custom_python_functions/cagr.md)
+
 ## VBA
 
 - [Split a sheet to multiple sheets (tabs)](VBA/split_sheet_to_multiple.md)
@@ -272,3 +286,4 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Combining HESA files](/work-specific/combining_hesa_files.md)
 - [Create a date DataFrame](/work-specific/create_date_df.md)
 - [Flatten JSON](/work-specific/flatten_json.md)
+- [Using plake_name (parameters on Power BI)](/work-specific/plake_name.md)
