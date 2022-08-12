@@ -241,6 +241,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 
 - [Performing updates from the command line](/raspberry-pi/performing_updates.md)
 - [Reset SSH keygen](/raspberry-pi/reset-keygen.md)
+- [Update Pi-hole](/raspberry-pi/update_pihole.md)
 
 ## Scripts
 
