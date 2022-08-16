@@ -88,3 +88,65 @@ else:
 ```
 
 This uses list comprehension to search for a given `value` and return the keys that contain that `value`. If no `key` contains the `value`, then the `else` statement is used. The list comprehension statement is saying for each pair, check if the given `value` exists associated with the `key` or not. If yes, put that key in `list_of_keys`.
+
+## Other uses
+
+```python
+d1 = {'a' : 10, 'b' : 20, 'c' : 'an integer'}
+
+'b' in d1 # return true or false if present
+d1['a'] # return value for the given key
+d1.update({'d' : 40, 'e' : [1,2,3,4], 'a' : 15}) # add new items, or update existing items in place
+del d1['c'] # delete a key-value pair
+ret = d1.pop('b') # return the value whilst deleting the key-value in the dictionary
+
+## Constructing dicts
+
+# Method 1
+key_list = range(3)
+value_list = ['foo', 'bar', 'baz']
+mapping = {}
+
+for key, value in zip(key_list, value_list):
+    mapping[key] = value
+
+# Method 2
+other_dict = dict(zip(range(5), reversed(range(5))))
+
+# Method 3
+words = ['apple','bat','bar','atom','book']
+by_letter = {}
+
+for word in words:
+    letter = word[0] # get the first letter of each word
+    if letter not in by_letter:
+        by_letter[letter] = [word] # if the letter does not exists as a key, create it and assign the word to it as a list
+    else:
+        by_letter[letter].append(word) # if it does exist, append the word to the value list
+
+by_letter
+
+# Method 4
+
+from collections import defaultdict
+
+by_letter = defaultdict(list)
+for word in words:
+    by_letter[word[0]].append(word)
+
+by_letter
+
+# Method 5
+
+for word in words:
+    letter = word[0]
+    by_letter.setdefault(letter, []).append(word)
+
+by_letter
+
+# Method 6 - dict comprehension
+
+strings = ['foo', 'bar', 'baz']
+my_dict = {val : index for index, val in enumerate(strings)}
+my_dict
+```
