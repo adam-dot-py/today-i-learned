@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 179 entries so far!
+> :tada: There are 183 entries so far!
 
 ## Tracking
 
@@ -235,6 +235,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Using string formatting](/Python/using_string_formatting.md)
 - [Using lambda with if, elif and else conditions](/Python/using_lambda_with_conditions.md)
 - [Using shape](Python/dataframe_shape.md)
+- [Using zip](/Python/using_zip.md)
 - [Write, read and append files](Python/write_and_read_files.md)
 
 ## Raspberry Pi
