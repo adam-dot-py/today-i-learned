@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 183 entries so far!
+> :tada: There are 190 entries so far!
 
 ## Tracking
 
@@ -80,6 +80,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Forecasting with CAGR](Excel/forecasting_with_cagr.md)
 - [Format negative numbers in parenthesis](/excel/format__negative_numbers_in_parenthesis.md)
 - [Formatting numbers to include seperators](Excel/formatting_numbers.md)
+- [Round to nearest multiple](/excel/round_to_nearest_multiple.md)
 - [VLOOKUP with multiple conditions](/excel/vlookup_multiple_conditions.md)
 
 ## Git
@@ -134,9 +135,10 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Convert a DataFrame to a text file](/Pandas/convert_dataframe_to_text.txt)
 - [Convert value counts to a DataFrame](/Pandas/convert_value_counts_to_dataframe.md)
 - [Create mean row or column](/Pandas/create_mean_row_or_column.md)
-- [Create percentage values in pivot tables](/pandas/create_percentage_values_in_pivots.md)
+- [Create percentage values in pivot tables](/Pandas/create_percentage_values_in_pivots.md)
 - [Create a random DataFrame](/Pandas/create_random_dataframe.md)
 - [Drop rows that are not integers](Pandas/drop_rows_not_integers.md)
+- [Dynamically change duplicated column names](/Pandas/dynamically_change_duplicated_column_names.md)
 - [Expand the column width](/Pandas/expand_column_width.md)
 - [Filter a DataFrame to unique values in a column](/Pandas/filter_dataframe_to_unique_values.md)
 - [Filter Dataframes](Pandas/filter_dataframe.md)
@@ -149,11 +151,13 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Limit a dataframe by rows or columns](Pandas/restrict_dataframe_by_rows_columns.md)
 - [Pull tables from websites into Dataframes](Pandas/pull_table_from_webpage.md)
 - [Read .csv files](/Pandas/read_csvs.md)
+- [Remove multiple characters from column headers](/pandas/remove_multiple_characters_from_column_header.md)
 - [Remove spaces in column headers](Pandas/remove_spaces_from_columns.md)
 - [Rename columns](Pandas/rename_columns.md)
 - [Reorder pivot table columns](/Pandas/reorder_pivot_table.md)
 - [Replace a column value with a value from another column](Pandas/replace_value_with_value_from_column.md)
 - [Replace values in columns](/Pandas/replace_values_in_columns.md)
+- [Show duplicated columns](/Pandas/show_duplicated_columns.md)
 - [Sum columns in a DataFrame](/Pandas/sum_columns.md)
 - [Sum rows in a DataFrame](/Pandas/sum_rows.md)
 - [Unstack a dictionary to a DataFrame](/Pandas/unstack_dictionary_to_dataframe.md)
@@ -240,6 +244,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 
 ## Raspberry Pi
 
+- [Check available space](/raspberry-pi/check_available_space.md)
 - [Performing updates from the command line](/raspberry-pi/performing_updates.md)
 - [Reset SSH keygen](/raspberry-pi/reset-keygen.md)
 - [Update Pi-hole](/raspberry-pi/update_pihole.md)
@@ -251,9 +256,11 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 ## Spark
 
 - [Add a column to a DataFrame](/Spark/add_column_to_dataframe.md)
+- [Cast a dataframe to string](/Spark/cast_dataframe_to_string.md)
 - [Convert a Pandas dataframe to a Spark dataframe](Spark/convert_pandas_to_spark.md)
 - [Create schemas](/Spark/creating_schemas.md)
 - [Drop columns](/Spark/drop_columns.md)
+- [Show unique values](/Spark/show_unique_values.md)
 - [Using spark.table](/Spark/using_spark_table.md)
 
 ## SQL

@@ -8,10 +8,10 @@ pdf = pd.DataFrame({'A':['x','y','z','x','y','z'],
                  'B':['one','one','one','two','two','two'],
                  'C':[2,18,2,8,2,18]})
 
-pivot = df.pivot_table(index=['A','B'],
+pivot = pdf.pivot_table(index=['A','B'],
                     aggfunc=np.sum)
 
-pivot['% of grand total'] = (table.C / pivot.C.sum() * 100) # create a percentage of grand total
+pivot['% of grand total'] = (pivot.C / pivot.C.sum() * 100) # create a percentage of grand total
 pivot['pct of B'] = (pivot.C / pivot.groupby(level=0).C.transform(sum) * 100) # create a percentage of category
 ```
 
