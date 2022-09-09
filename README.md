@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 190 entries so far!
+> :tada: There are 191 entries so far!
 
 ## Tracking
 
@@ -276,6 +276,8 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 
 - [Age on entry](/useful_custom_python_functions/age_on_entry.md)
 - [CAGR](/useful_custom_python_functions/cagr.md)
+- [Days between dates](/useful_custom_python_functions/days_between.md)
+- [Round to nearest multiple](/useful_custom_python_functions/round_to_nearest_multiple.md)
 
 ## VBA
 
