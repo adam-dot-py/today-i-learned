@@ -132,7 +132,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Construct a DataFrame from a list](/Pandas/construct_dataframe_from_list.md)
 - [Convert string column to datetime](Pandas/convert_column_to_datetime.md)
 - [Convert a DataFrame to a dictionary](Pandas/convert_dataframe_to_dict.md)
-- [Convert a DataFrame to a text file](/Pandas/convert_dataframe_to_text.txt)
+- [Convert a DataFrame to a text file](/Pandas/convert_dataframe_to_text.md)
 - [Convert value counts to a DataFrame](/Pandas/convert_value_counts_to_dataframe.md)
 - [Create mean row or column](/Pandas/create_mean_row_or_column.md)
 - [Create percentage values in pivot tables](/Pandas/create_percentage_values_in_pivots.md)
