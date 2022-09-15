@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 191 entries so far!
+> :tada: There are 193 entries so far!
 
 ## Tracking
 
@@ -91,6 +91,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Commit](/Git/commit_to_repo.md)
 - [Publish (push) branches](/Git/publish_branch.md)
 - [Stage changes](/Git/stage_changes.md)
+- [Updating branches](/git/updating_branch.md)
 
 ## HackerRank
 
@@ -162,6 +163,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Sum rows in a DataFrame](/Pandas/sum_rows.md)
 - [Unstack a dictionary to a DataFrame](/Pandas/unstack_dictionary_to_dataframe.md)
 - [Using at](/Pandas/using_at.md)
+- [Using bins or buckets](/pandas/using_bins_or_buckets.md)
 - [Using Group By](/Pandas/using_groupby.md)
 - [Using json_normalize](/Pandas/using_json_normalize.md)
 - [Using melt](/Pandas/using_melt.md)
