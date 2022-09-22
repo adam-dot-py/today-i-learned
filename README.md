@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 193 entries so far!
+> :tada: There are 197 entries so far!
 
 ## Tracking
 
@@ -135,6 +135,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Convert a DataFrame to a dictionary](Pandas/convert_dataframe_to_dict.md)
 - [Convert a DataFrame to a text file](/Pandas/convert_dataframe_to_text.md)
 - [Convert value counts to a DataFrame](/Pandas/convert_value_counts_to_dataframe.md)
+- [Create a week commencing column](/Pandas/create_a_week_commencing_column.md)
 - [Create mean row or column](/Pandas/create_mean_row_or_column.md)
 - [Create percentage values in pivot tables](/Pandas/create_percentage_values_in_pivots.md)
 - [Create a random DataFrame](/Pandas/create_random_dataframe.md)
@@ -149,6 +150,8 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Limiting a DataFrame](/Pandas/limit_dataframe.md)
 - [Merge DataFrames and update values](/Pandas/merge_dataframes_update_values.md)
 - [Merge DataFrames together](/Pandas/merge_dataframes.md)
+- [Perform calculations on multilevel index pivot tables](/Pandas/perform_calculations_on_multilevel_pivot_tables.md)
+- [Perform calculations on specific rows](/Pandas/perform_calculations_using_rows.md)
 - [Limit a dataframe by rows or columns](Pandas/restrict_dataframe_by_rows_columns.md)
 - [Pull tables from websites into Dataframes](Pandas/pull_table_from_webpage.md)
 - [Read .csv files](/Pandas/read_csvs.md)
@@ -279,6 +282,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Age on entry](/useful_custom_python_functions/age_on_entry.md)
 - [CAGR](/useful_custom_python_functions/cagr.md)
 - [Days between dates](/useful_custom_python_functions/days_between.md)
+- [Lookup a value in a dictionary](/useful_custom_python_functions/lookup_value_in_dictionary.md)
 - [Round to nearest multiple](/useful_custom_python_functions/round_to_nearest_multiple.md)
 
 ## VBA
