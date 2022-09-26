@@ -21,3 +21,9 @@ df.columns = ['col1', 'col2', 'col3', 'col4', 'col5']
 ```
 
 The amount of columns needs to be the same as the `shape` of the `DataFrame`.
+
+You can also rename columns by position:
+
+```python
+df.rename(columns={df.coluumns[1] : 'whatever', df.columns[2]: 'whatever2'}, inplace=True)
+```
