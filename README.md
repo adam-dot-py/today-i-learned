@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 198 entries so far!
+> :tada: There are 200 entries so far!
 
 ## Tracking
 
@@ -12,7 +12,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [x] 125 TILs - :calendar: 30/05/2022
 - [x] 150 TILs - :calendar: 30/06/2022
 - [x] 175 TILs - :calendar: 11/08/2022
-- [ ] 200 TILs
+- [x] 200 TILs - :calendar: 26/09/2022
 - [ ] 225 TILs
 - [ ] 250 TILs
 - [ ] 275 TILs
@@ -250,6 +250,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 
 ## Raspberry Pi
 
+- [Adding an alias to bash](/raspberry-pi/adding_alias_to_bash.md)
 - [Check available space](/raspberry-pi/check_available_space.md)
 - [Performing updates from the command line](/raspberry-pi/performing_updates.md)
 - [Reset SSH keygen](/raspberry-pi/reset-keygen.md)
