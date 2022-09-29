@@ -4,7 +4,7 @@ To update the repo and remove branches that have been deleted from GitHub, use:
 
 `git fetch --prune`
 
-To delete branches manually: 
+To delete branches manually:
 
 ```git
 // delete branch locally
