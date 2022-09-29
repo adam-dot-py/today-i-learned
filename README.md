@@ -48,8 +48,8 @@ This is a collection of comprehensive but small write ups of things I learn each
 
 ## Command Prompt
 
-- [Make a new directory](/command_prompt/make_new_directory.md)
-- [List files in a directory](/command_prompt/list_files_in_dir.md)
+- [Make a new directory](/command-prompt/make_new_directory.md)
+- [List files in a directory](/command-prompt/list_files_in_dir.md)
 
 ## Databricks
 
@@ -64,9 +64,10 @@ This is a collection of comprehensive but small write ups of things I learn each
 
 ## Example Datasets
 
-Check out the [README](/example_datasets/dataset_readme.md) file for more information on each dataset.
+Check out the [README](/example-datasets/dataset_readme.md) file for more information on each dataset.
 
-- [Country Data](/example_datasets/country_data.csv)
+- [Country Data](/example-datasets/country-data.csv)
+- [Frankfurt Weather](/example-datasets/frankfurt-weather.csv)
 
 ## Excel
 
@@ -88,8 +89,10 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Add .gitignore and resync](/Git/add_gitignore.md)
 - [Chain commands](/Git/chain_commands.md)
 - [Create a branch](/Git/create_new_branch.md)
+- [Delete branches](/git/delete_branches.md)
 - [Commit](/Git/commit_to_repo.md)
 - [Publish (push) branches](/Git/publish_branch.md)
+- [Rename branches](/git/rename-branches.md)
 - [Stage changes](/Git/stage_changes.md)
 - [Updating branches](/Git/updating_branch.md)
 
@@ -100,8 +103,8 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 
 ## iPython
 
-- [Clear and exit iPython](/iPython/clear_and_exit_ipython.md)
-- [Saving, running and loading files in iPython](/iPython/save_files_ipython.md)
+- [Clear and exit iPython](/ipython/clear_and_exit_ipython.md)
+- [Saving, running and loading files in iPython](/ipython/save_files_ipython.md)
 
 ## Markdown
 
@@ -142,6 +145,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Create nested dictionaries from dataframes](/pandas/created_nested_dictionaries_from_dataframes.md)
 - [Drop rows that are not integers](Pandas/drop_rows_not_integers.md)
 - [Dynamically change duplicated column names](/Pandas/dynamically_change_duplicated_column_names.md)
+- [Dynamically slice strings in columns](/Pandas/dynamically-slice-strings-in-columns.md)
 - [Expand the column width](/Pandas/expand_column_width.md)
 - [Filter a DataFrame to unique values in a column](/Pandas/filter_dataframe_to_unique_values.md)
 - [Filter Dataframes](Pandas/filter_dataframe.md)
@@ -203,8 +207,8 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 
 ## Power BI
 
-- [Create a table using Python](/power_bi/create_a_table_using_python.md)
-- [Returning icons as conditional formatting](/power_bi/returning_icons.md)
+- [Create a table using Python](/power-bi/create_a_table_using_python.md)
+- [Returning icons as conditional formatting](/power-bi/returning_icons.md)
 
 ## Python
 
@@ -218,6 +222,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Compress dataframes to zip folder](/Python/compress_dataframes_to_zip.md)
 - [Count the number of files in a directory](Python/count_files_in_directory.md)
 - [Create a calculated column](Python/create_a_calculate_column.md)
+- [Download and save files](/Python/download-and-save-files.md)
 - [Expand Nested JSON in a Pandas DataFrame](/Python/expanding_nested_json.md)
 - [Flatten nested lists](/Python/flatten_nested_lists.md)
 - [Pull Survey IDs and Names from SurveyMonkey Account](Python/get_surveys_from_surveymonkey.md)
@@ -246,6 +251,7 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 - [Using lambda with if, elif and else conditions](/Python/using_lambda_with_conditions.md)
 - [Using shape](Python/dataframe_shape.md)
 - [Using zip](/Python/using_zip.md)
+- [Using map](/Python/using-map.md)
 - [Write, read and append files](Python/write_and_read_files.md)
 
 ## Raspberry Pi
@@ -281,11 +287,11 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 
 ## Useful Custom Python Functions
 
-- [Age on entry](/useful_custom_python_functions/age_on_entry.md)
-- [CAGR](/useful_custom_python_functions/cagr.md)
-- [Days between dates](/useful_custom_python_functions/days_between.md)
-- [Lookup a value in a dictionary](/useful_custom_python_functions/lookup_value_in_dictionary.md)
-- [Round to nearest multiple](/useful_custom_python_functions/round_to_nearest_multiple.md)
+- [Age on entry](/useful-custom-python-functions/age_on_entry.md)
+- [CAGR](/useful-custom-python-functions/cagr.md)
+- [Days between dates](/useful-custom-python-functions/days_between.md)
+- [Lookup a value in a dictionary](/useful-custom-python-functions/lookup_value_in_dictionary.md)
+- [Round to nearest multiple](/useful-custom-python-functions/round_to_nearest_multiple.md)
 
 ## VBA
 
@@ -304,5 +310,6 @@ Check out the [README](/example_datasets/dataset_readme.md) file for more inform
 
 - [Combining HESA files](/work-specific/combining_hesa_files.md)
 - [Create a date DataFrame](/work-specific/create_date_df.md)
+- [Create Azure DevOps Build Definitions](/work-specific/creating-build-definitions.md)
 - [Flatten JSON](/work-specific/flatten_json.md)
 - [Using plake_name (parameters on Power BI)](/work-specific/plake_name.md)
