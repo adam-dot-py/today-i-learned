@@ -1,6 +1,6 @@
 # Merging dataframes
 
-Merging dataframes is done via `pd.concat`. 
+Merging dataframes is done via `pd.concat`.
 
 ```python
 df = pd.DataFrame(np.random.randint(0, 50, size = (4, 5)), columns = list('ABCDE'))

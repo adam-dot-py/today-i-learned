@@ -36,6 +36,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Power BI](#power-bi)
 - [Python](#python)
 - [Raspberry Pi](#raspberry-pi)
+- [Regex Expressions](#regex-expressions)
 - [Scripts](#scripts)
 - [Spark](#spark)
 - [SQL](#sql)
@@ -142,7 +143,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Create mean row or column](/Pandas/create_mean_row_or_column.md)
 - [Create percentage values in pivot tables](/Pandas/create_percentage_values_in_pivots.md)
 - [Create a random DataFrame](/Pandas/create_random_dataframe.md)
-- [Create nested dictionaries from dataframes](/pandas/created_nested_dictionaries_from_dataframes.md)
+- [Create nested dictionaries from dataframes](/Pandas/created_nested_dictionaries_from_dataframes.md)
 - [Drop rows that are not integers](Pandas/drop_rows_not_integers.md)
 - [Dynamically change duplicated column names](/Pandas/dynamically_change_duplicated_column_names.md)
 - [Dynamically slice strings in columns](/Pandas/dynamically-slice-strings-in-columns.md)
@@ -261,6 +262,10 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Performing updates from the command line](/raspberry-pi/performing_updates.md)
 - [Reset SSH keygen](/raspberry-pi/reset-keygen.md)
 - [Update Pi-hole](/raspberry-pi/update_pihole.md)
+
+## Regex Expressions
+
+- [Find UK phone numbers](/regex-expressions/find-uk-numbers.md)
 
 ## Scripts
 
