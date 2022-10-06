@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 200 entries so far!
+> :tada: There are 214 entries so far!
 
 ## Tracking
 
@@ -40,7 +40,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Scripts](#scripts)
 - [Spark](#spark)
 - [SQL](#sql)
-- [Useful Python Function](#useful-custom-python-functions)
+- [Useful Python Functions](#useful-custom-python-functions)
 - [VBA](#vba)
 - [Wiki](#wiki)
 - [Work Specific](#work-specific)
@@ -90,10 +90,10 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Add .gitignore and resync](/Git/add_gitignore.md)
 - [Chain commands](/Git/chain_commands.md)
 - [Create a branch](/Git/create_new_branch.md)
-- [Delete branches](/git/delete_branches.md)
+- [Delete branches](/Git/delete_branches.md)
 - [Commit](/Git/commit_to_repo.md)
 - [Publish (push) branches](/Git/publish_branch.md)
-- [Rename branches](/git/rename-branches.md)
+- [Rename branches](/Git/rename-branches.md)
 - [Stage changes](/Git/stage_changes.md)
 - [Updating branches](/Git/updating_branch.md)
 
@@ -115,6 +115,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Export from VS Code](/Markdown/export_from_vs_code.md/)
 - [Formatting Code](Markdown/formatting_code.md)
 - [How to quote](Markdown/how_to_quote.md)
+- [Subscript text](/Markdown/subscript-text.md)
 
 ## mysql
 
@@ -226,6 +227,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Download and save files](/Python/download-and-save-files.md)
 - [Expand Nested JSON in a Pandas DataFrame](/Python/expanding_nested_json.md)
 - [Flatten nested lists](/Python/flatten_nested_lists.md)
+- [Generate dictionary keys](/Python/generate-dictionary-keys.md)
 - [Pull Survey IDs and Names from SurveyMonkey Account](Python/get_surveys_from_surveymonkey.md)
 - [Insert characters into a string](Python/insert_characters_into_string.md)
 - [Integer division](Python/integer_division.md)
@@ -266,6 +268,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 ## Regex Expressions
 
 - [Find UK phone numbers](/regex-expressions/find-uk-numbers.md)
+- [Remove HESA CAH Codes](/regex-expressions/remove-hesa-cah-codes.md)
 
 ## Scripts
 
@@ -278,6 +281,9 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Convert a Pandas dataframe to a Spark dataframe](Spark/convert_pandas_to_spark.md)
 - [Create schemas](/Spark/creating_schemas.md)
 - [Drop columns](/Spark/drop_columns.md)
+- [Lookup values in a dictionary](/Spark/lookup-values-in-dictionary.md)
+- [Read a files from DBFS](/Spark/read-file-from-dbfs.md)
+- [Remove characters from column headers](/Spark/remove-characters-from-column-headers.md)
 - [Show unique values](/Spark/show_unique_values.md)
 - [Using spark.table](/Spark/using_spark_table.md)
 
@@ -294,6 +300,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 
 - [Age on entry](/useful-custom-python-functions/age_on_entry.md)
 - [CAGR](/useful-custom-python-functions/cagr.md)
+- [Count files in a directory](/useful-custom-python-functions/count-files-in-a-directory.md)
 - [Days between dates](/useful-custom-python-functions/days_between.md)
 - [Lookup a value in a dictionary](/useful-custom-python-functions/lookup_value_in_dictionary.md)
 - [Round to nearest multiple](/useful-custom-python-functions/round_to_nearest_multiple.md)
