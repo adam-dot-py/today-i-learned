@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 214 entries so far!
+> :tada: There are 215 entries so far!
 
 ## Tracking
 
@@ -322,6 +322,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 
 - [Combining HESA files](/work-specific/combining_hesa_files.md)
 - [Create a date DataFrame](/work-specific/create_date_df.md)
+- [Create StudyLink Status Ranking](/work-specific/create-studylink-status-ranking.md)
 - [Create Azure DevOps Build Definitions](/work-specific/creating-build-definitions.md)
 - [Flatten JSON](/work-specific/flatten_json.md)
 - [Using plake_name (parameters on Power BI)](/work-specific/plake_name.md)
