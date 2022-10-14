@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 215 entries so far!
+> :tada: There are 217 entries so far!
 
 ## Tracking
 
@@ -23,6 +23,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Command Prompt](#command-prompt)
 - [Databricks](#databricks)
 - [Dax](#dax)
+- [Exam Questions](#exam-questions)
 - [Example datasets](#example-datasets)
 - [Excel](#excel)
 - [Git](#git)
@@ -62,6 +63,11 @@ This is a collection of comprehensive but small write ups of things I learn each
 
 - [Add comments to measures](/DAX/add_comments.md)
 - [Using Calculate with multiple conditions](/DAX/using_calculate_multiple_conditions.md)
+
+## Exam Questions
+
+- [Group dictionary valyes by keys](/exam-questions/group-dictionary-values-by-key.md)
+- [Unpack nested lists to a dictionary](/exam-questions/unpack-nested-lists-to-a-dictionary.md)
 
 ## Example Datasets
 
@@ -233,6 +239,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Integer division](Python/integer_division.md)
 - [Introspection](Python/introspection.md)
 - [Merge PDFs](Python/merge_pdfs.md)
+- [Perform calculations on dictionaries](/Python/perform-calculations-on-dictionaries.md)
 - [Remove text after a given character](/Python/remove_text_after_character.md)
 - [Send an email](Python/send_email.md)
 - [Subtracting or adding dates together](Python/subtracting_or_adding_dates.md)
