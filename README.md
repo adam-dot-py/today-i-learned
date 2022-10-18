@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 217 entries so far!
+> :tada: There are 227 entries so far!
 
 ## Tracking
 
@@ -13,7 +13,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [x] 150 TILs - :calendar: 30/06/2022
 - [x] 175 TILs - :calendar: 11/08/2022
 - [x] 200 TILs - :calendar: 26/09/2022
-- [ ] 225 TILs
+- [x] 225 TILs = :calendar: 18/10/2022
 - [ ] 250 TILs
 - [ ] 275 TILs
 - [ ] 300 TILs
@@ -62,6 +62,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 ## DAX
 
 - [Add comments to measures](/DAX/add_comments.md)
+- [Subtract previous value](/DAX/subtract-previous-value.md)
 - [Using Calculate with multiple conditions](/DAX/using_calculate_multiple_conditions.md)
 
 ## Exam Questions
@@ -78,18 +79,18 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 
 ## Excel
 
-- [Calculate age](/excel/calculate_age.md)
+- [Calculate age](/Excel/calculate_age.md)
 - [Calculate market share](/Excel/calculate_market_share.md)
 - [Calculate percentage increase or decrease](/Excel/calculate_pct_increase_decrease.md)
 - [Calculating CAGR](Excel/calculating_cagr.md)
 - [Calculating Margin of Error](/Excel/calculating_margin_of_error.md)
-- [Check if value exists in a list](/excel/check_if_value_is_in_list.md)
+- [Check if value exists in a list](/Excel/check_if_value_is_in_list.md)
 - [Conditional formatting](Excel/conditional_formatting_row.md)
 - [Forecasting with CAGR](Excel/forecasting_with_cagr.md)
-- [Format negative numbers in parenthesis](/excel/format__negative_numbers_in_parenthesis.md)
+- [Format negative numbers in parenthesis](/Excel/format__negative_numbers_in_parenthesis.md)
 - [Formatting numbers to include seperators](Excel/formatting_numbers.md)
-- [Round to nearest multiple](/excel/round_to_nearest_multiple.md)
-- [VLOOKUP with multiple conditions](/excel/vlookup_multiple_conditions.md)
+- [Round to nearest multiple](/Excel/round_to_nearest_multiple.md)
+- [VLOOKUP with multiple conditions](/Excel/vlookup_multiple_conditions.md)
 
 ## Git
 
@@ -97,9 +98,11 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Chain commands](/Git/chain_commands.md)
 - [Create a branch](/Git/create_new_branch.md)
 - [Delete branches](/Git/delete_branches.md)
+- [Initialise git](/Git/initialise-git.md)
 - [Commit](/Git/commit_to_repo.md)
 - [Publish (push) branches](/Git/publish_branch.md)
 - [Rename branches](/Git/rename-branches.md)
+- [Set global configs](/Git/set-global-configs.md)
 - [Stage changes](/Git/stage_changes.md)
 - [Updating branches](/Git/updating_branch.md)
 
@@ -268,6 +271,11 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 
 - [Adding an alias to bash](/raspberry-pi/adding_alias_to_bash.md)
 - [Check available space](/raspberry-pi/check_available_space.md)
+- [Delete files and directories](/raspberry-pi/delete-files-and-dirs.md)
+- [Find a file](/raspberry-pi/find-a-file.md)
+- [Get files via SCP](/raspberry-pi/get-files-via-scp.md)
+- [Make directories](/raspberry-pi/make-directories.md)
+- [Measure CPU temperature](/raspberry-pi/measure-cpu-temp.md)
 - [Performing updates from the command line](/raspberry-pi/performing_updates.md)
 - [Reset SSH keygen](/raspberry-pi/reset-keygen.md)
 - [Update Pi-hole](/raspberry-pi/update_pihole.md)
