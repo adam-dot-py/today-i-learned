@@ -13,7 +13,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [x] 150 TILs - :calendar: 30/06/2022
 - [x] 175 TILs - :calendar: 11/08/2022
 - [x] 200 TILs - :calendar: 26/09/2022
-- [x] 225 TILs - :calendar: 18/10/2022
+- [x] 225 TILs = :calendar: 18/10/2022
 - [ ] 250 TILs
 - [ ] 275 TILs
 - [ ] 300 TILs
