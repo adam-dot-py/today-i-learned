@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 227 entries so far!
+> :tada: There are 234 entries so far!
 
 ## Tracking
 
@@ -45,6 +45,17 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [VBA](#vba)
 - [Wiki](#wiki)
 - [Work Specific](#work-specific)
+
+## :raised_hands: Favourites
+
+- [Convert a DataFrame to a nested dictionary](/pandas/convert-dataframe-to-nested-dictionary.md)
+- [Perform calculations on multilevel index pivot tables](/Pandas/perform_calculations_on_multilevel_pivot_tables.md)
+- [Perform calculations on specific rows](/Pandas/perform_calculations_using_rows.md)
+- [Using bins or buckets](/Pandas/using_bins_or_buckets.md)
+- [Using lambda with conditions](/Python/using_lambda_with_conditions.md)
+- [Using lambda more generally](/Python/using_lambda.md)
+- [Using loc & iloc](Python/using_loc.md)
+- [Using lambda with if, elif and else conditions](/Python/using_lambda_with_conditions.md)
 
 ---
 
@@ -149,11 +160,12 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Convert a DataFrame to a dictionary](Pandas/convert_dataframe_to_dict.md)
 - [Convert a DataFrame to a text file](/Pandas/convert_dataframe_to_text.md)
 - [Convert value counts to a DataFrame](/Pandas/convert_value_counts_to_dataframe.md)
+- [Convert a DataFrame to a nested dictionary](/pandas/convert-dataframe-to-nested-dictionary.md)
 - [Create a week commencing column](/Pandas/create_a_week_commencing_column.md)
 - [Create mean row or column](/Pandas/create_mean_row_or_column.md)
 - [Create percentage values in pivot tables](/Pandas/create_percentage_values_in_pivots.md)
 - [Create a random DataFrame](/Pandas/create_random_dataframe.md)
-- [Create nested dictionaries from dataframes](/Pandas/created_nested_dictionaries_from_dataframes.md)
+- [Create nested dictionaries from DataFrames](/Pandas/created_nested_dictionaries_from_dataframes.md)
 - [Drop rows that are not integers](Pandas/drop_rows_not_integers.md)
 - [Dynamically change duplicated column names](/Pandas/dynamically_change_duplicated_column_names.md)
 - [Dynamically slice strings in columns](/Pandas/dynamically-slice-strings-in-columns.md)
