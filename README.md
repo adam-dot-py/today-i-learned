@@ -48,7 +48,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 
 ## :raised_hands: Favourites
 
-- [Convert a DataFrame to a nested dictionary](/pandas/convert-dataframe-to-nested-dictionary.md)
+- [Convert a DataFrame to a nested dictionary](/Pandas/convert-dataframe-to-nested-dictionary.md)
 - [Perform calculations on multilevel index pivot tables](/Pandas/perform_calculations_on_multilevel_pivot_tables.md)
 - [Perform calculations on specific rows](/Pandas/perform_calculations_using_rows.md)
 - [Using bins or buckets](/Pandas/using_bins_or_buckets.md)
@@ -160,7 +160,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Convert a DataFrame to a dictionary](Pandas/convert_dataframe_to_dict.md)
 - [Convert a DataFrame to a text file](/Pandas/convert_dataframe_to_text.md)
 - [Convert value counts to a DataFrame](/Pandas/convert_value_counts_to_dataframe.md)
-- [Convert a DataFrame to a nested dictionary](/pandas/convert-dataframe-to-nested-dictionary.md)
+- [Convert a DataFrame to a nested dictionary](/Pandas/convert-dataframe-to-nested-dictionary.md)
 - [Create a week commencing column](/Pandas/create_a_week_commencing_column.md)
 - [Create mean row or column](/Pandas/create_mean_row_or_column.md)
 - [Create percentage values in pivot tables](/Pandas/create_percentage_values_in_pivots.md)
@@ -183,7 +183,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Limit a dataframe by rows or columns](Pandas/restrict_dataframe_by_rows_columns.md)
 - [Pull tables from websites into Dataframes](Pandas/pull_table_from_webpage.md)
 - [Read .csv files](/Pandas/read_csvs.md)
-- [Remove multiple characters from column headers](/pandas/remove_multiple_characters_from_column_header.md)
+- [Remove multiple characters from column headers](/Pandas/remove_multiple_characters_from_column_header.md)
 - [Remove spaces in column headers](Pandas/remove_spaces_from_columns.md)
 - [Rename columns](Pandas/rename_columns.md)
 - [Reorder pivot table columns](/Pandas/reorder_pivot_table.md)
