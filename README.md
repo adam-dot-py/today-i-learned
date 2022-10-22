@@ -299,6 +299,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 
 ## Scripts
 
+- [Download files](/scripts/download_files.md)
 - [Prevent Windows from sleeping](/scripts/prevent_windows_from_sleeping.md)
 
 ## Spark
