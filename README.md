@@ -275,6 +275,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Using string formatting](/Python/using_string_formatting.md)
 - [Using lambda with if, elif and else conditions](/Python/using_lambda_with_conditions.md)
 - [Using shape](Python/dataframe_shape.md)
+- [Using case](/Python/using-case.md)
 - [Using zip](/Python/using_zip.md)
 - [Using map](/Python/using-map.md)
 - [Write, read and append files](Python/write_and_read_files.md)
