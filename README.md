@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 235 entries so far!
+> :tada: There are 241 entries so far!
 
 ## Tracking
 
@@ -135,6 +135,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Export from VS Code](/Markdown/export_from_vs_code.md/)
 - [Formatting Code](Markdown/formatting_code.md)
 - [How to quote](Markdown/how_to_quote.md)
+- [Page breaks](Markdown/page-breaks.md)
 - [Subscript text](/Markdown/subscript-text.md)
 
 ## mysql
@@ -256,6 +257,8 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Merge PDFs](Python/merge_pdfs.md)
 - [Perform calculations on dictionaries](/Python/perform-calculations-on-dictionaries.md)
 - [Remove text after a given character](/Python/remove_text_after_character.md)
+- [Round to nearest multiple](/Python/round_to_nearest_multiple.md)
+- [Rounding multiple columns](/Python/round-multiple-columns.md)
 - [Send an email](Python/send_email.md)
 - [Subtracting or adding dates together](Python/subtracting_or_adding_dates.md)
 - [Using asterisks and what they do](/Python/using_asterisks.md)
