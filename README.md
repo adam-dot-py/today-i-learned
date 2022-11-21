@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 241 entries so far!
+> :tada: There are 244 entries so far!
 
 ## Tracking
 
@@ -114,6 +114,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Publish (push) branches](/Git/publish_branch.md)
 - [Rename branches](/Git/rename-branches.md)
 - [Set global configs](/Git/set-global-configs.md)
+- [Show log](Git/show-log.md)
 - [Stage changes](/Git/stage_changes.md)
 - [Updating branches](/Git/updating_branch.md)
 
@@ -135,6 +136,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Export from VS Code](/Markdown/export_from_vs_code.md/)
 - [Formatting Code](Markdown/formatting_code.md)
 - [How to quote](Markdown/how_to_quote.md)
+- [Insert images](Markdown/insert-images.md)
 - [Page breaks](Markdown/page-breaks.md)
 - [Subscript text](/Markdown/subscript-text.md)
 
@@ -335,6 +337,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Convert a Pandas DataFrame to a Spark Dataframe](/useful-custom-python-functions/convert-pandas-to-spark-dataframe.md)
 - [Convert seconds to various timeseries](/useful-custom-python-functions/convert-seconds-to-various-timeseries.md)
 - [Count files in a directory](/useful-custom-python-functions/count-files-in-a-directory.md)
+- [Create QR codes](/useful-custom-python-functions/create_qr_codes.md)
 - [Days between dates](/useful-custom-python-functions/days_between.md)
 - [Lookup a value in a dictionary](/useful-custom-python-functions/lookup_value_in_dictionary.md)
 - [Round to nearest multiple](/useful-custom-python-functions/round_to_nearest_multiple.md)
