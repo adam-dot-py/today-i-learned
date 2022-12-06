@@ -44,3 +44,17 @@ df['Industry'] = df['id'].map(d).apply(lambda x: x['Your industry'])
 |  3 | 11122 | Vicky  | Your age      | 30        | Education  |
 |  4 | 11122 | Vicky  | Your gender   | Female    | Education  |
 |  5 | 11122 | Vicky  | Your industry | Education | Education  |
+
+## Iterating using tuples
+
+Sometimes using `iterrows` can be resource intensive and it may be a better alternative to use tuples. The outcome is the same but achieved differently:
+
+```python
+d = defaultdict(dict)
+userquestions = [(row[0],row[1],row[2],row[3]) for row in zip(df['id'],df['User'],df['Question'],df['Answer'])]
+
+for i, (userid, username, question, answer) in enumerate(userquestions):
+  d[userid][question] = answer
+
+df['Industry'] = df['id'].map(d).apply(lambda x: x['Your industry'])
+```
