@@ -164,6 +164,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Convert a DataFrame to a text file](/Pandas/convert_dataframe_to_text.md)
 - [Convert value counts to a DataFrame](/Pandas/convert_value_counts_to_dataframe.md)
 - [Convert a DataFrame to a nested dictionary](/Pandas/convert-dataframe-to-nested-dictionary.md)
+- [Count frequency of an item](/Pandas/count_frequency_of_item.md)
 - [Create a week commencing column](/Pandas/create_a_week_commencing_column.md)
 - [Create mean row or column](/Pandas/create_mean_row_or_column.md)
 - [Create percentage values in pivot tables](/Pandas/create_percentage_values_in_pivots.md)
@@ -325,6 +326,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 
 - [Alter a table](/SQL/alter_tables.md)
 - [Create a table](/SQL/create_tables.md)
+- [Get the latest records](/SQL/get_latest_record.md)
 - [Using COALESCE clause](/SQL/using_coalesce.md)
 - [Using LAG clause](/SQL/using_lag.md)
 - [Using OVER clause](/SQL/using_over_clause.md)
