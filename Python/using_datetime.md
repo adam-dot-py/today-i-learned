@@ -2,7 +2,7 @@
 
 ## `datetime` basics
 
-The `datetime` type contains information stored in `date` and `time`: 
+The `datetime` type contains information stored in `date` and `time`:
 
 ```python
 from datetime import datetime, date, time
@@ -17,6 +17,16 @@ dt.minute
 
 dt.date()
 # datetime.date(2022, 8, 6)
+```
+
+## Convert a Pandas column to datetime
+
+Assuming a string date is in the column `pdf['date']`:
+
+```python
+import pandas as pd
+
+pdf['date'] = pd.to_datetime(pdf['Date'], format='%d-%m-%Y', errors='coerce')
 ```
 
 ## Using `strftime`
@@ -63,3 +73,5 @@ dt.replace(minute=0, second=0)
 | %z   | UTC time zone offset as +HHMM or -HHMM; empty if time zone naive |
 | %F   | Shortcut for %Y - %m - %d (e.g 2022-08-06) |
 | %D   | Shortcut for %m/%d/%y (e.g 06/08/2022) |
+| %B   | Shortcut for full month name           |
+| %b   | Shortcut for shortened month name      |

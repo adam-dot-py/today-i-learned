@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 244 entries so far!
+> :tada: There are 251 entries so far!
 
 ## Tracking
 
@@ -13,8 +13,8 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [x] 150 TILs - :calendar: 30/06/2022
 - [x] 175 TILs - :calendar: 11/08/2022
 - [x] 200 TILs - :calendar: 26/09/2022
-- [x] 225 TILs = :calendar: 18/10/2022
-- [ ] 250 TILs
+- [x] 225 TILs - :calendar: 18/10/2022
+- [x] 250 TILs- :calendar: 12/12/2022
 - [ ] 275 TILs
 - [ ] 300 TILs
 
@@ -35,6 +35,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Pandas](#pandas)
 - [Plotting](#plotting)
 - [Power BI](#power-bi)
+- [Powershell](#powershell)
 - [Python](#python)
 - [Raspberry Pi](#raspberry-pi)
 - [Regex Expressions](#regex-expressions)
@@ -67,6 +68,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 ## Databricks
 
 - [Offload table to delta and recall](/Databricks/offload_table_to_delta.md)
+- [Remove widgets](/databricks/remove_widgets.md)
 - [Search for students](/Databricks/search_for_students.md)
 - [Using widgets](/Databricks/using_widgets.md)
 
@@ -236,6 +238,10 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 
 - [Create a table using Python](/power-bi/create_a_table_using_python.md)
 - [Returning icons as conditional formatting](/power-bi/returning_icons.md)
+
+## Powershell
+
+- [Unblock a file](/powershell/unblock-file.md)
 
 ## Python
 
