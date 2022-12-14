@@ -26,7 +26,7 @@ Assuming a string date is in the column `pdf['date']`:
 ```python
 import pandas as pd
 
-pdf['date'] = pd.to_datetime(pdf['Date'], format='%d-%m-%Y', errors='coerce')
+pdf['date'] = pd.to_datetime(pdf['date'], format='%d-%m-%Y', errors='coerce')
 ```
 
 ## Using `strftime`
