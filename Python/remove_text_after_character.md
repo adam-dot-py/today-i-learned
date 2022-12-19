@@ -30,6 +30,30 @@ Output: `['This is a string', ' This should be removed', ' This should stay.']`
 
 You can then use index slicing to access whichever element of the list you require.
 
+### Using `split()` on Pandas dataframes
+
+```python
+d = {'Companies' : ['Apple_US','Land Rover_UK','Sony_Japan']}
+pdf = pd.DataFrame(data=d)
+```
+
+| Companies     |
+|:--------------|
+| Apple_US      |
+| Land Rover_UK |
+| Sony_Japan    |
+
+```python
+pdf['Companies'] = pdf['Companies'].apply(lambda x: x.split(sep='_',maxsplit=1)[0]) # split after the first occurence
+```
+
+| Companies   |
+|:------------|
+| Apple       |
+| Land Rover  |
+| Sony        |
+
+
 ## Using `partition`
 
 ```python
