@@ -18,15 +18,23 @@ df
 
 ## Example 2
 
-This lets you define the index and column name.
+This lets you define the index and column name, as well as use nested lists to construct multiple rows.
 
 ```python
 import pandas as pd
 
-lst = [1, 2, 3, 4, 5, 6]
+d = [[100120, 'MI & Data Manager', 'UPE'],
+   [100121, 'Head of Change & Data Management',' UPE'],
+   [100122, 'Project Manager','UPE']]
 
-df = pd.DataFrame(lst, index =['a', 'b', 'c', 'd', 'e', 'f'], columns =['Values'])
+df = pd.DataFrame(data=d, columns=['EmployeeNumber', 'JobTitle', 'Division'])
 ```
+
+|   EmployeeNumber | JobTitle                         | Division   |
+|-----------------:|:---------------------------------|:-----------|
+|           100120 | MI & Data Manager                | UPE        |
+|           100121 | Head of Change & Data Management | UPE        |
+|           100122 | Project Manager                  | UPE        |
 
 ## Example 3
 
