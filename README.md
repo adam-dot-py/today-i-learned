@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 252 entries so far!
+> :tada: There are 253 entries so far!
 
 ## Tracking
 
@@ -52,13 +52,15 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Convert a DataFrame to a nested dictionary](/Pandas/convert-dataframe-to-nested-dictionary.md)
 - [Check if value exists in another dataframe](/Pandas/check-if-value-exists-in-another-dataframe.md)
 - [Create a mean row or column](/Pandas/create_mean_row_or_column.md)
-- [Create a week commencing column](/pandas/create_a_week_commencing_column.md)
+- [Create a week commencing column](/Pandas/create_a_week_commencing_column.md)
+- [Lookup a value in a dictionary, like a VLOOKUP or INDEX MATCH function](/Python/lookup-value-in-a-dictionary.md)
 - [Merge dataframes](/Pandas/merge_dataframes.md)
 - [Merge dataframes and update values](/Pandas/merge_dataframes_update_values.md)
 - [Perform calculations on multilevel index pivot tables](/Pandas/perform_calculations_on_multilevel_pivot_tables.md)
 - [Perform calculations on specific rows](/Pandas/perform_calculations_using_rows.md)
 - [Remove text after character](Python/remove_text_after_character.md)
 - [Select distinct on one column](/SQL/select-distinct-on-one-column.md)
+- [Subtotals in pivot tables](/Pandas/sub-totals-in-pivot-tables.md)
 - [Using bins or buckets](/Pandas/using_bins_or_buckets.md)
 - [Using lambda with conditions](/Python/using_lambda_with_conditions.md)
 - [Using lambda more generally](/Python/using_lambda.md)

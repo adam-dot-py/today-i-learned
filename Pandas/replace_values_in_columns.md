@@ -26,3 +26,12 @@ pdf['Column1] = pdf['Column1].replace('oldvalue', 'newvalue')
 
 pdf['Col]
 ```
+
+## Example 3
+
+This method allows you to replace different types of values and also across multiple columns.
+
+```python
+replace_values = {'J' : 1, 'N' : 0}
+pdf[['Dropout', 'Switch']] = pdf[['Dropout', 'Switch']].replace(replace_values)
+```
