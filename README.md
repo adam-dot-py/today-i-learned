@@ -66,6 +66,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Using lambda more generally](/Python/using_lambda.md)
 - [Using loc & iloc](Python/using_loc.md)
 - [Using lambda with if, elif and else conditions](/Python/using_lambda_with_conditions.md)
+- [Using plt.xkcd (fun plots!)](/Plotting/using-plt-xkcd.md)
 
 ---
 
@@ -242,6 +243,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Plot confidence intervals](/Plotting/plot_confidence_intervals.md)
 - [Rotate x labels](/Plotting/rotate_xlabels.md)
 - [Using plt.subplots](/Plotting/using_plt_subplots.md)
+- [Using plt.xkcd (fun plots!)](/Plotting/using-plt-xkcd.md)
 
 ## Power BI
 
@@ -264,6 +266,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Compress dataframes to zip folder](/Python/compress_dataframes_to_zip.md)
 - [Count the number of files in a directory](Python/count_files_in_directory.md)
 - [Create a calculated column](Python/create_a_calculate_column.md)
+- [Create a zipped folder](Python/create-zipped-folder.md)
 - [Download and save files](/Python/download-and-save-files.md)
 - [Expand Nested JSON in a Pandas DataFrame](/Python/expanding_nested_json.md)
 - [Flatten nested lists](/Python/flatten_nested_lists.md)

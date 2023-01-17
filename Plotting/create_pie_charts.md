@@ -1,5 +1,19 @@
 # Create Pie Charts
 
+## Basic Use
+
+```python
+labels = ["Python", "C+", "Ruby", "Java"]
+sizes = [215,130,245,210]
+explode = [0.1,0,0,0]
+plt.figure(facecolor="w", figsize=(10,5))
+plt.pie(sizes, labels=labels, explode=explode, autopct='%0.1f%%')
+plt.axis('equal')
+plt.show()
+```
+
+## Advanced
+
 The below is an example of creating an advanced pie chart.
 
 ```python
