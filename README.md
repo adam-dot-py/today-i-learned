@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 253 entries so far!
+> :tada: There are 261 entries so far!
 
 ## Tracking
 
@@ -316,6 +316,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Performing updates from the command line](/raspberry-pi/performing_updates.md)
 - [Reset SSH keygen](/raspberry-pi/reset-keygen.md)
 - [Update Pi-hole](/raspberry-pi/update_pihole.md)
+- [Using tmux](/raspberry-pi/using-tmux.md)
 
 ## Regex Expressions
 
@@ -344,7 +345,9 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 
 - [Alter a table](/SQL/alter_tables.md)
 - [Create a table](/SQL/create_tables.md)
+- [Create a cumulative sum column](/SQL/cumulative-sum.md)
 - [Get the latest records](/SQL/get_latest_record.md)
+- [Search a column using wildcards](/sql/search-a-column.md)
 - [Select distinct on one column](/SQL/select-distinct-on-one-column.md)
 - [Using COALESCE clause](/SQL/using_coalesce.md)
 - [Using LAG clause](/SQL/using_lag.md)
