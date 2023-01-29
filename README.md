@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 261 entries so far!
+> :tada: There are 264 entries so far!
 
 ## Tracking
 
@@ -61,7 +61,9 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Remove text after character](Python/remove_text_after_character.md)
 - [Select distinct on one column](/SQL/select-distinct-on-one-column.md)
 - [Subtotals in pivot tables](/Pandas/sub-totals-in-pivot-tables.md)
+- [Subtract previous row](/SQL/subtract-previous-row.md)
 - [Using bins or buckets](/Pandas/using_bins_or_buckets.md)
+- [Using class methods](/Python/using-class-methods.md)
 - [Using lambda with conditions](/Python/using_lambda_with_conditions.md)
 - [Using lambda more generally](/Python/using_lambda.md)
 - [Using loc & iloc](Python/using_loc.md)
@@ -300,6 +302,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Using lambda with if, elif and else conditions](/Python/using_lambda_with_conditions.md)
 - [Using shape](Python/dataframe_shape.md)
 - [Using case](/Python/using-case.md)
+- [Using class methods](/Python/using-class-methods.md)
 - [Using zip](/Python/using_zip.md)
 - [Using map](/Python/using-map.md)
 - [Write, read and append files](Python/write_and_read_files.md)
@@ -347,8 +350,9 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Create a table](/SQL/create_tables.md)
 - [Create a cumulative sum column](/SQL/cumulative-sum.md)
 - [Get the latest records](/SQL/get_latest_record.md)
-- [Search a column using wildcards](/sql/search-a-column.md)
+- [Search a column using wildcards](/SQL/search-a-column.md)
 - [Select distinct on one column](/SQL/select-distinct-on-one-column.md)
+- [Subtract previous row](/SQL/subtract-previous-row.md)
 - [Using COALESCE clause](/SQL/using_coalesce.md)
 - [Using LAG clause](/SQL/using_lag.md)
 - [Using OVER clause](/SQL/using_over_clause.md)

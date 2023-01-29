@@ -23,3 +23,9 @@ For example: `git branch -d fix/authentication`
 The `-d` option will delete the branch only if it has already been pushed and merged with the remote branch. Use `-D` instead if you want to force the branch to be deleted, even if it hasn't been pushed or merged yet.
 
 The branch is now deleted locally.
+
+## Delete all merged branches
+
+Use this useful `Powershell` snippet:
+
+`git branch --merged | Select-String -Pattern '^[^\*].*' | ForEach-Object { git branch -d $_.ToString().Trim() }`

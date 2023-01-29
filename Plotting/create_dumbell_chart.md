@@ -2,6 +2,34 @@
 
 Dumbbell charts are great for showing the difference between two variables.
 
+## Example 1
+
+import matplotlib.pyplot as plt
+
+```python
+# Data for the two ends of the dumbbell
+x1 = [1, 2, 3]
+x2 = [1.5, 2.5, 3.5]
+colleges = ['A', 'B', 'C']
+
+# Create the scatter plot for the two ends of the dumbbell
+plt.scatter(x1, colleges, c='b', marker='o')
+plt.scatter(x2, colleges, c='r', marker='o')
+
+# Draw the connecting lines between the two ends of the dumbbell
+for i in range(len(x1)):
+    plt.plot([x1[i], x2[i]], [y1[i], y2[i]], 'k-')
+    
+# Add labels and show the plot
+plt.xlabel('X')
+plt.ylabel('Y')
+plt.show()
+```
+
+![Example dumbbell chart](/graph_examples/plt_dumbell_chart_example.png)
+
+## Example 2
+
 ```python
 %matplotlib inline
 
