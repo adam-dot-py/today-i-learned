@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 264 entries so far!
+> :tada: There are 268 entries so far!
 
 ## Tracking
 
@@ -53,6 +53,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Check if value exists in another dataframe](/Pandas/check-if-value-exists-in-another-dataframe.md)
 - [Create a mean row or column](/Pandas/create_mean_row_or_column.md)
 - [Create a week commencing column](/Pandas/create_a_week_commencing_column.md)
+- [Dynamically reference user root](/Python/dynamically-reference-user-root.md)
 - [Lookup a value in a dictionary, like a VLOOKUP or INDEX MATCH function](/Python/lookup-value-in-a-dictionary.md)
 - [Merge dataframes](/Pandas/merge_dataframes.md)
 - [Merge dataframes and update values](/Pandas/merge_dataframes_update_values.md)
@@ -139,8 +140,8 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 
 ## iPython
 
-- [Clear and exit iPython](/ipython/clear_and_exit_ipython.md)
-- [Saving, running and loading files in iPython](/ipython/save_files_ipython.md)
+- [Clear and exit iPython](/Ipython/clear_and_exit_ipython.md)
+- [Saving, running and loading files in iPython](/Ipython/save_files_ipython.md)
 
 ## Markdown
 
@@ -238,6 +239,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Create lineplots](/Plotting/create_lineplots.md)
 - [Create piecharts](/Plotting/create_pie_charts.md)
 - [Create scatter charts](/Plotting/create_scatter_plots.md)
+- [Create swarm plots](/Plotting/create-swarm-plots.md)
 - [Invert the y or x axis](/Plotting/invert_axis.md)
 - [Moving the legend](/Plotting/moving_legend.md)
 - [Pad the axis](/Plotting/pad_axis.md)
@@ -270,6 +272,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Create a calculated column](Python/create_a_calculate_column.md)
 - [Create a zipped folder](Python/create-zipped-folder.md)
 - [Download and save files](/Python/download-and-save-files.md)
+- [Dynamically reference user root](/Python/dynamically-reference-user-root.md)
 - [Expand Nested JSON in a Pandas DataFrame](/Python/expanding_nested_json.md)
 - [Flatten nested lists](/Python/flatten_nested_lists.md)
 - [Generate dictionary keys](/Python/generate-dictionary-keys.md)
@@ -310,6 +313,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 ## Raspberry Pi
 
 - [Adding an alias to bash](/raspberry-pi/adding_alias_to_bash.md)
+- [Change DNS servers](/raspberry-pi/change-dns-servers.md)
 - [Check available space](/raspberry-pi/check_available_space.md)
 - [Delete files and directories](/raspberry-pi/delete-files-and-dirs.md)
 - [Find a file](/raspberry-pi/find-a-file.md)
