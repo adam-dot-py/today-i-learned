@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 268 entries so far!
+> :tada: There are 270 entries so far!
 
 ## Tracking
 
@@ -56,9 +56,11 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Dynamically reference user root](/Python/dynamically-reference-user-root.md)
 - [Lookup a value in a dictionary, like a VLOOKUP or INDEX MATCH function](/Python/lookup-value-in-a-dictionary.md)
 - [Merge dataframes](/Pandas/merge_dataframes.md)
+- [Merge dataframes with only unique columns](/Pandas/merge-dataframes-with-only-unique-columns.md)
 - [Merge dataframes and update values](/Pandas/merge_dataframes_update_values.md)
 - [Perform calculations on multilevel index pivot tables](/Pandas/perform_calculations_on_multilevel_pivot_tables.md)
 - [Perform calculations on specific rows](/Pandas/perform_calculations_using_rows.md)
+- [Pull tables from websites into Dataframes](Pandas/pull-tables-from-webpages.md)
 - [Remove text after character](Python/remove_text_after_character.md)
 - [Select distinct on one column](/SQL/select-distinct-on-one-column.md)
 - [Subtotals in pivot tables](/Pandas/sub-totals-in-pivot-tables.md)
@@ -195,12 +197,13 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Insert a column into a dataframe](/Pandas/insert_column.md)
 - [Keep only NaN values in a dataframe](Pandas/keep_only_nan_values.md)
 - [Limiting a DataFrame](/Pandas/limit_dataframe.md)
+- [Merge DataFrames](/Pandas/merge_dataframes.md)
+- [Merge dataframes with only unique columns](/Pandas/merge-dataframes-with-only-unique-columns.md)
 - [Merge DataFrames and update values](/Pandas/merge_dataframes_update_values.md)
-- [Merge DataFrames together](/Pandas/merge_dataframes.md)
 - [Perform calculations on multilevel index pivot tables](/Pandas/perform_calculations_on_multilevel_pivot_tables.md)
 - [Perform calculations on specific rows](/Pandas/perform_calculations_using_rows.md)
 - [Limit a dataframe by rows or columns](Pandas/restrict_dataframe_by_rows_columns.md)
-- [Pull tables from websites into Dataframes](Pandas/pull_table_from_webpage.md)
+- [Pull tables from websites into Dataframes](Pandas/pull-tables-from-webpages.md)
 - [Read .csv files](/Pandas/read_csvs.md)
 - [Remove multiple characters from column headers](/Pandas/remove_multiple_characters_from_column_header.md)
 - [Remove spaces in column headers](Pandas/remove_spaces_from_columns.md)
