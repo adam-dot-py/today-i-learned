@@ -1,0 +1,3 @@
+# Check which programs can be updated
+
+THid can be done via the `apt list --upgradable` command.

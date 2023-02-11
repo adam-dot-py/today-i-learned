@@ -53,6 +53,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Convert a DataFrame to a nested dictionary](/Pandas/convert-dataframe-to-nested-dictionary.md)
 - [Check if value exists in another dataframe](/Pandas/check-if-value-exists-in-another-dataframe.md)
 - [Create a mean row or column](/Pandas/create_mean_row_or_column.md)
+- [Create top N and others pivot tables](/Pandas/create-top-n-and-others-pivot.md)
 - [Create a week commencing column](/Pandas/create_a_week_commencing_column.md)
 - [Dynamically reference user root](/Python/dynamically-reference-user-root.md)
 - [Lookup a value in a dictionary, like a VLOOKUP or INDEX MATCH function](/Python/lookup-value-in-a-dictionary.md)
@@ -149,6 +150,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 ## Linux
 
 - [Check available storage](/linux/check-available-storage.md)
+- [Check which programs can be upgraded](/linux/check-which-programs-can-be-updated)
 - [Install programs from the command line](/linux/install-programs-from-command-line.md)
 
 ## Markdown
@@ -192,6 +194,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Create mean row or column](/Pandas/create_mean_row_or_column.md)
 - [Create percentage values in pivot tables](/Pandas/create_percentage_values_in_pivots.md)
 - [Create a random DataFrame](/Pandas/create_random_dataframe.md)
+- [Create top N and others pivot tables](/Pandas/create-top-n-and-others-pivot.md)
 - [Create nested dictionaries from DataFrames](/Pandas/created_nested_dictionaries_from_dataframes.md)
 - [Drop rows that are not integers](Pandas/drop_rows_not_integers.md)
 - [Dynamically change duplicated column names](/Pandas/dynamically_change_duplicated_column_names.md)
