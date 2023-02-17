@@ -344,6 +344,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 
 ## Scripts
 
+- [Copy directories](/scripts/copy-directories.md)
 - [Download files](/scripts/download_files.md)
 - [Extract the Times Higher Education Ranking Tables](/scripts/extract-times-higher-education-tables.md)
 - [Prevent Windows from sleeping](/scripts/prevent_windows_from_sleeping.md)
