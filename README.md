@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 281 entries so far!
+> :tada: There are 267 entries so far!
 
 ## Tracking
 
@@ -15,7 +15,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [x] 200 TILs - :calendar: 26/09/2022
 - [x] 225 TILs - :calendar: 18/10/2022
 - [x] 250 TILs - :calendar: 12/12/2022
-- [x] 275 TILs - :calendar: 11/02/2023
+- [ ] 275 TILs -
 - [ ] 300 TILs
 
 ## Categories
