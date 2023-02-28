@@ -19,7 +19,6 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [ ] 300 TILs
 
 ## Categories
-- [:bulb: TIL - Today I Learned](#bulb-til---today-i-learned)
   - [Tracking](#tracking)
   - [Categories](#categories)
   - [:raised\_hands: Favourites](#raised_hands-favourites)
