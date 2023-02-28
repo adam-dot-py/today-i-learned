@@ -2,11 +2,11 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 267 entries so far!
+> :tada: There are 269 entries so far!
 
 ## Tracking
 
-- [x] 50 TILs - :calendar: 28/03/2022
+- [x] 50 TILs - :calendar: 2git add8/03/2022
 - [x] 75 TILs - :calendar: 13/04/2022
 - [x] 100 TILs - :calendar: 08/05/2022
 - [x] 125 TILs - :calendar: 30/05/2022
@@ -19,7 +19,6 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [ ] 300 TILs
 
 ## Categories
-
 - [:bulb: TIL - Today I Learned](#bulb-til---today-i-learned)
   - [Tracking](#tracking)
   - [Categories](#categories)
@@ -396,6 +395,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Age on entry](/useful-custom-python-functions/age_on_entry.md)
 - [Backup directories](/useful-custom-python-functions/backup-directories.md)
 - [CAGR](/useful-custom-python-functions/cagr.md)
+- [Calculate sample sizes](/useful-custom-python-functions/calculate-sample-sizes.md)
 - [Convert a Pandas DataFrame to a Spark Dataframe](/useful-custom-python-functions/convert-pandas-to-spark-dataframe.md)
 - [Convert seconds to various timeseries](/useful-custom-python-functions/convert-seconds-to-various-timeseries.md)
 - [Count files in a directory](/useful-custom-python-functions/count-files-in-a-directory.md)
