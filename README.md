@@ -19,6 +19,8 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [ ] 300 TILs
 
 ## Categories
+
+- [:bulb: TIL - Today I Learned](#bulb-til---today-i-learned)
   - [Tracking](#tracking)
   - [Categories](#categories)
   - [:raised\_hands: Favourites](#raised_hands-favourites)
@@ -54,11 +56,13 @@ This is a collection of comprehensive but small write ups of things I learn each
 
 - [Convert a DataFrame to a nested dictionary](/Pandas/convert-dataframe-to-nested-dictionary.md)
 - [Check if value exists in another dataframe](/Pandas/check-if-value-exists-in-another-dataframe.md)
+- [Create dual axis charts](/plotting/create-dual-axis-charts.md)
 - [Create dynamic bat scripts](/command-prompt/create-dynamic-bat-scripts.md)
 - [Create a mean row or column](/Pandas/create_mean_row_or_column.md)
 - [Create top N and others pivot tables](/Pandas/create-top-n-and-others-pivot.md)
 - [Create a week commencing column](/Pandas/create_a_week_commencing_column.md)
 - [Dynamically reference user root](/Python/dynamically-reference-user-root.md)
+- [Join multiple dataframes](/Python/join-multiple-dataframes.md)
 - [Lookup a value in a dictionary, like a VLOOKUP or INDEX MATCH function](/Python/lookup-value-in-a-dictionary.md)
 - [Merge dataframes](/Pandas/merge_dataframes.md)
 - [Merge dataframes with only unique columns](/Pandas/merge-dataframes-with-only-unique-columns.md)
@@ -262,6 +266,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Create lineplot with marker charts](/Plotting/create_lineplot_with_markers.md)
 - [Create lineplots](/Plotting/create_lineplots.md)
 - [Create piecharts](/Plotting/create_pie_charts.md)
+- [Create dual axis charts](Plotting/create-dual-axis-charts.md)
 - [Create scatter charts](/Plotting/create_scatter_plots.md)
 - [Create swarm plots](/Plotting/create-swarm-plots.md)
 - [Invert the y or x axis](/Plotting/invert_axis.md)
@@ -269,6 +274,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Pad the axis](/Plotting/pad_axis.md)
 - [Plot a quick graph](/Plotting/plot_a_quick_graph.md)
 - [Plot confidence intervals](/Plotting/plot_confidence_intervals.md)
+- [Plot Python dictionary](Plotting/plot-a-python-dictionary.md)
 - [Rotate x labels](/Plotting/rotate_xlabels.md)
 - [Saving images](/Plotting/saving-images.md)
 - [Using plt.subplots](/Plotting/using_plt_subplots.md)
@@ -305,6 +311,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Insert characters into a string](Python/insert_characters_into_string.md)
 - [Integer division](Python/integer_division.md)
 - [Introspection](Python/introspection.md)
+- [Join multiple dataframes](/Python/join-multiple-dataframes.md)
 - [Merge PDFs](Python/merge_pdfs.md)
 - [Perform calculations on dictionaries](/Python/perform-calculations-on-dictionaries.md)
 - [Remove text after a given character](/Python/remove_text_after_character.md)
