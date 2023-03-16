@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 283 entries so far!
+> :tada: There are 284 entries so far!
 
 ## Tracking
 
@@ -17,40 +17,10 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [x] 250 TILs - :calendar: 12/12/2022
 - [x] 275 TILs - :calendar: 09/03/2023
 - [ ] 300 TILs
+- [ ] 350 TILS
+- [ ] 400 TILS
 
 ## Categories
-
-- [:bulb: TIL - Today I Learned](#bulb-til---today-i-learned)
-  - [Tracking](#tracking)
-  - [Categories](#categories)
-  - [:raised\_hands: Favourites](#raised_hands-favourites)
-  - [Command Prompt](#command-prompt)
-  - [Databricks](#databricks)
-  - [DAX](#dax)
-  - [Exam Questions](#exam-questions)
-  - [Example Datasets](#example-datasets)
-  - [Excel](#excel)
-  - [Git](#git)
-  - [HackerRank](#hackerrank)
-  - [iPython](#ipython)
-  - [Linux](#linux)
-  - [Markdown](#markdown)
-  - [mysql](#mysql)
-  - [Numpy](#numpy)
-  - [Pandas](#pandas)
-  - [Plotting](#plotting)
-  - [Power BI](#power-bi)
-  - [Powershell](#powershell)
-  - [Python](#python)
-  - [Raspberry Pi](#raspberry-pi)
-  - [Regex Expressions](#regex-expressions)
-  - [Scripts](#scripts)
-  - [Spark](#spark)
-  - [SQL](#sql)
-  - [Useful Custom Python Functions](#useful-custom-python-functions)
-  - [VBA](#vba)
-  - [Wiki](#wiki)
-  - [Work Specific](#work-specific)
 
 ## :raised_hands: Favourites
 
@@ -85,6 +55,10 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Using plt.xkcd (fun plots!)](/Plotting/using-plt-xkcd.md)
 
 ---
+
+## Azure
+
+- [Change refresh time on releases](/azure/change-refresh-time-on-releases.md)
 
 ## Command Prompt
 
