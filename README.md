@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 284 entries so far!
+> :tada: There are 288 entries so far!
 
 ## Tracking
 
@@ -24,6 +24,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 
 ## :raised_hands: Favourites
 
+- [Add columns to temporary dataframe views](/Pandas/add-columns-to-temporary-views.md)
 - [Convert a DataFrame to a nested dictionary](/Pandas/convert-dataframe-to-nested-dictionary.md)
 - [Check if value exists in another dataframe](/Pandas/check-if-value-exists-in-another-dataframe.md)
 - [Create dual axis charts](/plotting/create-dual-axis-charts.md)
@@ -168,6 +169,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Add a cumulative sum column to a DataFrame](/Pandas/add_cumulative_sum_column.md)
 - [Add a difference column to a DataFrame](/Pandas/add_difference_column.md)
 - [Adding a square root column or find the square root of a value](/Pandas/square_root.md)
+- [Add columns to temporary dataframe views](/Pandas/add-columns-to-temporary-views.md)
 - [Change data type of multiple columns at once](Pandas/change_data_type_multiple_columns.md)
 - [Combining columns](Pandas/combining_columns.md)
 - [Construct a DataFrame from a dictionary](Pandas/construct_dataframe_from_dictionary.md)
@@ -230,6 +232,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Add titles](/Plotting/add_titles.md)
 - [Add text to plots](/Plotting/add-text-to-plots.md)
 - [Annotate Plots](/Plotting/annotate_plots.md)
+- [Change fonts](/Plotting/change-fonts.md)
 - [Change bar colours](/Plotting/colors.md)
 - [Conditional colours](/Plotting/conditional_colors.md)
 - [Create advanced lineplots](/Plotting/create_advanced_lineplots.md)
@@ -364,6 +367,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Get the latest records](/SQL/get_latest_record.md)
 - [Search a column using wildcards](/SQL/search-a-column.md)
 - [Select distinct on one column](/SQL/select-distinct-on-one-column.md)
+- [Show column names](/SQL/show-column-names.md)
 - [Subtract previous row](/SQL/subtract-previous-row.md)
 - [Using COALESCE clause](/SQL/using_coalesce.md)
 - [Using LAG clause](/SQL/using_lag.md)
