@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 288 entries so far!
+> :tada: There are 281 entries so far!
 
 ## Tracking
 
@@ -48,7 +48,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Test multiple conditions (Pandas)](/Pandas/test-multiple-conditions.md)
 - [Test multiple conditions (DAX)](/DAX/test-multiple-conditions.md)
 - [Using bins or buckets](/Pandas/using_bins_or_buckets.md)
-- [Using class methods](/Python/using-class-methods.md)
+- [Using class methods](/Python/using-class-methods.md)image.png
 - [Using lambda with conditions](/Python/using_lambda_with_conditions.md)
 - [Using lambda more generally](/Python/using_lambda.md)
 - [Using loc & iloc](Python/using_loc.md)
@@ -69,6 +69,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Delete a directory](/command-prompt/delete-a-directory.md)
 - [Make a new directory](/command-prompt/make_new_directory.md)
 - [List files in a directory](/command-prompt/list_files_in_dir.md)
+- [Uninstall all Python packages](/command-prompt/uninstall-all-python-packages.md)
 
 ## Databricks
 
@@ -124,7 +125,9 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Set global configs](/Git/set-global-configs.md)
 - [Show log](Git/show-log.md)
 - [Stage changes](/Git/stage_changes.md)
+- [Unstage commits](/Git/unstage-commits.md)
 - [Updating branches](/Git/updating_branch.md)
+- [Using stash](Git/using-stash.md)
 
 ## HackerRank
 
