@@ -125,7 +125,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Set global configs](/Git/set-global-configs.md)
 - [Show log](Git/show-log.md)
 - [Stage changes](/Git/stage_changes.md)
-- - [Template git commit message](/Git/template-git-commit-message.md)
+- [Template git commit message](/Git/template-git-commit-message.md)
 - [Unstage commits](/Git/unstage-commits.md)
 - [Updating branches](/Git/updating_branch.md)
 - [Using stash](Git/using-stash.md)
