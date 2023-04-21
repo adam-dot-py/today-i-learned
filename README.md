@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 281 entries so far!
+> :tada: There are 282 entries so far!
 
 ## Tracking
 
@@ -125,6 +125,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Set global configs](/Git/set-global-configs.md)
 - [Show log](Git/show-log.md)
 - [Stage changes](/Git/stage_changes.md)
+- - [Template git commit message](/Git/template-git-commit-message.md)
 - [Unstage commits](/Git/unstage-commits.md)
 - [Updating branches](/Git/updating_branch.md)
 - [Using stash](Git/using-stash.md)
@@ -229,6 +230,12 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Write Dataframes to Excel](/Pandas/write_dataframes_to_excel.md)
 
 ## Plotting
+
+### Best practice examples
+
+- [Line plots](/Plotting/best-practice-line-plots.md)
+
+#### Plotting directory
 
 - [Add plot labels](/Plotting/add_bar_labels.md)
 - [Add line labels](/Plotting/add_line_labels.md)
