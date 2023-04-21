@@ -48,7 +48,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Test multiple conditions (Pandas)](/Pandas/test-multiple-conditions.md)
 - [Test multiple conditions (DAX)](/DAX/test-multiple-conditions.md)
 - [Using bins or buckets](/Pandas/using_bins_or_buckets.md)
-- [Using class methods](/Python/using-class-methods.md)image.png
+- [Using class methods](/Python/using-class-methods.md)
 - [Using lambda with conditions](/Python/using_lambda_with_conditions.md)
 - [Using lambda more generally](/Python/using_lambda.md)
 - [Using loc & iloc](Python/using_loc.md)
