@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 282 entries so far!
+> :tada: There are 283 entries so far!
 
 ## Tracking
 
@@ -33,6 +33,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Create top N and others pivot tables](/Pandas/create-top-n-and-others-pivot.md)
 - [Create a week commencing column](/Pandas/create_a_week_commencing_column.md)
 - [Dynamically reference user root](/Python/dynamically-reference-user-root.md)
+- [Fill NaN values in DataFrames](/Pandas/fill-nan-values-in-dataframes.md)
 - [Join multiple dataframes](/Python/join-multiple-dataframes.md)
 - [Lookup a value in a dictionary, like a VLOOKUP or INDEX MATCH function](/Python/lookup-value-in-a-dictionary.md)
 - [Merge dataframes](/Pandas/merge_dataframes.md)
@@ -43,6 +44,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Pull tables from websites into Dataframes](Pandas/pull-tables-from-webpages.md)
 - [Remove text after character](Python/remove_text_after_character.md)
 - [Select distinct on one column](/SQL/select-distinct-on-one-column.md)
+- [Sorting zipped lists](/Python/sort-zipped-lists.md)
 - [Subtotals in pivot tables](/Pandas/sub-totals-in-pivot-tables.md)
 - [Subtract previous row](/SQL/subtract-previous-row.md)
 - [Test multiple conditions (Pandas)](/Pandas/test-multiple-conditions.md)
@@ -194,6 +196,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Dynamically change duplicated column names](/Pandas/dynamically_change_duplicated_column_names.md)
 - [Dynamically slice strings in columns](/Pandas/dynamically-slice-strings-in-columns.md)
 - [Expand the column width](/Pandas/expand_column_width.md)
+- [Fill NaN values in DataFrames](/Pandas/fill-nan-values-in-dataframes.md)
 - [Filter a DataFrame to unique values in a column](/Pandas/filter_dataframe_to_unique_values.md)
 - [Filter Dataframes](Pandas/filter_dataframe.md)
 - [Format floats using Pandas options](Pandas/float_display_format.md)
@@ -305,6 +308,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Round to nearest multiple](/Python/round_to_nearest_multiple.md)
 - [Rounding multiple columns](/Python/round-multiple-columns.md)
 - [Send an email](Python/send_email.md)
+- [Sorting zipped lists](/Python/sort-zipped-lists.md)
 - [Subtracting or adding dates together](Python/subtracting_or_adding_dates.md)
 - [Using asterisks and what they do](/Python/using_asterisks.md)
 - [Using classes](/Python/classes.md)
