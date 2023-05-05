@@ -237,6 +237,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 ### Best practice examples
 
 - [Line plots](/Plotting/best-practice-line-plots.md)
+- [Scatter graph (or bubble graph)](/Plotting/best-practice-scatter-charts.md)
 
 #### Plotting directory
 
