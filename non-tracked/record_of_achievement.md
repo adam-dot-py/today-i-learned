@@ -34,7 +34,8 @@ This is a record of projects completed, feedback received or otherwise good thin
 - [x] Redesigned the StudyLink Application Tracker to include a payment report, as well applications by specific statuses, ranked in the pipeline process order.
 - [x] Created the new Application Turnaround Time Dashboard, which uses StudyLink data.
 - [x] Created an automated pipeline in Databricks to download HESA table 28 whenever required, processing and wrangling data in Databricks before producing a detail aggregated dataset, showing market shares for every country and provider in the UK. I also created a Power BI dashboard for users to interact and explore the data.
-- [x] - Created the Retention Tracker, a global retention report that goes to Scott Jones and BGH.
+- [x] Created the Retention Tracker, a global retention report that goes to Scott Jones and BGH.
+- [x] Created the global report template and style guide, of which all new reports are based upon.
 
 ## Data Engineering
 
@@ -56,7 +57,7 @@ This is a record of projects completed, feedback received or otherwise good thin
 - [x] Conducted a review of the Progression measure, creating documentation to outline expected administration within Navigate in order to ensure this measure is calculated properly.
 - [x] Resolved an issue affecting global divisions and application volume calculation, whereby a specific scenario was not being accounted for in our codebase, resulting in applications not being counted where this scenario was occuring. This discovery and change led to correct calculations of applications, improving confidence in our data.
 - [x] - Created a monthly data goverance report to the EGMs, detailing the number of outstanding exceptions in the division per entity.
-- [x] - Created a monthly process of sending exceptions to each college for rectifying. 
+- [x] - Created a monthly process of sending exceptions to each college for rectifying.
 
 ## Personal Achievements
 
@@ -72,4 +73,4 @@ This is a record of projects completed, feedback received or otherwise good thin
 
 - [x] Created a statistical release calendar which contains all of the major upcoming data releases across the UK higher education sector, as well as other datasets.
 - [x] Hosted a Lunchtime Learning session for Navitas colleagues on how to use the self service model to create their own dashboards using Evidence data, to a record 95 people.
-- [x] Hosted another Lunchtime Learning session for Navitas colleagues, detailing more advanced usage of Power BI. 
+- [x] Hosted another Lunchtime Learning session for Navitas colleagues, detailing more advanced usage of Power BI.
