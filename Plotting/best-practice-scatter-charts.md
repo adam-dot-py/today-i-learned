@@ -1,4 +1,4 @@
-# Best Practice - Scatter Charts
+# Best Practice: Scatter Charts
 
 This is a best practice example of a scatter graph, created using HESA data.
 

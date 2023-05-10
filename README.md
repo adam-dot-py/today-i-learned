@@ -238,6 +238,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 
 - [Line plots](/Plotting/best-practice-line-plots.md)
 - [Scatter graph (or bubble graph)](/Plotting/best-practice-scatter-charts.md)
+- [Heat maps](/Plotting/best-practice-heatmap.md)
 
 #### Plotting directory
 
