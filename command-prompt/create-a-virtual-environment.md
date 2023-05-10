@@ -8,7 +8,7 @@ Virtual environments are useful for isolating a Python instance to just packages
 
 ## To create
 
-`virtualenv myenv`
+`python -m virtualenv myenv`
 
 ## To activate
 
