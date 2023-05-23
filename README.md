@@ -202,6 +202,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Filter Dataframes](Pandas/filter_dataframe.md)
 - [Format floats using Pandas options](Pandas/float_display_format.md)
 - [Insert a column into a dataframe](/Pandas/insert_column.md)
+- [Insert a row into a dataframe, including a pivot table](/Pandas/insert-row-into-pivot-table.md)
 - [Keep only NaN values in a dataframe](Pandas/keep_only_nan_values.md)
 - [Limiting a DataFrame](/Pandas/limit_dataframe.md)
 - [Merge DataFrames](/Pandas/merge_dataframes.md)

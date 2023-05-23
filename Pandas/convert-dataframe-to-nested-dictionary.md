@@ -45,6 +45,10 @@ df['Industry'] = df['id'].map(d).apply(lambda x: x['Your industry'])
 |  4 | 11122 | Vicky  | Your gender   | Female    | Education  |
 |  5 | 11122 | Vicky  | Your industry | Education | Education  |
 
+Furthermore, you can use it this way to return another value if a match is not found:
+
+`df['Industry'] = df['id'].map(lambda x: d.get(x, "Not found").get('Your industry'))`
+
 ## Iterating using tuples
 
 Sometimes using `iterrows` can be resource intensive and it may be a better alternative to use tuples. The outcome is the same but achieved differently:
