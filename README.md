@@ -220,6 +220,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Replace a column value with a value from another column](Pandas/replace_value_with_value_from_column.md)
 - [Replace values in columns](/Pandas/replace_values_in_columns.md)
 - [Show duplicated columns](/Pandas/show_duplicated_columns.md)
+- [Split column headers](/Pandas/split-column-headers.md)
 - [Sum columns in a DataFrame](/Pandas/sum_columns.md)
 - [Sum rows in a DataFrame](/Pandas/sum_rows.md)
 - [Test multiple conditions](/Pandas/test-multiple-conditions.md)
@@ -239,6 +240,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 ### Best practice examples
 
 - [Line plots](/Plotting/best-practice-line-plots.md)
+- [ONS: Anxiety Levels, Line plot](/Plotting/ons-anxiety-line-chart.md)
 - [Scatter graph (or bubble graph)](/Plotting/best-practice-scatter-charts.md)
 - [Heat maps](/Plotting/best-practice-heatmap.md)
 
