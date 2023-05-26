@@ -16,13 +16,20 @@ df = pd.read_excel('source/qualityoflifeintheukmay2023.xlsx', sheet_name='1.4_An
 df.columns = [col.split('\n')[0].strip() for col in df.columns]
 df = df.rename(columns={'Estimate': 'Estimate%'})
 
-x = df['People rating their anxiety yesterday as very low'].values
+df['quarterly'] = df['People rating their anxiety yesterday as very low'].str[-10:]
+df['quarterly'] = df['quarterly'].str.replace("[()]", "").str[:5]
+df['year'] = df['People rating their anxiety yesterday as very low'].str[-4:]
+df['quarterly'] = df['year'] + '' + df['quarterly']
+
+df = df.tail(45)
+
+x = df['quarterly'].values
 y = df['Estimate%'].values
 
 fig, ax = plt.subplots(figsize=(12, 7))
 linepoints = ax.plot(x, y, color='#5f6062', lw=3, alpha=.7, zorder=2)
-first_linepoint = ax.plot(x[0], y[0], marker='o', markersize=12, markeredgecolor='black', color='#f7bb43', zorder=3)
-last_linepoint = ax.plot(x[-1], y[-1], marker='o', markersize=12, markeredgecolor='black', color='#007F7B', zorder=3)
+first_linepoint = ax.plot(x[0], y[0], marker='o', markersize=12, markeredgecolor='white', color='#f7bb43', zorder=3)
+last_linepoint = ax.plot(x[-1], y[-1], marker='o', markersize=12, markeredgecolor='white', color='#007F7B', zorder=3)
 ax.hlines(y=y.mean(), xmin=0, xmax=len(x), linestyles='--', lw=2, color='#70bc4e', alpha=.7, zorder=3)
 
 # styling
@@ -41,7 +48,7 @@ ax.text(x=0.13,
         transform=fig.transFigure)
 
 # source
-ax.text(x=0.13, y=-0.14, s="Office for National Statistics (ONS), released 12 May 2023, ONS website, statistical bulletin, Quality of life in the UK: May 2023", ha='left', fontsize=11, weight='bold', alpha=.5, fontfamily="Bahnschrift", transform=fig.transFigure)  # source
+ax.text(x=0.13, y=-0.05, s="Office for National Statistics (ONS), released 12 May 2023, ONS website, statistical bulletin, Quality of life in the UK: May 2023", ha='left', fontsize=11, weight='bold', alpha=.5, fontfamily="Bahnschrift", transform=fig.transFigure)  # source
 
 # custom legend
 custom_legend = [
@@ -50,7 +57,7 @@ custom_legend = [
 
 # Add the legend to the plot
 legend_font = {'family': "Bahnschrift", 'size': 11, 'weight': 'bold'}
-fig.legend(handles=custom_legend, loc=(0, 0.5), bbox_to_anchor=(0.13, 0.90), ncol=4, fontsize=10, prop=legend_font)
+fig.legend(handles=custom_legend, loc=(0, 0.5), bbox_to_anchor=(0.13, 0.895), ncol=4, fontsize=10, prop=legend_font)
 
 # add fancy lines and rectangle
 ax.plot([0.13, 0.91],
@@ -72,8 +79,8 @@ ax.add_patch(mpatches.Rectangle((0.13, 1.07),
 ax.grid(which='major', axis='y', lw=1.2, alpha=.7, zorder=1)
 
 # adjust x axis
-ax.xaxis.set_ticks(np.arange(0, len(x), 1))
-ax.xaxis.set_ticklabels(x, rotation=90, fontfamily="Bahnschrift")
+ax.set_xticks(np.arange(0, len(x), 4)) # have labels every 4 positions
+ax.set_xticklabels(x[::4], rotation=90, fontfamily="Bahnschrift") # amend list to take every 4 values using x[::4]
 ax.xaxis.set_tick_params(length=5, pad=5, labelsize=10)
 
 # adjust y axis
