@@ -99,4 +99,4 @@ plt.savefig('images/ons-anxiety-levels-latest.png', dpi=300, bbox_inches='tight'
 plt.show()
 ```
 
-
+![ONS Anxiety Level Line Plot](/graph_examples/ons-anxiety-levels-latest.png)
