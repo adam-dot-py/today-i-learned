@@ -55,7 +55,7 @@ frames = [df, df2]
 df = pd.concat(frames, ignore_index=True)
 ```
 
-## Output
+### Output
 
 |    |   A |   B |   C |   D |   E |
 |---:|----:|----:|----:|----:|----:|
@@ -69,3 +69,13 @@ df = pd.concat(frames, ignore_index=True)
 |  7 |  28 |  45 |  19 |  44 |  24 |
 
 Further syntax including handling dataframes of different shapes can be found [here](https://pandas.pydata.org/docs/user_guide/merging.html).
+
+## Using `ft.reduce`
+
+Using `ft.reduce` can be used to combine multiple dataframes together at once. This especially useful for larger dataframes, as this is an efficient process.
+
+```python
+list_dfs = [fdf, temp_df_1, temp_df_2]
+# The following function is used to combine all of the datasets together: functools.reduce(function, iterable[, initializer])
+final_df = ft.reduce(lambda left, right: pd.merge(left, right, on=['Business Unit', 'Country Name'], how='outer'), list_dfs)
+```
