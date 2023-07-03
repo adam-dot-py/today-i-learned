@@ -1,5 +1,7 @@
 {
     "vscode-pets.petColor": "brown",
     "vscode-pets.petType": "dog",
-    "vscode-pets.position": "panel"
+    "vscode-pets.position": "panel",
+    "python.envFile": "${workspaceFolder}\\.databricks\\.databricks.env",
+    "databricks.python.envFile": "${workspaceFolder}/.env"
 }

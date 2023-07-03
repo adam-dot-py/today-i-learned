@@ -45,6 +45,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Remove text after character](Python/remove_text_after_character.md)
 - [Select distinct on one column](/SQL/select-distinct-on-one-column.md)
 - [Sorting zipped lists](/Python/sort-zipped-lists.md)
+- [Sort values in a multilevel index pivot table](/Pandas/sort-values-in-multilevel-index-pivot-tables.md)
 - [Subtotals in pivot tables](/Pandas/sub-totals-in-pivot-tables.md)
 - [Subtract previous row](/SQL/subtract-previous-row.md)
 - [Test multiple conditions (Pandas)](/Pandas/test-multiple-conditions.md)
@@ -176,6 +177,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Add a difference column to a DataFrame](/Pandas/add_difference_column.md)
 - [Adding a square root column or find the square root of a value](/Pandas/square_root.md)
 - [Add columns to temporary dataframe views](/Pandas/add-columns-to-temporary-views.md)
+- [Add a row to a pivot table](/Pandas/add-a-row-to-a-pivot-table.md)
 - [Change data type of multiple columns at once](Pandas/change_data_type_multiple_columns.md)
 - [Combining columns](Pandas/combining_columns.md)
 - [Construct a DataFrame from a dictionary](Pandas/construct_dataframe_from_dictionary.md)
@@ -220,6 +222,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Replace a column value with a value from another column](Pandas/replace_value_with_value_from_column.md)
 - [Replace values in columns](/Pandas/replace_values_in_columns.md)
 - [Show duplicated columns](/Pandas/show_duplicated_columns.md)
+- [Sort values in a multilevel index pivot table](/Pandas/sort-values-in-multilevel-index-pivot-tables.md)
 - [Split column headers](/Pandas/split-column-headers.md)
 - [Sum columns in a DataFrame](/Pandas/sum_columns.md)
 - [Sum rows in a DataFrame](/Pandas/sum_rows.md)
@@ -265,6 +268,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Create dual axis charts](Plotting/create-dual-axis-charts.md)
 - [Create scatter charts](/Plotting/create_scatter_plots.md)
 - [Create swarm plots](/Plotting/create-swarm-plots.md)
+- [Create charts from pivoted data](/Plotting/creating-charts-from-pivoted-data.md)
 - [Invert the y or x axis](/Plotting/invert_axis.md)
 - [Moving the legend](/Plotting/moving_legend.md)
 - [Pad the axis](/Plotting/pad_axis.md)
@@ -279,6 +283,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 ## Power BI
 
 - [Create a table using Python](/power-bi/create_a_table_using_python.md)
+- [Create a last refreshed measured](/power-bi/create-a-last-refreshed-measure.md)
 - [Returning icons as conditional formatting](/power-bi/returning_icons.md)
 
 ## Powershell
@@ -311,6 +316,8 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Merge PDFs](Python/merge_pdfs.md)
 - [Perform calculations on dictionaries](/Python/perform-calculations-on-dictionaries.md)
 - [Remove text after a given character](/Python/remove_text_after_character.md)
+- [Rename directories](/Python/rename-directories.md)
+- [Reverse a list](/Python/reverse-a-list.md)
 - [Round to nearest multiple](/Python/round_to_nearest_multiple.md)
 - [Rounding multiple columns](/Python/round-multiple-columns.md)
 - [Send an email](Python/send_email.md)
@@ -381,6 +388,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 
 ## SQL
 
+- [Advanced filtering](/SQL/advanced-filtering.md)
 - [Alter a table](/SQL/alter_tables.md)
 - [Create a table](/SQL/create_tables.md)
 - [Create a cumulative sum column](/SQL/cumulative-sum.md)
@@ -393,6 +401,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Using LAG clause](/SQL/using_lag.md)
 - [Using OVER clause](/SQL/using_over_clause.md)
 - [Using UNION clause](/SQL/using_union.md)
+- [Weekday name from a date](/SQL/weekday-name-from-date.md)
 
 ## Useful Custom Python Functions
 
