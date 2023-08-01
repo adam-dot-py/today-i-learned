@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 304 entries so far!
+> :tada: There are 306 entries so far!
 
 ## Tracking
 
@@ -20,6 +20,16 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [ ] 350 TILS
 - [ ] 400 TILS
 
+## Table of contents
+
+- [Favourites](#analysis-projects)
+- [Azure](#dashboards)
+- [Command Prompt](#data-engineering)
+- [Data Definitions](#data-governance)
+- [Databricks](#personal-achievements)
+- [DAX](#stakeholder-meetings)
+- [Exam Questions](#others) 
+
 ## :raised_hands: Favourites
 
 - [Add columns to temporary dataframe views](/Pandas/add-columns-to-temporary-views.md)
@@ -30,6 +40,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Create a mean row or column](/Pandas/create_mean_row_or_column.md)
 - [Create top N and others pivot tables](/Pandas/create-top-n-and-others-pivot.md)
 - [Create a week commencing column](/Pandas/create_a_week_commencing_column.md)
+- [Custom sort a list](Python/custom-sort-a-list.md)
 - [Dynamically reference user root](/Python/dynamically-reference-user-root.md)
 - [Fill NaN values in DataFrames](/Pandas/fill-nan-values-in-dataframes.md)
 - [Join multiple dataframes](/Python/join-multiple-dataframes.md)
@@ -191,6 +202,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Create mean row or column](/Pandas/create_mean_row_or_column.md)
 - [Create percentage values in pivot tables](/Pandas/create_percentage_values_in_pivots.md)
 - [Create a random DataFrame](/Pandas/create_random_dataframe.md)
+- [Create a dataframe of dummy dates](/Pandas/create-a-dataframe-of-dummy-dates.md)
 - [Create top N and others pivot tables](/Pandas/create-top-n-and-others-pivot.md)
 - [Create nested dictionaries from DataFrames](/Pandas/created_nested_dictionaries_from_dataframes.md)
 - [Drop rows that are not integers](Pandas/drop_rows_not_integers.md)
@@ -301,6 +313,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Count the number of files in a directory](Python/count_files_in_directory.md)
 - [Create a calculated column](Python/create_a_calculate_column.md)
 - [Create a zipped folder](Python/create-zipped-folder.md)
+- [Custom sort a list](Python/custom-sort-a-list.md)
 - [Download and save files](/Python/download-and-save-files.md)
 - [Dynamically reference user root](/Python/dynamically-reference-user-root.md)
 - [Expand Nested JSON in a Pandas DataFrame](/Python/expanding_nested_json.md)
