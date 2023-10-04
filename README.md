@@ -128,6 +128,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 
 - [Add .gitignore and resync](/Git/add_gitignore.md)
 - [Chain commands](/Git/chain_commands.md)
+- [Clear stash](/Git/clear-stash.md)
 - [Create a branch](/Git/create_new_branch.md)
 - [Delete branches](/Git/delete_branches.md)
 - [Initialise git](/Git/initialise-git.md)
