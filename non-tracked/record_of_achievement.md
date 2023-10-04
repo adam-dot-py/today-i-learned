@@ -24,6 +24,7 @@ This is a record of projects completed, feedback received or otherwise good thin
 - [x] Revamped the Navitas Annual Student Survey 2023 to reflect the new NSS format in the UK, as well as built the entire data pipeline process from start to finish.
 - [x] Successfully trialed a Navitas Module Survey with 4 colleges, automating the survey and bringing data into Evidence and a singular dashboard for easy comparison and analysis of student experience across participating colleges.
 - [x] Created a monthly insight snapshot report which goes out to EGMs and other key stakeholders, showing key monthly intelligence and emerging risks.
+- [x] Took control of the Global Data Flows model for the Global Analytics Team, reverse engineering the scripts from R to Python, designing and building the engineering process into Evidence.
 
 ## Dashboards
 
@@ -36,6 +37,7 @@ This is a record of projects completed, feedback received or otherwise good thin
 - [x] Created an automated pipeline in Databricks to download HESA table 28 whenever required, processing and wrangling data in Databricks before producing a detail aggregated dataset, showing market shares for every country and provider in the UK. I also created a Power BI dashboard for users to interact and explore the data.
 - [x] Created the Retention Tracker, a global retention report that goes to Scott Jones and BGH.
 - [x] Created the global report template and style guide, of which all new reports are based upon.
+- [x] Reengineered and redesigned the Attendance Report from the ground up, producing a new report that has been greatly received by academic teams across the division.
 
 ## Data Engineering
 
@@ -47,7 +49,8 @@ This is a record of projects completed, feedback received or otherwise good thin
 - [x] Created X0062 exception.
 - [x] Created X0063 exception.
 - [x] Created X0064 exception.
-- [x] - Created release pipelines for new reports - Application Turnaround Time Dashboard and Retention Tracker.
+- [x] Created X0066 exception.
+- [x] Created release pipelines for new reports - Application Turnaround Time Dashboard and Retention Tracker.
 
 ## Data Governance
 
@@ -64,6 +67,8 @@ This is a record of projects completed, feedback received or otherwise good thin
 - [x] Invited to Investor Awards by Paul Lovegrove, as his personal guest for recognition of work performance over the year.
 - [x] Created intelligence.navitas.com, the central location for external intelligence and analysis conducted by the company.
 - [x] Got made owner of data.navitas.com, to maintain and improve across the business.
+- [x] Nominated for an Inspire award - as well as having the achievement of being nominated 3 consecutive times.
+- [x] Shortlisted for an Inspire award, making the top 5.
 
 ## Stakeholder Meetings
 

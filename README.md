@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 306 entries so far!
+> :tada: There are 308 entries so far!
 
 ## Tracking
 
@@ -138,6 +138,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Show log](Git/show-log.md)
 - [Stage changes](/Git/stage_changes.md)
 - [Template git commit message](/Git/template-git-commit-message.md)
+- [Unstage changes](/Git/unstage-changes.md)
 - [Unstage commits](/Git/unstage-commits.md)
 - [Updating branches](/Git/updating_branch.md)
 - [Using stash](Git/using-stash.md)
@@ -309,6 +310,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Append CSV's](Python/append_csvs.md)
 - [Binary operators](/Python/binary_operators.md)
 - [Calculate an average](Python/calculate_average.md)
+- [Check if a certain data type](/Python/check-if-a-certain-data-type.md)
 - [Compress dataframes to zip folder](/Python/compress_dataframes_to_zip.md)
 - [Count the number of files in a directory](Python/count_files_in_directory.md)
 - [Create a calculated column](Python/create_a_calculate_column.md)
@@ -353,6 +355,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Using shape](Python/dataframe_shape.md)
 - [Using case](/Python/using-case.md)
 - [Using class methods](/Python/using-class-methods.md)
+- [Using fuzzy matching](/Python/using-fuzzy-matching.md)
 - [Using zip](/Python/using_zip.md)
 - [Using map](/Python/using-map.md)
 - [Write, read and append files](Python/write_and_read_files.md)
