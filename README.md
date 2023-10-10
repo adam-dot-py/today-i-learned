@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 308 entries so far!
+> :tada: There are 311 entries so far!
 
 ## Tracking
 
@@ -32,6 +32,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 
 ## :raised_hands: Favourites
 
+- [Read data from an Azure blog storage (data lake)](/Python/read-from-azure-blob.md)
 - [Add columns to temporary dataframe views](/Pandas/add-columns-to-temporary-views.md)
 - [Convert a DataFrame to a nested dictionary](/Pandas/convert-dataframe-to-nested-dictionary.md)
 - [Check if value exists in another dataframe](/Pandas/check-if-value-exists-in-another-dataframe.md)
@@ -313,6 +314,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Calculate an average](Python/calculate_average.md)
 - [Check if a certain data type](/Python/check-if-a-certain-data-type.md)
 - [Compress dataframes to zip folder](/Python/compress_dataframes_to_zip.md)
+- [Copy files](/Python/copy-files.md)
 - [Count the number of files in a directory](Python/count_files_in_directory.md)
 - [Create a calculated column](Python/create_a_calculate_column.md)
 - [Create a zipped folder](Python/create-zipped-folder.md)
@@ -329,6 +331,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Join multiple dataframes](/Python/join-multiple-dataframes.md)
 - [Merge PDFs](Python/merge_pdfs.md)
 - [Perform calculations on dictionaries](/Python/perform-calculations-on-dictionaries.md)
+- [Read data from an Azure blog storage (data lake)](/Python/read-from-azure-blob.md)
 - [Remove text after a given character](/Python/remove_text_after_character.md)
 - [Rename directories](/Python/rename-directories.md)
 - [Reverse a list](/Python/reverse-a-list.md)
