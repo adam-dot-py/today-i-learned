@@ -67,8 +67,10 @@ This is a record of projects completed, feedback received or otherwise good thin
 - [x] Invited to Investor Awards by Paul Lovegrove, as his personal guest for recognition of work performance over the year.
 - [x] Created intelligence.navitas.com, the central location for external intelligence and analysis conducted by the company.
 - [x] Got made owner of data.navitas.com, to maintain and improve across the business.
+- [x] Created REACT and DATA+ in Navitas UPE.
 - [x] Nominated for an Inspire award - as well as having the achievement of being nominated 3 consecutive times.
-- [x] Shortlisted for an Inspire award, making the top 5.
+- [x] Shortlisted for an Inspire award, making the top 10.
+- [x] Came second for the Navitas Inspire Expert Award 2023. :trophy:
 
 ## Stakeholder Meetings
 
