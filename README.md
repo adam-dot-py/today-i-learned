@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 311 entries so far!
+> :tada: There are 315 entries so far!
 
 ## Tracking
 
@@ -46,6 +46,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Fill NaN values in DataFrames](/Pandas/fill-nan-values-in-dataframes.md)
 - [Join multiple dataframes](/Python/join-multiple-dataframes.md)
 - [Lookup a value in a dictionary, like a VLOOKUP or INDEX MATCH function](/Python/lookup-value-in-a-dictionary.md)
+- [List files in a directory](/Python/list-files-in-directory.md)
 - [Merge dataframes](/Pandas/merge_dataframes.md)
 - [Merge dataframes with only unique columns](/Pandas/merge-dataframes-with-only-unique-columns.md)
 - [Merge dataframes and update values](/Pandas/merge_dataframes_update_values.md)
@@ -148,6 +149,9 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 ## HackerRank
 
 - [Check if year is a leap year](/hackerrank/check_if_leap_year.md)
+- [Double items in a list](/hackerrank/double-items-in-list.md)
+- [Get runner up scores](/hackerrank/get-runner-up-score.md)
+- [Joining strings and create a new string](/hackerrank/joining-strings.md)
 - [Print numbers inbetween 1 and n on the same line with no spaces](/hackerrank/print_numbers_inbetween.md)
 
 ## iPython
@@ -329,6 +333,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Integer division](Python/integer_division.md)
 - [Introspection](Python/introspection.md)
 - [Join multiple dataframes](/Python/join-multiple-dataframes.md)
+- [List files in a directory](/Python/list-files-in-directory.md)
 - [Merge PDFs](Python/merge_pdfs.md)
 - [Perform calculations on dictionaries](/Python/perform-calculations-on-dictionaries.md)
 - [Read data from an Azure blog storage (data lake)](/Python/read-from-azure-blob.md)
