@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 315 entries so far!
+> :tada: There are 319 entries so far!
 
 ## Tracking
 
@@ -36,7 +36,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Add columns to temporary dataframe views](/Pandas/add-columns-to-temporary-views.md)
 - [Convert a DataFrame to a nested dictionary](/Pandas/convert-dataframe-to-nested-dictionary.md)
 - [Check if value exists in another dataframe](/Pandas/check-if-value-exists-in-another-dataframe.md)
-- [Create dual axis charts](/plotting/create-dual-axis-charts.md)
+- [Create dual axis charts](/Plotting/create-dual-axis-charts.md)
 - [Create dynamic bat scripts](/command-prompt/create-dynamic-bat-scripts.md)
 - [Create a mean row or column](/Pandas/create_mean_row_or_column.md)
 - [Create top N and others pivot tables](/Pandas/create-top-n-and-others-pivot.md)
@@ -54,6 +54,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Perform calculations on specific rows](/Pandas/perform_calculations_using_rows.md)
 - [Pull tables from websites into Dataframes](Pandas/pull-tables-from-webpages.md)
 - [Remove text after character](Python/remove_text_after_character.md)
+- [Remove text from number strings](/Pandas/remove-text-from-number-strings.md)
 - [Select distinct on one column](/SQL/select-distinct-on-one-column.md)
 - [Sorting zipped lists](/Python/sort-zipped-lists.md)
 - [Sort values in a multilevel index pivot table](/Pandas/sort-values-in-multilevel-index-pivot-tables.md)
@@ -234,6 +235,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Read .csv files](/Pandas/read_csvs.md)
 - [Remove multiple characters from column headers](/Pandas/remove_multiple_characters_from_column_header.md)
 - [Remove spaces in column headers](Pandas/remove_spaces_from_columns.md)
+- [Remove text from number strings](/Pandas/remove-text-from-number-strings.md)
 - [Rename columns](Pandas/rename_columns.md)
 - [Reorder pivot table columns](/Pandas/reorder_pivot_table.md)
 - [Replace a column value with a value from another column](Pandas/replace_value_with_value_from_column.md)
