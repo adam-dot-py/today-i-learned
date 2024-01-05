@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 319 entries so far!
+> :tada: There are 322 entries so far!
 
 ## Tracking
 
@@ -20,15 +20,42 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [ ] 350 TILS
 - [ ] 400 TILS
 
-## Table of contents
+## Contents
 
-- [Favourites](#analysis-projects)
-- [Azure](#dashboards)
-- [Command Prompt](#data-engineering)
-- [Data Definitions](#data-governance)
-- [Databricks](#personal-achievements)
-- [DAX](#stakeholder-meetings)
-- [Exam Questions](#others) 
+- [:bulb: TIL - Today I Learned](#bulb-til---today-i-learned)
+  - [Tracking](#tracking)
+  - [Contents](#contents)
+  - [:raised\_hands: Favourites](#raised_hands-favourites)
+  - [Azure](#azure)
+  - [Command Prompt](#command-prompt)
+  - [Databricks](#databricks)
+  - [DAX](#dax)
+  - [Exam Questions](#exam-questions)
+  - [Example Datasets](#example-datasets)
+  - [Excel](#excel)
+  - [Git](#git)
+  - [HackerRank](#hackerrank)
+  - [iPython](#ipython)
+  - [Linux](#linux)
+  - [Markdown](#markdown)
+  - [mysql](#mysql)
+  - [Numpy](#numpy)
+  - [Pandas](#pandas)
+  - [Plotting](#plotting)
+    - [Best practice examples](#best-practice-examples)
+      - [Plotting directory](#plotting-directory)
+  - [Power BI](#power-bi)
+  - [Powershell](#powershell)
+  - [Python](#python)
+  - [Raspberry Pi](#raspberry-pi)
+  - [Regex Expressions](#regex-expressions)
+  - [Scripts](#scripts)
+  - [Spark](#spark)
+  - [SQL](#sql)
+  - [Useful Custom Python Functions](#useful-custom-python-functions)
+  - [VBA](#vba)
+  - [Wiki](#wiki)
+  - [Work Specific](#work-specific)
 
 ## :raised_hands: Favourites
 
@@ -97,6 +124,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 ## DAX
 
 - [Add comments to measures](/DAX/add_comments.md)
+- [Get the top N and perform calculations](/dax/get-top-n-and-perform-calculations.md)
 - [Subtract previous value](/DAX/subtract-previous-value.md)
 - [Test multiple conditions](/DAX/test-multiple-conditions.md)
 - [Using Calculate with multiple conditions](/DAX/using_calculate_multiple_conditions.md)
@@ -243,6 +271,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Replace a column value with a value from another column](Pandas/replace_value_with_value_from_column.md)
 - [Replace values in columns](/Pandas/replace_values_in_columns.md)
 - [Show duplicated columns](/Pandas/show_duplicated_columns.md)
+- [Sort dataframes by multiple columns](/Pandas/sort-dataframes-by-multiple-columns.md)
 - [Sort values in a multilevel index pivot table](/Pandas/sort-values-in-multilevel-index-pivot-tables.md)
 - [Split column headers](/Pandas/split-column-headers.md)
 - [Sum columns in a DataFrame](/Pandas/sum_columns.md)
