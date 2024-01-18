@@ -13,7 +13,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [x] 150 TILs - :calendar: 30/06/2022
 - [x] 175 TILs - :calendar: 11/08/2022
 - [x] 200 TILs - :calendar: 26/09/2022
-- [x] 225 TILs - :calendar: 18/10/2022
+- [x] 225 TILs - :calendar: 18/10/2022@git
 - [x] 250 TILs - :calendar: 12/12/2022
 - [x] 275 TILs - :calendar: 09/03/2023
 - [x] 300 TILs - :calendar: 03/07/2023
@@ -24,6 +24,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 
 - [Read data from an Azure blog storage (data lake)](/Python/read-from-azure-blob.md)
 - [Add columns to temporary dataframe views](/Pandas/add-columns-to-temporary-views.md)
+- [Copy files from DBFS using the Databricks CLI](/Databricks/copy-files-from-dbfs-using-cli.md)
 - [Convert a DataFrame to a nested dictionary](/Pandas/convert-dataframe-to-nested-dictionary.md)
 - [Check if value exists in another dataframe](/Pandas/check-if-value-exists-in-another-dataframe.md)
 - [Create dual axis charts](/Plotting/create-dual-axis-charts.md)
@@ -77,8 +78,19 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [List files in a directory](/command-prompt/list_files_in_dir.md)
 - [Uninstall all Python packages](/command-prompt/uninstall-all-python-packages.md)
 
+## Data Definitions
+
+## Data Engineering
+
+- [What are DAGs](/data-engineering/dag.md)
+- [What is Hadoop HDFS](/data-engineering/hadoop-hdfs.md)
+- [What is Hive?](/data-engineering/hive.md)
+- [REST API](/data-engineering/rest-api.md)
+- [Types of databases](/data-engineering/types-of-databases.md)
+
 ## Databricks
 
+- [Copy files from DBFS using the Databricks CLI](/Databricks/copy-files-from-dbfs-using-cli.md)
 - [Offload table to delta and recall](/Databricks/offload_table_to_delta.md)
 - [Remove widgets](/databricks/remove_widgets.md)
 - [Search for students](/Databricks/search_for_students.md)
@@ -87,6 +99,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 ## DAX
 
 - [Add comments to measures](/DAX/add_comments.md)
+- [Create a last refresh measure](/DAX/create-last-refresh-measure.md)
 - [Get the top N and perform calculations](/dax/get-top-n-and-perform-calculations.md)
 - [Subtract previous value](/DAX/subtract-previous-value.md)
 - [Test multiple conditions](/DAX/test-multiple-conditions.md)
