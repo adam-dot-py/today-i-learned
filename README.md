@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 322 entries so far!
+> :tada: There are 331 entries so far!
 
 ## Tracking
 
@@ -13,7 +13,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [x] 150 TILs - :calendar: 30/06/2022
 - [x] 175 TILs - :calendar: 11/08/2022
 - [x] 200 TILs - :calendar: 26/09/2022
-- [x] 225 TILs - :calendar: 18/10/2022@git
+- [x] 225 TILs - :calendar: 18/10/2022
 - [x] 250 TILs - :calendar: 12/12/2022
 - [x] 275 TILs - :calendar: 09/03/2023
 - [x] 300 TILs - :calendar: 03/07/2023
@@ -170,6 +170,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Check available storage](/linux/check-available-storage.md)
 - [Check which programs can be upgraded](/linux/check-which-programs-can-be-updated)
 - [Install programs from the command line](/linux/install-programs-from-command-line.md)
+- [Installing applications](/linux/installing-applications.md)
 
 ## Markdown
 
