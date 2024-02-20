@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 331 entries so far!
+> :tada: There are 333 entries so far!
 
 ## Tracking
 
@@ -35,6 +35,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Custom sort a list](Python/custom-sort-a-list.md)
 - [Dynamically reference user root](/Python/dynamically-reference-user-root.md)
 - [Fill NaN values in DataFrames](/Pandas/fill-nan-values-in-dataframes.md)
+- [Find the closest matching higher value](/Python/find-closest-match.md)
 - [Join multiple dataframes](/Python/join-multiple-dataframes.md)
 - [Lookup a value in a dictionary, like a VLOOKUP or INDEX MATCH function](/Python/lookup-value-in-a-dictionary.md)
 - [List files in a directory](/Python/list-files-in-directory.md)
@@ -336,6 +337,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Download and save files](/Python/download-and-save-files.md)
 - [Dynamically reference user root](/Python/dynamically-reference-user-root.md)
 - [Expand Nested JSON in a Pandas DataFrame](/Python/expanding_nested_json.md)
+- [Find the closest matching higher value](/Python/find-closest-match.md)
 - [Flatten nested lists](/Python/flatten_nested_lists.md)
 - [Generate dictionary keys](/Python/generate-dictionary-keys.md)
 - [Pull Survey IDs and Names from SurveyMonkey Account](Python/get_surveys_from_surveymonkey.md)
@@ -409,12 +411,13 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 ## Spark
 
 - [Add a column to a DataFrame](/Spark/add_column_to_dataframe.md)
-- [Cast a dataframe to string](/Spark/cast_dataframe_to_string.md)
-- [Convert a Pandas dataframe to a Spark dataframe](Spark/convert_pandas_to_spark.md)
+- [Cast a DataFrame to string](/Spark/cast_dataframe_to_string.md)
+- [Convert a Pandas DataFrame to a Spark dataframe](Spark/convert_pandas_to_spark.md)
 - [Create schemas](/Spark/creating_schemas.md)
 - [Drop columns](/Spark/drop_columns.md)
+- [Export csv to FileStore](/Spark/export-csv-to-filestore.md)
 - [Lookup values in a dictionary](/Spark/lookup-values-in-dictionary.md)
-- [Read a files from DBFS](/Spark/read-file-from-dbfs.md)
+- [Read a file from DBFS](/Spark/read-file-from-dbfs.md)
 - [Remove characters from column headers](/Spark/remove-characters-from-column-headers.md)
 - [Show unique values](/Spark/show_unique_values.md)
 - [Using spark.table](/Spark/using_spark_table.md)
