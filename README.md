@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 333 entries so far!
+> :tada: There are 334 entries so far!
 
 ## Tracking
 
@@ -37,6 +37,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Fill NaN values in DataFrames](/Pandas/fill-nan-values-in-dataframes.md)
 - [Find the closest matching higher value](/Python/find-closest-match.md)
 - [Join multiple dataframes](/Python/join-multiple-dataframes.md)
+- [Key Spark operations](/Spark/key-spark-operations.md) :star:
 - [Lookup a value in a dictionary, like a VLOOKUP or INDEX MATCH function](/Python/lookup-value-in-a-dictionary.md)
 - [List files in a directory](/Python/list-files-in-directory.md)
 - [Merge dataframes](/Pandas/merge_dataframes.md)
@@ -44,7 +45,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Merge dataframes and update values](/Pandas/merge_dataframes_update_values.md)
 - [Perform calculations on multilevel index pivot tables](/Pandas/perform_calculations_on_multilevel_pivot_tables.md)
 - [Perform calculations on specific rows](/Pandas/perform_calculations_using_rows.md)
-- [Pull tables from websites into Dataframes](Pandas/pull-tables-from-webpages.md)
+- [Pull tables from websites into Dataframes](Pandas/pull-tables-from-webpages.md) :star:
 - [Read html into dataframes](/Pandas/read-html-into-dataframe.md)
 - [Remove text after character](Python/remove_text_after_character.md)
 - [Remove text from number strings](/Pandas/remove-text-from-number-strings.md)
@@ -57,10 +58,10 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Test multiple conditions (DAX)](/DAX/test-multiple-conditions.md)
 - [Using bins or buckets](/Pandas/using_bins_or_buckets.md)
 - [Using class methods](/Python/using-class-methods.md)
-- [Using lambda with conditions](/Python/using_lambda_with_conditions.md)
-- [Using lambda more generally](/Python/using_lambda.md)
+- [Using lambda with conditions](/Python/using_lambda_with_conditions.md) :star:
+- [Using lambda more generally](/Python/using_lambda.md) :star:
 - [Using loc & iloc](Python/using_loc.md)
-- [Using lambda with if, elif and else conditions](/Python/using_lambda_with_conditions.md)
+- [Using lambda with if, elif and else conditions](/Python/using_lambda_with_conditions.md) :star:
 - [Using plt.xkcd (fun plots!)](/Plotting/using-plt-xkcd.md)
 
 ---
@@ -416,6 +417,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Create schemas](/Spark/creating_schemas.md)
 - [Drop columns](/Spark/drop_columns.md)
 - [Export csv to FileStore](/Spark/export-csv-to-filestore.md)
+- [Key Spark operations](/Spark/key-spark-operations.md)
 - [Lookup values in a dictionary](/Spark/lookup-values-in-dictionary.md)
 - [Read a file from DBFS](/Spark/read-file-from-dbfs.md)
 - [Remove characters from column headers](/Spark/remove-characters-from-column-headers.md)
