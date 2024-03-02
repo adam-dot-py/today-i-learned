@@ -173,6 +173,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Check which programs can be upgraded](/linux/check-which-programs-can-be-updated)
 - [Install programs from the command line](/linux/install-programs-from-command-line.md)
 - [Installing applications](/linux/installing-applications.md)
+- [Uninstall software](/linux/uninstall-software.md)
 
 ## Markdown
 
