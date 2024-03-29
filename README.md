@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 334 entries so far!
+> :tada: There are 340 entries so far!
 
 ## Tracking
 
@@ -171,8 +171,10 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 
 - [Check available storage](/linux/check-available-storage.md)
 - [Check which programs can be upgraded](/linux/check-which-programs-can-be-updated)
+- [Delete directories and files](/linux/delete-directories-and-contents.md)
 - [Install programs from the command line](/linux/install-programs-from-command-line.md)
 - [Installing applications](/linux/installing-applications.md)
+- [Read txt files in Terminal](/linux/read-txt-files-in-terminal.md)
 - [Uninstall software](/linux/uninstall-software.md)
 
 ## Markdown
@@ -268,6 +270,10 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Using rank](/Pandas/using_rank.md)
 - [Write Dataframes to Excel](/Pandas/write_dataframes_to_excel.md)
 
+## Pip
+
+- [List installed packages](/pip/list-installed-packages.md)
+
 ## Plotting
 
 ### Best practice examples
@@ -334,6 +340,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Copy files](/Python/copy-files.md)
 - [Count the number of files in a directory](Python/count_files_in_directory.md)
 - [Create a calculated column](Python/create_a_calculate_column.md)
+- [Create virtual environments](Python/create-virtual-environments.md)
 - [Create a zipped folder](Python/create-zipped-folder.md)
 - [Custom sort a list](Python/custom-sort-a-list.md)
 - [Download and save files](/Python/download-and-save-files.md)
