@@ -93,6 +93,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 ## Databricks
 
 - [Copy files from DBFS using the Databricks CLI](/Databricks/copy-files-from-dbfs-using-cli.md)
+- [Drop columns from delta tables](/Databricks/drop_columns_from_delta_tables.md)
 - [Offload table to delta and recall](/Databricks/offload_table_to_delta.md)
 - [Remove widgets](/databricks/remove_widgets.md)
 - [Search for students](/Databricks/search_for_students.md)
@@ -435,6 +436,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Select distinct on one column](/SQL/select-distinct-on-one-column.md)
 - [Show column names](/SQL/show-column-names.md)
 - [Subtract previous row](/SQL/subtract-previous-row.md)
+- [Update data in a table](/SQL/update-data-in-a-table.md)
 - [Using COALESCE clause](/SQL/using_coalesce.md)
 - [Using LAG clause](/SQL/using_lag.md)
 - [Using OVER clause](/SQL/using_over_clause.md)
