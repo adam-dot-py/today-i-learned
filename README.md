@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 351 entries so far!
+> :tada: There are 352 entries so far!
 
 ## Tracking
 
@@ -175,6 +175,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Check which programs can be upgraded](/linux/check-which-programs-can-be-updated)
 - [Delete directories and files](/linux/delete-directories-and-contents.md)
 - [Install programs from the command line](/linux/install-programs-from-command-line.md)
+- [Key Linux commands](/linux/key-linux-commands.md)
 - [Installing applications](/linux/installing-applications.md)
 - [Read txt files in Terminal](/linux/read-txt-files-in-terminal.md)
 - [Uninstall software](/linux/uninstall-software.md)
