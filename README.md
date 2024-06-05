@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 340 entries so far!
+> :tada: There are 351 entries so far!
 
 ## Tracking
 
@@ -17,7 +17,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [x] 250 TILs - :calendar: 12/12/2022
 - [x] 275 TILs - :calendar: 09/03/2023
 - [x] 300 TILs - :calendar: 03/07/2023
-- [ ] 350 TILS
+- [x] 350 TILS - :calendar: 05/06/2024
 - [ ] 400 TILS
 
 ## :raised_hands: Favourites
@@ -178,6 +178,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Installing applications](/linux/installing-applications.md)
 - [Read txt files in Terminal](/linux/read-txt-files-in-terminal.md)
 - [Uninstall software](/linux/uninstall-software.md)
+- [Using crontab](/linux/using-crontab.md)
 
 ## Markdown
 
@@ -478,6 +479,10 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [What is machine code?](/wiki/machine_code.md)
 - [What is the definition of a script?](/wiki/script.md)
 - [What is a source file?](/wiki/source_file.md)
+
+## Windows
+
+- [Scheduling tasks via the command line](/windows/scheduling-tasks-via-the-command-line.md)
 
 ## Work Specific
 
