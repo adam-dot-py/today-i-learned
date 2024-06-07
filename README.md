@@ -20,7 +20,9 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [x] 350 TILS - :calendar: 05/06/2024
 - [ ] 400 TILS
 
-## :raised_hands: Favourites
+## Table of contents
+1. [Favourites](##favourites)
+## Favourites
 
 - [Read data from an Azure blog storage (data lake)](/Python/read-from-azure-blob.md)
 - [Add columns to temporary dataframe views](/Pandas/add-columns-to-temporary-views.md)
