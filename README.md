@@ -21,8 +21,8 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [ ] 400 TILS
 
 ## Table of contents
-1. [Favourites](##favourites)
-2. [Azure](##Azure)
+1. [Favourites](#favourites)
+2. [Azure](#Azure)
 
 
 ## Favourites
