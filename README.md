@@ -22,6 +22,9 @@ This is a collection of comprehensive but small write ups of things I learn each
 
 ## Table of contents
 1. [Favourites](##favourites)
+2. [Azure](##Azure)
+
+
 ## Favourites
 
 - [Read data from an Azure blog storage (data lake)](/Python/read-from-azure-blob.md)
