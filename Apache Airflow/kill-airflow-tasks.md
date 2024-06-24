@@ -11,7 +11,7 @@ cat $AIRFLOW_HOME/airflow-webserver.pid | xargs kill
 Write an empty string to the .pid file:
 
 ```
-echo "" > $AIRFLOW_HOME/airflow-webserver
+echo "" > $AIRFLOW_HOME/airflow-webserver.pid
 ```
 
 When running **Airflow** commands, run them with the `-D`, or **daemon** argument to ensure they run as with a `pid`, like so:
