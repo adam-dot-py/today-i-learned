@@ -20,9 +20,13 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [x] 350 TILS - :calendar: 05/06/2024
 - [ ] 400 TILS
 
-## Table of contents
+## Contents
 1. [Favourites](#favourites)
-2. [Azure](#Azure)
+2. [Apache Airflow](#apache-airflow)
+3. [Azure](#Azure)
+4. [Command Prompt](/command-prompt/)
+5. [Dashboard Examples](/dashboard-examples/)
+
 
 
 ## Favourites
@@ -70,6 +74,10 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Using plt.xkcd (fun plots!)](/Plotting/using-plt-xkcd.md)
 
 ---
+
+## Apache Airflow
+
+- [Kill Airflow tasks](/Apache%20Airflow/kill-airflow-tasks.md)
 
 ## Azure
 
