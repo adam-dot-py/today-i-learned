@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 352 entries so far!
+> :tada: There are 363 entries so far!
 
 ## Tracking
 
@@ -108,6 +108,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Copy files from DBFS using the Databricks CLI](/Databricks/copy-files-from-dbfs-using-cli.md)
 - [Drop columns from delta tables](/Databricks/drop_columns_from_delta_tables.md)
 - [Offload table to delta and recall](/Databricks/offload_table_to_delta.md)
+- [Recover tables via version history and CDF (Change Data Feed)](/Databricks/recover_tables_via_version_history.md)
 - [Remove widgets](/databricks/remove_widgets.md)
 - [Search for students](/Databricks/search_for_students.md)
 - [Using widgets](/Databricks/using_widgets.md)
