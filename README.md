@@ -27,7 +27,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 4. [Command Prompt](/command-prompt/)
 5. [Dashboard Examples](/dashboard-examples/)
 
-
+---
 
 ## Favourites
 
@@ -107,6 +107,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 
 - [Copy files from DBFS using the Databricks CLI](/Databricks/copy-files-from-dbfs-using-cli.md)
 - [Drop columns from delta tables](/Databricks/drop_columns_from_delta_tables.md)
+- [Enable Change Data Feed (CDF)](/Databricks/enable_change_data_feed.md)
 - [Offload table to delta and recall](/Databricks/offload_table_to_delta.md)
 - [Recover tables via version history and CDF (Change Data Feed)](/Databricks/recover_tables_via_version_history.md)
 - [Remove widgets](/databricks/remove_widgets.md)
