@@ -9,6 +9,7 @@ exclude = set(['work-specific', 'graph_examples',
 
 for root, dirs, files in os.walk(os.getcwd()):
     dirs[:] = [d for d in dirs if d not in exclude]
+    files = [f for f in files if f not in exclude]
     total += len(files)
     
 print(f"There are {total} files so far.")
