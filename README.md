@@ -111,9 +111,11 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Enable Change Data Feed (CDF)](/Databricks/enable_change_data_feed.md)
 - [Extract JSON from a string](/Databricks/extract-json-from-string.md)
 - [Offload table to delta and recall](/Databricks/offload_table_to_delta.md)
+- [Read CSVs using SQL](/Databricks/read-csvs-using-sql.md)
 - [Recover tables via version history and CDF (Change Data Feed)](/Databricks/recover_tables_via_version_history.md)
 - [Remove widgets](/databricks/remove_widgets.md)
 - [Search for students](/Databricks/search_for_students.md)
+- [Upsert and merge](/Databricks/upsert-and-merging.md)
 - [Using widgets](/Databricks/using_widgets.md)
 
 ## DAX
@@ -296,6 +298,10 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 ## Pip
 
 - [List installed packages](/pip/list-installed-packages.md)
+
+## Polars
+
+- [Unpivot (AKA melt) dataframes](/polars/unpivot-dataframes.md)
 
 ## Plotting
 
