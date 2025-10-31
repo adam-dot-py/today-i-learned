@@ -2,7 +2,7 @@
 
 This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
 
-> :tada: There are 363 entries so far!
+> :tada: There are 373 entries so far!
 
 ## Tracking
 
