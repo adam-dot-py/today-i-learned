@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}Add Record{% endblock %}
+{% block content %}
+  <h1>Add a record</h1>
+  <form method="POST">
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name" required />
+
+    <label for="category">Category</label>
+    <select id="category" name="category" required>
+      <option value="">— select —</option>
+      <option value="alpha">Alpha</option>
+      <option value="beta">Beta</option>
+      <option value="gamma">Gamma</option>
+    </select>
+
+    <button type="submit">Save</button>
+  </form>
+{% endblock %}

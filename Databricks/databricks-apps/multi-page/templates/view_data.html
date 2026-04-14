@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}View Records{% endblock %}
+{% block content %}
+  <h1>Records</h1>
+  {% if rows %}
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Name</th>
+          <th>Category</th>
+          <th>Created at</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in rows %}
+          <tr>
+            <td>{{ row[0] }}</td>
+            <td>{{ row[1] }}</td>
+            <td>{{ row[2] }}</td>
+            <td>{{ row[3] }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% else %}
+    <p>No records found.</p>
+  {% endif %}
+{% endblock %}

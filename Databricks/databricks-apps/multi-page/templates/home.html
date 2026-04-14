@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %}
+{% block content %}
+  <h1>Welcome</h1>
+  <p>Use the navigation above to add new records or view existing ones.</p>
+  <ul>
+    <li><a href="{{ url_for('data_entry.index') }}">Add a record</a></li>
+    <li><a href="{{ url_for('view_data.index') }}">View all records</a></li>
+  </ul>
+{% endblock %}
