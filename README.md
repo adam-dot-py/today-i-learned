@@ -169,6 +169,7 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Show log](Git/show-log.md)
 - [Stage changes](/Git/stage_changes.md)
 - [Store credentials in git credential manager](/Git/store-credentials-in-git-credential-manager.md)
+- [Switch to someones branch](/Git/switch_to_someones_branch.md)
 - [Template git commit message](/Git/template-git-commit-message.md)
 - [Unstage changes](/Git/unstage-changes.md)
 - [Unstage commits](/Git/unstage-commits.md)
